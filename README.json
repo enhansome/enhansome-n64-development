@@ -461,7 +461,7 @@
             "last_commit": "2026-06-13T15:49:05Z",
             "owner": "pdaxrom",
             "repo": "N64cart",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-08-11T08:07:15Z",
             "owner": "Fast-64",
             "repo": "fast64",
-            "stars": 521
+            "stars": 522
           }
         },
         {
@@ -929,7 +929,7 @@
             "last_commit": "2026-07-26T19:04:26Z",
             "owner": "jombo23",
             "repo": "N64-Tools",
-            "stars": 332
+            "stars": 333
           }
         },
         {
@@ -1294,7 +1294,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T13:07:02Z",
+            "last_commit": "2026-08-14T08:58:35Z",
             "owner": "DragonMinded",
             "repo": "libdragon",
             "stars": 1218
@@ -1308,7 +1308,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-08T21:26:25Z",
+            "last_commit": "2026-08-13T19:58:47Z",
             "owner": "HailToDodongo",
             "repo": "tiny3d",
             "stars": 551
@@ -1439,7 +1439,7 @@
             "last_commit": "2024-02-04T10:26:16Z",
             "owner": "n64decomp",
             "repo": "sm64",
-            "stars": 8716
+            "stars": 8718
           }
         },
         {
@@ -1450,10 +1450,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-05T16:32:30Z",
+            "last_commit": "2026-08-14T11:34:04Z",
             "owner": "zeldaret",
             "repo": "oot",
-            "stars": 5474
+            "stars": 5476
           }
         },
         {
@@ -1464,7 +1464,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T22:34:26Z",
+            "last_commit": "2026-08-13T22:40:56Z",
             "owner": "zeldaret",
             "repo": "mm",
             "stars": 1700
@@ -1492,7 +1492,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T03:27:39Z",
+            "last_commit": "2026-08-14T02:18:41Z",
             "owner": "n64decomp",
             "repo": "mk64",
             "stars": 1290
@@ -1576,7 +1576,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-13T13:50:17Z",
+            "last_commit": "2026-08-14T04:32:17Z",
             "owner": "Kirby64Ret",
             "repo": "kirby64",
             "stars": 227
@@ -1618,7 +1618,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T14:26:53Z",
+            "last_commit": "2026-08-13T23:26:09Z",
             "owner": "pret",
             "repo": "pokestadium",
             "stars": 197
@@ -1649,7 +1649,7 @@
             "last_commit": "2026-08-12T22:08:18Z",
             "owner": "VetriTheRetri",
             "repo": "ssb-decomp-re",
-            "stars": 177
+            "stars": 178
           }
         },
         {
@@ -1674,10 +1674,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-04-02T23:02:12Z",
+            "last_commit": "2026-08-14T00:52:49Z",
             "owner": "LLONSIT",
             "repo": "Wave-Race-64",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -1691,7 +1691,7 @@
             "last_commit": "2026-08-11T23:22:56Z",
             "owner": "inspectredc",
             "repo": "fzerox",
-            "stars": 99
+            "stars": 100
           }
         },
         {
@@ -1702,10 +1702,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-08T01:12:54Z",
+            "last_commit": "2026-08-13T16:57:29Z",
             "owner": "ethteck",
             "repo": "pokemonsnap",
-            "stars": 98
+            "stars": 99
           }
         },
         {
@@ -1730,10 +1730,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-23T12:42:38Z",
+            "last_commit": "2026-08-13T23:21:16Z",
             "owner": "AngheloAlf",
             "repo": "drmario64",
-            "stars": 75
+            "stars": 77
           }
         },
         {
@@ -1758,7 +1758,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T08:24:11Z",
+            "last_commit": "2026-08-14T08:42:08Z",
             "owner": "Drahsid",
             "repo": "mischief-makers",
             "stars": 69
@@ -1786,7 +1786,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T14:34:12Z",
+            "last_commit": "2026-08-13T22:05:26Z",
             "owner": "mariopartyrd",
             "repo": "marioparty3",
             "stars": 63
@@ -1912,7 +1912,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T04:16:36Z",
+            "last_commit": "2026-08-14T04:12:29Z",
             "owner": "jaytheham",
             "repo": "body-harvest-decompilation",
             "stars": 37
@@ -1940,7 +1940,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T00:32:47Z",
+            "last_commit": "2026-08-13T23:24:25Z",
             "owner": "AngheloAlf",
             "repo": "puzzleleague64",
             "stars": 34
@@ -2164,7 +2164,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-31T16:45:42Z",
+            "last_commit": "2026-08-14T03:08:59Z",
             "owner": "chameleonTwistRet",
             "repo": "chameleonTwistv1.0-JP",
             "stars": 9
@@ -2479,7 +2479,7 @@
             "last_commit": "2026-07-26T19:04:26Z",
             "owner": "jombo23",
             "repo": "N64-Tools",
-            "stars": 332
+            "stars": 333
           }
         },
         {
@@ -2739,7 +2739,7 @@
             "last_commit": "2026-08-06T19:41:00Z",
             "owner": "HailToDodongo",
             "repo": "pyrite64",
-            "stars": 3228
+            "stars": 3231
           }
         },
         {
@@ -2750,10 +2750,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T10:54:38Z",
+            "last_commit": "2026-08-13T21:36:47Z",
             "owner": "ClassiCube",
             "repo": "ClassiCube",
-            "stars": 2026
+            "stars": 2027
           }
         },
         {
@@ -2792,10 +2792,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-08T22:41:10Z",
+            "last_commit": "2026-08-14T12:16:58Z",
             "owner": "Scottcjn",
             "repo": "legend-of-elya-n64",
-            "stars": 130
+            "stars": 132
           }
         },
         {
@@ -2907,7 +2907,7 @@
             "last_commit": "2025-02-02T19:34:27Z",
             "owner": "SiliconSloth",
             "repo": "Mine64",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -3641,7 +3641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:46:15.560Z",
+    "last_updated": "2026-08-14T14:40:46.392Z",
     "original_repository": "command-tab/awesome-n64-development",
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
     "enhanced_repository": "enhansome/enhansome-n64-development",
