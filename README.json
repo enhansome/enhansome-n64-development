@@ -384,7 +384,7 @@
                 "archived": false,
                 "id": 697523442,
                 "language": "Rust",
-                "last_commit": "2026-08-12T19:41:22Z",
+                "last_commit": "2026-08-19T14:05:55Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
                 "stars": 1217
@@ -1542,7 +1542,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8725
+                    "stars": 8726
                   }
                 },
                 {
@@ -1794,7 +1794,7 @@
                     "archived": false,
                     "id": 749426781,
                     "language": "Assembly",
-                    "last_commit": "2026-08-18T22:00:17Z",
+                    "last_commit": "2026-08-19T13:37:17Z",
                     "owner": "LLONSIT",
                     "repo": "Wave-Race-64",
                     "stars": 103
@@ -1989,7 +1989,7 @@
                     "archived": false,
                     "id": 614621229,
                     "language": "C",
-                    "last_commit": "2026-08-19T12:37:26Z",
+                    "last_commit": "2026-08-19T13:56:16Z",
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
                     "stars": 47
@@ -2322,7 +2322,7 @@
                     "last_commit": "2026-08-19T08:07:30Z",
                     "owner": "chameleonTwistRet",
                     "repo": "chameleonTwistv1.0-JP",
-                    "stars": 9
+                    "stars": 10
                   }
                 },
                 {
@@ -2442,7 +2442,7 @@
                     "last_commit": "2026-05-18T00:30:44Z",
                     "owner": "chameleonTwistRet",
                     "repo": "chameleonTwist2v1.0-JP",
-                    "stars": 4
+                    "stars": 5
                   }
                 },
                 {
@@ -3910,7 +3910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:40:26.465Z",
+    "last_updated": "2026-08-19T14:18:13.171Z",
     "original_repository": "command-tab/awesome-n64-development",
     "original_repository_id": 195496224,
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
