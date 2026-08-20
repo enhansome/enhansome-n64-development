@@ -320,7 +320,7 @@
                 "last_commit": "2025-02-14T21:28:44Z",
                 "owner": "simple64",
                 "repo": "simple64",
-                "stars": 1181
+                "stars": 1180
               }
             },
             {
@@ -347,7 +347,7 @@
                 "archived": false,
                 "id": 270116602,
                 "language": "C++",
-                "last_commit": "2026-08-18T21:50:37Z",
+                "last_commit": "2026-08-20T08:07:04Z",
                 "owner": "Dillonb",
                 "repo": "n64",
                 "stars": 185
@@ -384,10 +384,10 @@
                 "archived": false,
                 "id": 697523442,
                 "language": "Rust",
-                "last_commit": "2026-08-19T14:05:55Z",
+                "last_commit": "2026-08-20T12:38:18Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1217
+                "stars": 1222
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2025-05-11T08:29:57Z",
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1122
+                "stars": 1124
               }
             },
             {
@@ -623,7 +623,7 @@
                 "last_commit": "2020-04-05T23:27:06Z",
                 "owner": "jsdf",
                 "repo": "loader64",
-                "stars": 11
+                "stars": 12
               }
             }
           ],
@@ -644,7 +644,7 @@
                     "archived": false,
                     "id": 390460421,
                     "language": "Python",
-                    "last_commit": "2026-08-15T11:56:25Z",
+                    "last_commit": "2026-08-19T16:30:50Z",
                     "owner": "Fast-64",
                     "repo": "fast64",
                     "stars": 525
@@ -1392,7 +1392,7 @@
                 "last_commit": "2026-08-18T08:31:34Z",
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1223
+                "stars": 1224
               }
             },
             {
@@ -1542,7 +1542,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8726
+                    "stars": 8728
                   }
                 },
                 {
@@ -1557,7 +1557,7 @@
                     "last_commit": "2026-08-19T12:04:50Z",
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5482
+                    "stars": 5483
                   }
                 },
                 {
@@ -1572,7 +1572,7 @@
                     "last_commit": "2026-08-16T15:47:37Z",
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1705
+                    "stars": 1707
                   }
                 },
                 {
@@ -1689,7 +1689,7 @@
                     "archived": false,
                     "id": 265695457,
                     "language": "Assembly",
-                    "last_commit": "2026-08-19T01:39:03Z",
+                    "last_commit": "2026-08-20T04:08:59Z",
                     "owner": "Kirby64Ret",
                     "repo": "kirby64",
                     "stars": 228
@@ -1707,7 +1707,7 @@
                     "last_commit": "2026-08-09T22:43:13Z",
                     "owner": "zestydevy",
                     "repo": "dinosaur-planet",
-                    "stars": 218
+                    "stars": 219
                   }
                 },
                 {
@@ -1742,21 +1742,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Snowboard Kids 2",
-                  "description": "An in-progress decompilation of Snowboard Kids 2",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 864682338,
-                    "language": "C",
-                    "last_commit": "2026-08-18T14:31:54Z",
-                    "owner": "cdlewis",
-                    "repo": "snowboardkids2-decomp",
-                    "stars": 180
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Super Smash Bros.",
                   "description": "An in-progress decompilation of Super Smash Bros.",
                   "children": [],
@@ -1767,6 +1752,21 @@
                     "last_commit": "2026-08-12T22:08:18Z",
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
+                    "stars": 181
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Snowboard Kids 2",
+                  "description": "An in-progress decompilation of Snowboard Kids 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 864682338,
+                    "language": "C",
+                    "last_commit": "2026-08-18T14:31:54Z",
+                    "owner": "cdlewis",
+                    "repo": "snowboardkids2-decomp",
                     "stars": 180
                   }
                 },
@@ -1989,7 +1989,7 @@
                     "archived": false,
                     "id": 614621229,
                     "language": "C",
-                    "last_commit": "2026-08-19T13:56:16Z",
+                    "last_commit": "2026-08-20T13:41:05Z",
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
                     "stars": 47
@@ -2049,7 +2049,7 @@
                     "archived": false,
                     "id": 276809202,
                     "language": "C",
-                    "last_commit": "2026-08-19T03:02:48Z",
+                    "last_commit": "2026-08-20T10:28:38Z",
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 37
@@ -2641,7 +2641,7 @@
                 "last_commit": "2026-08-15T22:38:46Z",
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 624
+                "stars": 625
               }
             },
             {
@@ -2671,7 +2671,7 @@
                 "last_commit": "2026-08-05T10:37:28Z",
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
-                "stars": 211
+                "stars": 212
               }
             },
             {
@@ -2698,7 +2698,7 @@
                 "archived": false,
                 "id": 183968585,
                 "language": "Python",
-                "last_commit": "2026-07-21T06:07:27Z",
+                "last_commit": "2026-08-19T20:25:28Z",
                 "owner": "simonlindholm",
                 "repo": "asm-differ",
                 "stars": 166
@@ -2731,7 +2731,7 @@
                 "last_commit": "2026-08-06T12:11:31Z",
                 "owner": "Decompollaborate",
                 "repo": "spimdisasm",
-                "stars": 77
+                "stars": 78
               }
             },
             {
@@ -2945,10 +2945,10 @@
                     "archived": false,
                     "id": 28119786,
                     "language": "C",
-                    "last_commit": "2026-08-18T11:21:58Z",
+                    "last_commit": "2026-08-20T12:12:26Z",
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2033
+                    "stars": 2034
                   }
                 },
                 {
@@ -2990,7 +2990,7 @@
                     "archived": false,
                     "id": 1168838598,
                     "language": "C",
-                    "last_commit": "2026-08-14T12:16:58Z",
+                    "last_commit": "2026-08-19T16:48:31Z",
                     "owner": "Scottcjn",
                     "repo": "legend-of-elya-n64",
                     "stars": 129
@@ -3008,7 +3008,7 @@
                     "last_commit": "2024-08-17T16:49:33Z",
                     "owner": "lambertjamesd",
                     "repo": "gb64",
-                    "stars": 105
+                    "stars": 106
                   }
                 },
                 {
@@ -3113,7 +3113,7 @@
                     "last_commit": "2025-02-02T19:34:27Z",
                     "owner": "SiliconSloth",
                     "repo": "Mine64",
-                    "stars": 44
+                    "stars": 45
                   }
                 },
                 {
@@ -3910,7 +3910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:18:13.171Z",
+    "last_updated": "2026-08-20T14:21:18.804Z",
     "original_repository": "command-tab/awesome-n64-development",
     "original_repository_id": 195496224,
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
