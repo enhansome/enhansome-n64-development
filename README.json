@@ -156,7 +156,7 @@
             "last_commit": "2026-03-06T17:55:47Z",
             "owner": "anacierdem",
             "repo": "libdragon-docker",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -305,7 +305,7 @@
                 "last_commit": "2026-08-20T23:54:20Z",
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3019
+                "stars": 3021
               }
             },
             {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-21T11:04:34Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1222
+                "stars": 1224
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2026-04-10T21:02:32Z",
                 "owner": "extremscorner",
                 "repo": "not64",
-                "stars": 366
+                "stars": 367
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2025-05-11T08:29:57Z",
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1125
+                "stars": 1126
               }
             },
             {
@@ -647,7 +647,7 @@
                     "last_commit": "2026-08-21T14:16:12Z",
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 526
+                    "stars": 527
                   }
                 },
                 {
@@ -1392,7 +1392,7 @@
                 "last_commit": "2026-08-21T00:13:09Z",
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1227
+                "stars": 1230
               }
             },
             {
@@ -1407,7 +1407,7 @@
                 "last_commit": "2026-08-17T20:31:19Z",
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 554
+                "stars": 556
               }
             },
             {
@@ -1479,7 +1479,7 @@
                 "archived": false,
                 "id": 325400721,
                 "language": "C",
-                "last_commit": "2026-07-25T04:08:03Z",
+                "last_commit": "2026-08-22T12:21:10Z",
                 "owner": "matthewcpp",
                 "repo": "framework64",
                 "stars": 26
@@ -1542,7 +1542,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8731
+                    "stars": 8732
                   }
                 },
                 {
@@ -1572,7 +1572,7 @@
                     "last_commit": "2026-08-16T15:47:37Z",
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1709
+                    "stars": 1708
                   }
                 },
                 {
@@ -1602,7 +1602,7 @@
                     "last_commit": "2026-08-16T03:24:52Z",
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1291
+                    "stars": 1290
                   }
                 },
                 {
@@ -1632,7 +1632,7 @@
                     "last_commit": "2026-08-16T17:56:24Z",
                     "owner": "zeldaret",
                     "repo": "af",
-                    "stars": 291
+                    "stars": 290
                   }
                 },
                 {
@@ -1689,7 +1689,7 @@
                     "archived": false,
                     "id": 265695457,
                     "language": "Assembly",
-                    "last_commit": "2026-08-20T04:08:59Z",
+                    "last_commit": "2026-08-22T03:11:21Z",
                     "owner": "Kirby64Ret",
                     "repo": "kirby64",
                     "stars": 228
@@ -1764,7 +1764,7 @@
                     "archived": false,
                     "id": 864682338,
                     "language": "C",
-                    "last_commit": "2026-08-18T14:31:54Z",
+                    "last_commit": "2026-08-22T02:36:09Z",
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
                     "stars": 181
@@ -1824,7 +1824,7 @@
                     "archived": false,
                     "id": 275165286,
                     "language": "C",
-                    "last_commit": "2026-08-15T07:05:18Z",
+                    "last_commit": "2026-08-22T01:12:39Z",
                     "owner": "ethteck",
                     "repo": "pokemonsnap",
                     "stars": 99
@@ -1914,7 +1914,7 @@
                     "archived": false,
                     "id": 502461748,
                     "language": "C",
-                    "last_commit": "2026-08-18T03:35:14Z",
+                    "last_commit": "2026-08-22T06:55:22Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty3",
                     "stars": 63
@@ -1989,7 +1989,7 @@
                     "archived": false,
                     "id": 614621229,
                     "language": "C",
-                    "last_commit": "2026-08-21T13:21:43Z",
+                    "last_commit": "2026-08-22T01:59:38Z",
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
                     "stars": 47
@@ -2049,7 +2049,7 @@
                     "archived": false,
                     "id": 276809202,
                     "language": "C",
-                    "last_commit": "2026-08-21T11:30:53Z",
+                    "last_commit": "2026-08-22T07:08:56Z",
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 37
@@ -2668,7 +2668,7 @@
                 "archived": false,
                 "id": 172801212,
                 "language": "Python",
-                "last_commit": "2026-08-05T10:37:28Z",
+                "last_commit": "2026-08-22T13:23:24Z",
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
                 "stars": 212
@@ -2933,7 +2933,7 @@
                     "last_commit": "2026-08-20T18:03:37Z",
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3239
+                    "stars": 3237
                   }
                 },
                 {
@@ -3910,7 +3910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:19:46.977Z",
+    "last_updated": "2026-08-22T14:00:03.972Z",
     "original_repository": "command-tab/awesome-n64-development",
     "original_repository_id": 195496224,
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
