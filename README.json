@@ -252,7 +252,7 @@
             "last_commit": "2023-07-29T14:20:43Z",
             "owner": "ARM9",
             "repo": "bass",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -320,7 +320,7 @@
                 "last_commit": "2025-02-14T21:28:44Z",
                 "owner": "simple64",
                 "repo": "simple64",
-                "stars": 1180
+                "stars": 1179
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2026-07-29T17:39:57Z",
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1091
+                "stars": 1092
               }
             },
             {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-21T11:04:34Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1224
+                "stars": 1226
               }
             },
             {
@@ -578,7 +578,7 @@
                 "last_commit": "2026-05-15T23:54:26Z",
                 "owner": "buu342",
                 "repo": "N64-UNFLoader",
-                "stars": 131
+                "stars": 132
               }
             },
             {
@@ -647,7 +647,7 @@
                     "last_commit": "2026-08-21T14:16:12Z",
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 527
+                    "stars": 528
                   }
                 },
                 {
@@ -1389,7 +1389,7 @@
                 "archived": false,
                 "id": 949389,
                 "language": "C",
-                "last_commit": "2026-08-21T00:13:09Z",
+                "last_commit": "2026-08-23T00:55:48Z",
                 "owner": "DragonMinded",
                 "repo": "libdragon",
                 "stars": 1230
@@ -1479,7 +1479,7 @@
                 "archived": false,
                 "id": 325400721,
                 "language": "C",
-                "last_commit": "2026-08-22T12:21:10Z",
+                "last_commit": "2026-08-23T04:09:14Z",
                 "owner": "matthewcpp",
                 "repo": "framework64",
                 "stars": 26
@@ -1542,7 +1542,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8732
+                    "stars": 8733
                   }
                 },
                 {
@@ -1557,7 +1557,7 @@
                     "last_commit": "2026-08-19T12:04:50Z",
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5482
+                    "stars": 5484
                   }
                 },
                 {
@@ -1572,7 +1572,7 @@
                     "last_commit": "2026-08-16T15:47:37Z",
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1708
+                    "stars": 1709
                   }
                 },
                 {
@@ -1602,7 +1602,7 @@
                     "last_commit": "2026-08-16T03:24:52Z",
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1290
+                    "stars": 1291
                   }
                 },
                 {
@@ -1632,7 +1632,7 @@
                     "last_commit": "2026-08-16T17:56:24Z",
                     "owner": "zeldaret",
                     "repo": "af",
-                    "stars": 290
+                    "stars": 289
                   }
                 },
                 {
@@ -1697,21 +1697,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Dinosaur Planet",
-                  "description": "An in-progress decompilation of Dinosaur Planet",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 340927189,
-                    "language": "C",
-                    "last_commit": "2026-08-09T22:43:13Z",
-                    "owner": "zestydevy",
-                    "repo": "dinosaur-planet",
-                    "stars": 219
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Harvest Moon 64",
                   "description": "An in-progress decompilation of Harvest Moon 64",
                   "children": [],
@@ -1723,6 +1708,21 @@
                     "owner": "harvestwhisperer",
                     "repo": "hm64-decomp",
                     "stars": 216
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dinosaur Planet",
+                  "description": "An in-progress decompilation of Dinosaur Planet",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 340927189,
+                    "language": "C",
+                    "last_commit": "2026-08-09T22:43:13Z",
+                    "owner": "zestydevy",
+                    "repo": "dinosaur-planet",
+                    "stars": 215
                   }
                 },
                 {
@@ -1749,10 +1749,10 @@
                     "archived": false,
                     "id": 674504094,
                     "language": "C",
-                    "last_commit": "2026-08-12T22:08:18Z",
+                    "last_commit": "2026-08-23T08:14:37Z",
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 182
+                    "stars": 183
                   }
                 },
                 {
@@ -1764,7 +1764,7 @@
                     "archived": false,
                     "id": 864682338,
                     "language": "C",
-                    "last_commit": "2026-08-22T02:36:09Z",
+                    "last_commit": "2026-08-22T19:02:54Z",
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
                     "stars": 181
@@ -1914,7 +1914,7 @@
                     "archived": false,
                     "id": 502461748,
                     "language": "C",
-                    "last_commit": "2026-08-22T06:55:22Z",
+                    "last_commit": "2026-08-23T06:47:49Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty3",
                     "stars": 63
@@ -1989,7 +1989,7 @@
                     "archived": false,
                     "id": 614621229,
                     "language": "C",
-                    "last_commit": "2026-08-22T01:59:38Z",
+                    "last_commit": "2026-08-23T02:53:12Z",
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
                     "stars": 47
@@ -2049,7 +2049,7 @@
                     "archived": false,
                     "id": 276809202,
                     "language": "C",
-                    "last_commit": "2026-08-22T07:08:56Z",
+                    "last_commit": "2026-08-23T08:54:49Z",
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 37
@@ -2079,7 +2079,7 @@
                     "archived": false,
                     "id": 610957587,
                     "language": "C",
-                    "last_commit": "2026-08-21T03:18:19Z",
+                    "last_commit": "2026-08-23T03:13:46Z",
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
                     "stars": 35
@@ -2638,7 +2638,7 @@
                 "archived": false,
                 "id": 139763391,
                 "language": "Python",
-                "last_commit": "2026-08-15T22:38:46Z",
+                "last_commit": "2026-08-23T09:45:06Z",
                 "owner": "matt-kempster",
                 "repo": "m2c",
                 "stars": 626
@@ -2668,7 +2668,7 @@
                 "archived": false,
                 "id": 172801212,
                 "language": "Python",
-                "last_commit": "2026-08-22T13:23:24Z",
+                "last_commit": "2026-08-22T16:24:27Z",
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
                 "stars": 212
@@ -2933,7 +2933,7 @@
                     "last_commit": "2026-08-20T18:03:37Z",
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3237
+                    "stars": 3236
                   }
                 },
                 {
@@ -2948,7 +2948,7 @@
                     "last_commit": "2026-08-20T21:09:46Z",
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2034
+                    "stars": 2035
                   }
                 },
                 {
@@ -3008,7 +3008,7 @@
                     "last_commit": "2024-08-17T16:49:33Z",
                     "owner": "lambertjamesd",
                     "repo": "gb64",
-                    "stars": 106
+                    "stars": 107
                   }
                 },
                 {
@@ -3910,7 +3910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:00:03.972Z",
+    "last_updated": "2026-08-23T14:01:52.106Z",
     "original_repository": "command-tab/awesome-n64-development",
     "original_repository_id": 195496224,
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
