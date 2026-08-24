@@ -252,7 +252,7 @@
             "last_commit": "2023-07-29T14:20:43Z",
             "owner": "ARM9",
             "repo": "bass",
-            "stars": 192
+            "stars": 193
           }
         },
         {
@@ -384,10 +384,10 @@
                 "archived": false,
                 "id": 697523442,
                 "language": "Rust",
-                "last_commit": "2026-08-21T11:04:34Z",
+                "last_commit": "2026-08-24T13:19:37Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1226
+                "stars": 1228
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2026-04-10T21:02:32Z",
                 "owner": "extremscorner",
                 "repo": "not64",
-                "stars": 367
+                "stars": 368
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2025-05-11T08:29:57Z",
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1126
+                "stars": 1127
               }
             },
             {
@@ -630,6 +630,28 @@
           "description": null,
           "node_type": "group",
           "title": "Development Cartridge Loaders"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "N64FlashcartMenu",
+              "description": "Universal flashcart menu with aim to support most of the N64 flashcarts on the market",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601806108,
+                "language": "C",
+                "last_commit": "2026-08-22T18:41:12Z",
+                "owner": "Polprzewodnikowy",
+                "repo": "N64FlashcartMenu",
+                "stars": 450
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flashcart Menu Software"
         },
         {
           "children": [
@@ -1235,7 +1257,7 @@
                 "last_commit": "2026-07-27T17:47:27Z",
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 349
+                "stars": 350
               }
             },
             {
@@ -1389,7 +1411,7 @@
                 "archived": false,
                 "id": 949389,
                 "language": "C",
-                "last_commit": "2026-08-23T00:55:48Z",
+                "last_commit": "2026-08-23T23:29:00Z",
                 "owner": "DragonMinded",
                 "repo": "libdragon",
                 "stars": 1230
@@ -1407,7 +1429,7 @@
                 "last_commit": "2026-08-17T20:31:19Z",
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 556
+                "stars": 557
               }
             },
             {
@@ -1479,7 +1501,7 @@
                 "archived": false,
                 "id": 325400721,
                 "language": "C",
-                "last_commit": "2026-08-23T04:09:14Z",
+                "last_commit": "2026-08-23T15:13:23Z",
                 "owner": "matthewcpp",
                 "repo": "framework64",
                 "stars": 26
@@ -1542,7 +1564,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8733
+                    "stars": 8734
                   }
                 },
                 {
@@ -1557,7 +1579,7 @@
                     "last_commit": "2026-08-19T12:04:50Z",
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5484
+                    "stars": 5486
                   }
                 },
                 {
@@ -1647,7 +1669,7 @@
                     "last_commit": "2025-11-06T10:14:35Z",
                     "owner": "Gillou68310",
                     "repo": "DukeNukemZeroHour",
-                    "stars": 271
+                    "stars": 270
                   }
                 },
                 {
@@ -1752,7 +1774,7 @@
                     "last_commit": "2026-08-23T08:14:37Z",
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 183
+                    "stars": 184
                   }
                 },
                 {
@@ -1767,7 +1789,7 @@
                     "last_commit": "2026-08-22T19:02:54Z",
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
-                    "stars": 181
+                    "stars": 182
                   }
                 },
                 {
@@ -1794,7 +1816,7 @@
                     "archived": false,
                     "id": 749426781,
                     "language": "Assembly",
-                    "last_commit": "2026-08-21T04:08:19Z",
+                    "last_commit": "2026-08-23T21:00:18Z",
                     "owner": "LLONSIT",
                     "repo": "Wave-Race-64",
                     "stars": 103
@@ -1824,7 +1846,7 @@
                     "archived": false,
                     "id": 275165286,
                     "language": "C",
-                    "last_commit": "2026-08-22T01:12:39Z",
+                    "last_commit": "2026-08-24T04:25:04Z",
                     "owner": "ethteck",
                     "repo": "pokemonsnap",
                     "stars": 99
@@ -1892,6 +1914,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Mario Party 3",
+                  "description": "An in-progress decompilation of Mario Party 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 502461748,
+                    "language": "C",
+                    "last_commit": "2026-08-24T03:11:50Z",
+                    "owner": "mariopartyrd",
+                    "repo": "marioparty3",
+                    "stars": 64
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Space Station Silicon Valley",
                   "description": "An in-progress decompilation of Space Station Silicon Valley",
                   "children": [],
@@ -1903,21 +1940,6 @@
                     "owner": "mkst",
                     "repo": "sssv",
                     "stars": 64
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Mario Party 3",
-                  "description": "An in-progress decompilation of Mario Party 3",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 502461748,
-                    "language": "C",
-                    "last_commit": "2026-08-23T06:47:49Z",
-                    "owner": "mariopartyrd",
-                    "repo": "marioparty3",
-                    "stars": 63
                   }
                 },
                 {
@@ -1967,6 +1989,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Jet Force Gemini",
+                  "description": "An in-progress decompilation of Jet Force Gemini",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614621229,
+                    "language": "C",
+                    "last_commit": "2026-08-23T19:22:09Z",
+                    "owner": "Ryan-Myers",
+                    "repo": "Jet-Force-Gemini",
+                    "stars": 48
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Pokémon Stadium 2",
                   "description": "An in-progress decompilation of Pokémon Stadium 2",
                   "children": [],
@@ -1982,21 +2019,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Jet Force Gemini",
-                  "description": "An in-progress decompilation of Jet Force Gemini",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 614621229,
-                    "language": "C",
-                    "last_commit": "2026-08-23T02:53:12Z",
-                    "owner": "Ryan-Myers",
-                    "repo": "Jet-Force-Gemini",
-                    "stars": 47
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Rocket: Robot on Wheels",
                   "description": "An in-progress decompilation of Rocket: Robot on Wheels",
                   "children": [],
@@ -2007,7 +2029,7 @@
                     "last_commit": "2023-01-15T20:41:57Z",
                     "owner": "RocketRet",
                     "repo": "Rocket-Robot-On-Wheels",
-                    "stars": 45
+                    "stars": 46
                   }
                 },
                 {
@@ -2049,10 +2071,10 @@
                     "archived": false,
                     "id": 276809202,
                     "language": "C",
-                    "last_commit": "2026-08-23T08:54:49Z",
+                    "last_commit": "2026-08-24T09:55:19Z",
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
-                    "stars": 37
+                    "stars": 38
                   }
                 },
                 {
@@ -2079,7 +2101,7 @@
                     "archived": false,
                     "id": 610957587,
                     "language": "C",
-                    "last_commit": "2026-08-23T03:13:46Z",
+                    "last_commit": "2026-08-24T03:17:38Z",
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
                     "stars": 35
@@ -2262,7 +2284,7 @@
                     "last_commit": "2026-02-03T01:48:35Z",
                     "owner": "Rainchus",
                     "repo": "Quest64-Decomp",
-                    "stars": 16
+                    "stars": 17
                   }
                 },
                 {
@@ -2631,6 +2653,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "awesome-decompilation",
+              "description": "A curated list of awesome decompilation resources and projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129588860,
+                "language": null,
+                "last_commit": "2023-11-09T12:48:36Z",
+                "owner": "nforest",
+                "repo": "awesome-decompilation",
+                "stars": 666
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Guides and Reference"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "m2c",
               "description": "An open-source MIPS decompiler, useful for understanding and reimplementing N64 games' behavior in C",
               "children": [],
@@ -2638,7 +2682,7 @@
                 "archived": false,
                 "id": 139763391,
                 "language": "Python",
-                "last_commit": "2026-08-23T09:45:06Z",
+                "last_commit": "2026-08-23T23:46:27Z",
                 "owner": "matt-kempster",
                 "repo": "m2c",
                 "stars": 626
@@ -2671,7 +2715,7 @@
                 "last_commit": "2026-08-22T16:24:27Z",
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
-                "stars": 212
+                "stars": 213
               }
             },
             {
@@ -2819,7 +2863,7 @@
                 "last_commit": "2025-07-11T20:55:28Z",
                 "owner": "Hydr8gon",
                 "repo": "sodium64",
-                "stars": 324
+                "stars": 325
               }
             },
             {
@@ -2933,7 +2977,7 @@
                     "last_commit": "2026-08-20T18:03:37Z",
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3236
+                    "stars": 3240
                   }
                 },
                 {
@@ -2948,7 +2992,7 @@
                     "last_commit": "2026-08-20T21:09:46Z",
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2035
+                    "stars": 2038
                   }
                 },
                 {
@@ -3910,7 +3954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:01:52.106Z",
+    "last_updated": "2026-08-24T14:23:47.594Z",
     "original_repository": "command-tab/awesome-n64-development",
     "original_repository_id": 195496224,
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
