@@ -347,7 +347,7 @@
                 "archived": false,
                 "id": 270116602,
                 "language": "C++",
-                "last_commit": "2026-08-20T08:07:04Z",
+                "last_commit": "2026-08-25T13:13:17Z",
                 "owner": "Dillonb",
                 "repo": "n64",
                 "stars": 185
@@ -1564,7 +1564,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8736
+                    "stars": 8737
                   }
                 },
                 {
@@ -1579,7 +1579,7 @@
                     "last_commit": "2026-08-19T12:04:50Z",
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5486
+                    "stars": 5487
                   }
                 },
                 {
@@ -1711,7 +1711,7 @@
                     "archived": false,
                     "id": 265695457,
                     "language": "Assembly",
-                    "last_commit": "2026-08-25T00:37:45Z",
+                    "last_commit": "2026-08-25T12:22:19Z",
                     "owner": "Kirby64Ret",
                     "repo": "kirby64",
                     "stars": 228
@@ -1759,7 +1759,7 @@
                     "last_commit": "2026-08-25T00:52:30Z",
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 206
+                    "stars": 215
                   }
                 },
                 {
@@ -2071,7 +2071,7 @@
                     "archived": false,
                     "id": 276809202,
                     "language": "C",
-                    "last_commit": "2026-08-25T06:09:39Z",
+                    "last_commit": "2026-08-25T08:26:14Z",
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 38
@@ -2101,7 +2101,7 @@
                     "archived": false,
                     "id": 610957587,
                     "language": "C",
-                    "last_commit": "2026-08-25T01:10:38Z",
+                    "last_commit": "2026-08-25T12:57:05Z",
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
                     "stars": 35
@@ -2742,7 +2742,7 @@
                 "archived": false,
                 "id": 183968585,
                 "language": "Python",
-                "last_commit": "2026-08-19T20:25:28Z",
+                "last_commit": "2026-08-25T14:09:40Z",
                 "owner": "simonlindholm",
                 "repo": "asm-differ",
                 "stars": 166
@@ -2989,10 +2989,10 @@
                     "archived": false,
                     "id": 28119786,
                     "language": "C",
-                    "last_commit": "2026-08-20T21:09:46Z",
+                    "last_commit": "2026-08-25T10:09:43Z",
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2037
+                    "stars": 2038
                   }
                 },
                 {
@@ -3954,7 +3954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:04.697Z",
+    "last_updated": "2026-08-25T14:29:08.842Z",
     "original_repository": "command-tab/awesome-n64-development",
     "original_repository_id": 195496224,
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
