@@ -305,7 +305,7 @@
                 "last_commit": "2026-08-20T23:54:20Z",
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3021
+                "stars": 3025
               }
             },
             {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-24T13:19:37Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1228
+                "stars": 1230
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2026-04-10T21:02:32Z",
                 "owner": "extremscorner",
                 "repo": "not64",
-                "stars": 368
+                "stars": 369
               }
             },
             {
@@ -1411,7 +1411,7 @@
                 "archived": false,
                 "id": 949389,
                 "language": "C",
-                "last_commit": "2026-08-23T23:29:00Z",
+                "last_commit": "2026-08-24T22:46:10Z",
                 "owner": "DragonMinded",
                 "repo": "libdragon",
                 "stars": 1230
@@ -1564,7 +1564,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8734
+                    "stars": 8736
                   }
                 },
                 {
@@ -1711,7 +1711,7 @@
                     "archived": false,
                     "id": 265695457,
                     "language": "Assembly",
-                    "last_commit": "2026-08-22T03:11:21Z",
+                    "last_commit": "2026-08-25T00:37:45Z",
                     "owner": "Kirby64Ret",
                     "repo": "kirby64",
                     "stars": 228
@@ -1749,6 +1749,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Super Smash Bros.",
+                  "description": "An in-progress decompilation of Super Smash Bros.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 674504094,
+                    "language": "C",
+                    "last_commit": "2026-08-25T00:52:30Z",
+                    "owner": "VetriTheRetri",
+                    "repo": "ssb-decomp-re",
+                    "stars": 206
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Pokémon Stadium",
                   "description": "An in-progress decompilation of Pokémon Stadium",
                   "children": [],
@@ -1760,21 +1775,6 @@
                     "owner": "pret",
                     "repo": "pokestadium",
                     "stars": 198
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Super Smash Bros.",
-                  "description": "An in-progress decompilation of Super Smash Bros.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 674504094,
-                    "language": "C",
-                    "last_commit": "2026-08-23T08:14:37Z",
-                    "owner": "VetriTheRetri",
-                    "repo": "ssb-decomp-re",
-                    "stars": 184
                   }
                 },
                 {
@@ -1834,7 +1834,7 @@
                     "last_commit": "2026-08-11T23:22:56Z",
                     "owner": "inspectredc",
                     "repo": "fzerox",
-                    "stars": 101
+                    "stars": 102
                   }
                 },
                 {
@@ -1894,7 +1894,7 @@
                     "last_commit": "2026-06-28T16:57:50Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty",
-                    "stars": 75
+                    "stars": 76
                   }
                 },
                 {
@@ -1921,7 +1921,7 @@
                     "archived": false,
                     "id": 502461748,
                     "language": "C",
-                    "last_commit": "2026-08-24T03:11:50Z",
+                    "last_commit": "2026-08-25T05:17:17Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty3",
                     "stars": 64
@@ -1999,7 +1999,7 @@
                     "last_commit": "2026-08-23T19:22:09Z",
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
-                    "stars": 48
+                    "stars": 49
                   }
                 },
                 {
@@ -2071,7 +2071,7 @@
                     "archived": false,
                     "id": 276809202,
                     "language": "C",
-                    "last_commit": "2026-08-24T09:55:19Z",
+                    "last_commit": "2026-08-25T06:09:39Z",
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 38
@@ -2101,7 +2101,7 @@
                     "archived": false,
                     "id": 610957587,
                     "language": "C",
-                    "last_commit": "2026-08-24T03:17:38Z",
+                    "last_commit": "2026-08-25T01:10:38Z",
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
                     "stars": 35
@@ -2359,7 +2359,7 @@
                     "last_commit": "2026-06-28T12:27:21Z",
                     "owner": "klorfmorf",
                     "repo": "mnsg",
-                    "stars": 8
+                    "stars": 9
                   }
                 },
                 {
@@ -2992,7 +2992,7 @@
                     "last_commit": "2026-08-20T21:09:46Z",
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2038
+                    "stars": 2037
                   }
                 },
                 {
@@ -3127,7 +3127,7 @@
                     "last_commit": "2024-11-06T05:54:18Z",
                     "owner": "Ryzee119",
                     "repo": "n64_controller_test",
-                    "stars": 69
+                    "stars": 70
                   }
                 },
                 {
@@ -3954,7 +3954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:50:21.703Z",
+    "last_updated": "2026-08-25T06:14:04.697Z",
     "original_repository": "command-tab/awesome-n64-development",
     "original_repository_id": 195496224,
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
