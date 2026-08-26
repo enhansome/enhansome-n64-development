@@ -305,7 +305,7 @@
                 "last_commit": "2026-08-20T23:54:20Z",
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3025
+                "stars": 3026
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2026-07-29T17:39:57Z",
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1092
+                "stars": 1093
               }
             },
             {
@@ -384,7 +384,7 @@
                 "archived": false,
                 "id": 697523442,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:19:37Z",
+                "last_commit": "2026-08-26T13:46:21Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
                 "stars": 1230
@@ -563,7 +563,7 @@
                 "last_commit": "2025-05-11T08:29:57Z",
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1127
+                "stars": 1128
               }
             },
             {
@@ -645,7 +645,7 @@
                 "last_commit": "2026-08-22T18:41:12Z",
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
-                "stars": 450
+                "stars": 452
               }
             }
           ],
@@ -1411,10 +1411,10 @@
                 "archived": false,
                 "id": 949389,
                 "language": "C",
-                "last_commit": "2026-08-24T22:46:10Z",
+                "last_commit": "2026-08-26T00:29:19Z",
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1230
+                "stars": 1231
               }
             },
             {
@@ -1426,10 +1426,10 @@
                 "archived": false,
                 "id": 768839627,
                 "language": "C++",
-                "last_commit": "2026-08-17T20:31:19Z",
+                "last_commit": "2026-08-25T22:36:16Z",
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 557
+                "stars": 558
               }
             },
             {
@@ -1564,7 +1564,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8737
+                    "stars": 8739
                   }
                 },
                 {
@@ -1579,7 +1579,7 @@
                     "last_commit": "2026-08-19T12:04:50Z",
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5487
+                    "stars": 5488
                   }
                 },
                 {
@@ -1591,10 +1591,10 @@
                     "archived": false,
                     "id": 247875852,
                     "language": "C",
-                    "last_commit": "2026-08-16T15:47:37Z",
+                    "last_commit": "2026-08-26T02:56:01Z",
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1709
+                    "stars": 1710
                   }
                 },
                 {
@@ -1606,7 +1606,7 @@
                     "archived": false,
                     "id": 287151133,
                     "language": "C",
-                    "last_commit": "2026-07-21T04:25:55Z",
+                    "last_commit": "2026-08-25T17:02:23Z",
                     "owner": "pmret",
                     "repo": "papermario",
                     "stars": 1601
@@ -1624,7 +1624,7 @@
                     "last_commit": "2026-08-16T03:24:52Z",
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1291
+                    "stars": 1292
                   }
                 },
                 {
@@ -1704,6 +1704,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Super Smash Bros.",
+                  "description": "An in-progress decompilation of Super Smash Bros.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 674504094,
+                    "language": "C",
+                    "last_commit": "2026-08-25T00:52:30Z",
+                    "owner": "VetriTheRetri",
+                    "repo": "ssb-decomp-re",
+                    "stars": 234
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Kirby 64: The Crystal Shards",
                   "description": "An in-progress decompilation of Kirby 64: The Crystal Shards",
                   "children": [],
@@ -1711,7 +1726,7 @@
                     "archived": false,
                     "id": 265695457,
                     "language": "Assembly",
-                    "last_commit": "2026-08-25T12:22:19Z",
+                    "last_commit": "2026-08-26T01:44:24Z",
                     "owner": "Kirby64Ret",
                     "repo": "kirby64",
                     "stars": 228
@@ -1749,21 +1764,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Super Smash Bros.",
-                  "description": "An in-progress decompilation of Super Smash Bros.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 674504094,
-                    "language": "C",
-                    "last_commit": "2026-08-25T00:52:30Z",
-                    "owner": "VetriTheRetri",
-                    "repo": "ssb-decomp-re",
-                    "stars": 215
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Pokémon Stadium",
                   "description": "An in-progress decompilation of Pokémon Stadium",
                   "children": [],
@@ -1789,7 +1789,7 @@
                     "last_commit": "2026-08-22T19:02:54Z",
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
-                    "stars": 182
+                    "stars": 183
                   }
                 },
                 {
@@ -1804,7 +1804,7 @@
                     "last_commit": "2025-11-29T22:55:36Z",
                     "owner": "Mr-Wiseguy",
                     "repo": "banjo-tooie",
-                    "stars": 135
+                    "stars": 136
                   }
                 },
                 {
@@ -1819,7 +1819,7 @@
                     "last_commit": "2026-08-23T21:00:18Z",
                     "owner": "LLONSIT",
                     "repo": "Wave-Race-64",
-                    "stars": 103
+                    "stars": 104
                   }
                 },
                 {
@@ -1996,7 +1996,7 @@
                     "archived": false,
                     "id": 614621229,
                     "language": "C",
-                    "last_commit": "2026-08-23T19:22:09Z",
+                    "last_commit": "2026-08-25T18:42:35Z",
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
                     "stars": 49
@@ -2034,6 +2034,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Blast Corps",
+                  "description": "An in-progress decompilation of Blast Corps",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 370996165,
+                    "language": "C",
+                    "last_commit": "2021-12-28T13:05:11Z",
+                    "owner": "retroplastic",
+                    "repo": "blastcorps",
+                    "stars": 40
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Aidyn Chronicles",
                   "description": "An in-progress decompilation of Aidyn Chronicles",
                   "children": [],
@@ -2049,21 +2064,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Blast Corps",
-                  "description": "An in-progress decompilation of Blast Corps",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 370996165,
-                    "language": "C",
-                    "last_commit": "2021-12-28T13:05:11Z",
-                    "owner": "retroplastic",
-                    "repo": "blastcorps",
-                    "stars": 39
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Body Harvest",
                   "description": "An in-progress decompilation of Body Harvest in D (see also DeltaniumIndustries/BodyHarvestDecomp)",
                   "children": [],
@@ -2071,7 +2071,7 @@
                     "archived": false,
                     "id": 276809202,
                     "language": "C",
-                    "last_commit": "2026-08-25T08:26:14Z",
+                    "last_commit": "2026-08-26T05:32:15Z",
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 38
@@ -2101,7 +2101,7 @@
                     "archived": false,
                     "id": 610957587,
                     "language": "C",
-                    "last_commit": "2026-08-25T12:57:05Z",
+                    "last_commit": "2026-08-26T01:22:46Z",
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
                     "stars": 35
@@ -2977,7 +2977,7 @@
                     "last_commit": "2026-08-20T18:03:37Z",
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3240
+                    "stars": 3239
                   }
                 },
                 {
@@ -2989,10 +2989,10 @@
                     "archived": false,
                     "id": 28119786,
                     "language": "C",
-                    "last_commit": "2026-08-25T10:09:43Z",
+                    "last_commit": "2026-08-25T21:03:51Z",
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2038
+                    "stars": 2039
                   }
                 },
                 {
@@ -3954,7 +3954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:29:08.842Z",
+    "last_updated": "2026-08-26T14:28:26.599Z",
     "original_repository": "command-tab/awesome-n64-development",
     "original_repository_id": 195496224,
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
