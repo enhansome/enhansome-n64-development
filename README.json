@@ -335,7 +335,7 @@
                 "last_commit": "2026-07-29T17:39:57Z",
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1093
+                "stars": 1094
               }
             },
             {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-26T13:46:21Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1231
+                "stars": 1232
               }
             },
             {
@@ -669,7 +669,7 @@
                     "last_commit": "2026-08-21T14:16:12Z",
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 529
+                    "stars": 530
                   }
                 },
                 {
@@ -1414,7 +1414,7 @@
                 "last_commit": "2026-08-26T00:29:19Z",
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1231
+                "stars": 1232
               }
             },
             {
@@ -1579,7 +1579,7 @@
                     "last_commit": "2026-08-19T12:04:50Z",
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5488
+                    "stars": 5487
                   }
                 },
                 {
@@ -1594,7 +1594,7 @@
                     "last_commit": "2026-08-27T00:15:37Z",
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1710
+                    "stars": 1709
                   }
                 },
                 {
@@ -1689,21 +1689,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Doom 64",
-                  "description": "A complete decompilation of Doom 64",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 313839713,
-                    "language": "C",
-                    "last_commit": "2025-05-30T05:04:00Z",
-                    "owner": "Erick194",
-                    "repo": "DOOM64-RE",
-                    "stars": 235
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Super Smash Bros.",
                   "description": "An in-progress decompilation of Super Smash Bros.",
                   "children": [],
@@ -1714,6 +1699,21 @@
                     "last_commit": "2026-08-25T00:52:30Z",
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
+                    "stars": 237
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Doom 64",
+                  "description": "A complete decompilation of Doom 64",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 313839713,
+                    "language": "C",
+                    "last_commit": "2025-05-30T05:04:00Z",
+                    "owner": "Erick194",
+                    "repo": "DOOM64-RE",
                     "stars": 235
                   }
                 },
@@ -1786,10 +1786,10 @@
                     "archived": false,
                     "id": 864682338,
                     "language": "C",
-                    "last_commit": "2026-08-22T19:02:54Z",
+                    "last_commit": "2026-08-27T19:52:04Z",
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
-                    "stars": 183
+                    "stars": 184
                   }
                 },
                 {
@@ -1996,7 +1996,7 @@
                     "archived": false,
                     "id": 614621229,
                     "language": "C",
-                    "last_commit": "2026-08-25T18:42:35Z",
+                    "last_commit": "2026-08-27T15:13:37Z",
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
                     "stars": 50
@@ -2014,7 +2014,7 @@
                     "last_commit": "2026-07-10T15:49:57Z",
                     "owner": "pret",
                     "repo": "pokestadiumgs",
-                    "stars": 48
+                    "stars": 49
                   }
                 },
                 {
@@ -2071,10 +2071,10 @@
                     "archived": false,
                     "id": 276809202,
                     "language": "C",
-                    "last_commit": "2026-08-26T20:22:12Z",
+                    "last_commit": "2026-08-27T12:39:57Z",
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
-                    "stars": 38
+                    "stars": 39
                   }
                 },
                 {
@@ -2685,7 +2685,7 @@
                 "last_commit": "2026-08-27T08:04:32Z",
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 627
+                "stars": 628
               }
             },
             {
@@ -2715,7 +2715,7 @@
                 "last_commit": "2026-08-22T16:24:27Z",
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
-                "stars": 213
+                "stars": 214
               }
             },
             {
@@ -2790,7 +2790,7 @@
                 "last_commit": "2023-03-27T17:44:16Z",
                 "owner": "shygoo",
                 "repo": "n64sym",
-                "stars": 42
+                "stars": 43
               }
             },
             {
@@ -2977,7 +2977,7 @@
                     "last_commit": "2026-08-20T18:03:37Z",
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3239
+                    "stars": 3238
                   }
                 },
                 {
@@ -2989,7 +2989,7 @@
                     "archived": false,
                     "id": 28119786,
                     "language": "C",
-                    "last_commit": "2026-08-25T21:03:51Z",
+                    "last_commit": "2026-08-27T21:14:42Z",
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
                     "stars": 2039
@@ -3037,7 +3037,7 @@
                     "last_commit": "2026-08-19T16:48:31Z",
                     "owner": "Scottcjn",
                     "repo": "legend-of-elya-n64",
-                    "stars": 129
+                    "stars": 128
                   }
                 },
                 {
@@ -3954,7 +3954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:31.295Z",
+    "last_updated": "2026-08-27T23:13:55.364Z",
     "original_repository_info": {
       "archived": false,
       "id": 195496224,
