@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-26T13:46:21Z",
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1230
+                "stars": 1231
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2025-05-11T08:29:57Z",
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1128
+                "stars": 1131
               }
             },
             {
@@ -642,10 +642,10 @@
                 "archived": false,
                 "id": 601806108,
                 "language": "C",
-                "last_commit": "2026-08-22T18:41:12Z",
+                "last_commit": "2026-08-26T21:19:14Z",
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
-                "stars": 452
+                "stars": 454
               }
             }
           ],
@@ -669,7 +669,7 @@
                     "last_commit": "2026-08-21T14:16:12Z",
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 528
+                    "stars": 529
                   }
                 },
                 {
@@ -1257,7 +1257,7 @@
                 "last_commit": "2026-07-27T17:47:27Z",
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 351
+                "stars": 352
               }
             },
             {
@@ -1564,7 +1564,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8739
+                    "stars": 8736
                   }
                 },
                 {
@@ -1591,7 +1591,7 @@
                     "archived": false,
                     "id": 247875852,
                     "language": "C",
-                    "last_commit": "2026-08-26T02:56:01Z",
+                    "last_commit": "2026-08-27T00:15:37Z",
                     "owner": "zeldaret",
                     "repo": "mm",
                     "stars": 1710
@@ -1624,7 +1624,7 @@
                     "last_commit": "2026-08-16T03:24:52Z",
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1292
+                    "stars": 1293
                   }
                 },
                 {
@@ -1714,7 +1714,7 @@
                     "last_commit": "2026-08-25T00:52:30Z",
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 234
+                    "stars": 235
                   }
                 },
                 {
@@ -1909,7 +1909,7 @@
                     "last_commit": "2026-08-16T01:57:03Z",
                     "owner": "Drahsid",
                     "repo": "mischief-makers",
-                    "stars": 70
+                    "stars": 71
                   }
                 },
                 {
@@ -1921,7 +1921,7 @@
                     "archived": false,
                     "id": 502461748,
                     "language": "C",
-                    "last_commit": "2026-08-25T05:17:17Z",
+                    "last_commit": "2026-08-27T00:40:20Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty3",
                     "stars": 64
@@ -1936,7 +1936,7 @@
                     "archived": false,
                     "id": 338258341,
                     "language": "C",
-                    "last_commit": "2026-08-10T20:18:46Z",
+                    "last_commit": "2026-08-26T20:06:30Z",
                     "owner": "mkst",
                     "repo": "sssv",
                     "stars": 64
@@ -1999,7 +1999,7 @@
                     "last_commit": "2026-08-25T18:42:35Z",
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
-                    "stars": 49
+                    "stars": 50
                   }
                 },
                 {
@@ -2071,7 +2071,7 @@
                     "archived": false,
                     "id": 276809202,
                     "language": "C",
-                    "last_commit": "2026-08-26T05:32:15Z",
+                    "last_commit": "2026-08-26T20:22:12Z",
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 38
@@ -2682,10 +2682,10 @@
                 "archived": false,
                 "id": 139763391,
                 "language": "Python",
-                "last_commit": "2026-08-23T23:46:27Z",
+                "last_commit": "2026-08-27T08:04:32Z",
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 626
+                "stars": 627
               }
             },
             {
@@ -3037,7 +3037,7 @@
                     "last_commit": "2026-08-19T16:48:31Z",
                     "owner": "Scottcjn",
                     "repo": "legend-of-elya-n64",
-                    "stars": 130
+                    "stars": 129
                   }
                 },
                 {
@@ -3954,9 +3954,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:28:26.599Z",
-    "original_repository": "command-tab/awesome-n64-development",
-    "original_repository_id": 195496224,
+    "last_updated": "2026-08-27T11:55:31.295Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 195496224,
+      "language": "Python",
+      "last_commit": "2026-07-12T17:54:11Z",
+      "owner": "command-tab",
+      "repo": "awesome-n64-development",
+      "stars": 574
+    },
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
     "enhanced_repository": "enhansome/enhansome-n64-development",
     "enhanced_repository_description": null,
