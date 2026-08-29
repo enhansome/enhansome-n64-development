@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cycle-Accurate Nintendo 64 Emulator",
+            "homepage": null,
             "id": 9182531,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-26T02:38:32Z",
+            "open_issues": 64,
             "owner": "n64dev",
             "repo": "cen64",
-            "stars": 842
+            "stars": 842,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nintendo 64 emulator (written in Rust)",
+            "homepage": null,
             "id": 136899406,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-02T00:39:09Z",
+            "open_issues": 6,
             "owner": "rasky",
             "repo": "r64emu",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -42,12 +52,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gameboy Emulator for N64 using Transfer Pak.  Actual emulator logic largely written by https://github.com/koenk/gbc.  Runs on https://github.com/DragonMinded/libdragon",
+            "homepage": null,
             "id": 146741563,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-12T20:52:52Z",
+            "open_issues": 20,
             "owner": "joeldipops",
             "repo": "TransferBoy",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "libdragon",
+              "n64",
+              "n64-development"
+            ]
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -58,12 +77,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "64DD Homebrews and other things",
+            "homepage": null,
             "id": 26373269,
             "language": "C",
+            "license": null,
             "last_commit": "2020-08-11T22:14:51Z",
+            "open_issues": 0,
             "owner": "LuigiBlood",
             "repo": "64dd",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "64dd",
+              "disk",
+              "n64"
+            ]
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -74,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Schematics for the Nintendo 64 Disk Drive (N64DD)",
+            "homepage": null,
             "id": 287104840,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2020-08-20T21:56:12Z",
+            "open_issues": 0,
             "owner": "ChrisPVille",
             "repo": "64dd-schematics",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         }
@@ -96,12 +129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A (free) open-source N64 development toolchain.",
+            "homepage": null,
             "id": 39669629,
             "language": "C",
+            "license": "LGPL-3.0",
             "last_commit": "2022-10-07T15:07:12Z",
+            "open_issues": 11,
             "owner": "tj90241",
             "repo": "n64chain",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -112,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "N64 development tools",
+            "homepage": null,
             "id": 58239093,
             "language": "C",
+            "license": null,
             "last_commit": "2026-06-16T14:51:12Z",
+            "open_issues": 4,
             "owner": "glankk",
             "repo": "n64",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -128,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A libultra SDK for the modern era",
+            "homepage": null,
             "id": 257426368,
             "language": "C",
+            "license": null,
             "last_commit": "2024-01-12T18:01:58Z",
+            "open_issues": 0,
             "owner": "ModernN64SDKArchives",
             "repo": "n64sdkmod",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -144,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile N64 code using the official SDK on Unix",
+            "homepage": null,
             "id": 125797841,
             "language": null,
+            "license": null,
             "last_commit": "2018-10-16T03:53:41Z",
+            "open_issues": 1,
             "owner": "trhodeos",
             "repo": "modern-n64sdk",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -160,12 +213,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker container for easy development with DragonMinded libdragon.",
+            "homepage": null,
             "id": 220917802,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-06T17:55:47Z",
+            "open_issues": 12,
             "owner": "anacierdem",
             "repo": "libdragon-docker",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "docker",
+              "libdragon",
+              "mips",
+              "mips-assembly",
+              "n64",
+              "nintendo",
+              "nintendo-64",
+              "nintendo-hacking",
+              "nintendo64",
+              "rdp",
+              "rsp"
+            ]
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -176,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repo automatically generates the MIPS64 toolchain to allow cross compilation for the N64. The binaries can be downloaded as part of other build scripts which saves time (at least 30 minutes) setting up a developer environment in order to build N64 libraries such as libdragon.",
+            "homepage": null,
             "id": 122356882,
             "language": "Dockerfile",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-27T02:04:57Z",
+            "open_issues": 2,
             "owner": "n64-tools",
             "repo": "gcc-toolchain-mips64",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -192,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Dockerized N64 toolchain based on modern-n64sdk",
+            "homepage": null,
             "id": 165177174,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-01-25T02:46:29Z",
+            "open_issues": 2,
             "owner": "Mr-Pnut",
             "repo": "portable-n64-toolchain",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -208,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS N64 dev formulae",
+            "homepage": null,
             "id": 263187438,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2021-12-29T15:57:06Z",
+            "open_issues": 4,
             "owner": "tehzz",
             "repo": "homebrew-n64-dev",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         }
@@ -230,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An assembler for various ARM and MIPS platforms. Builds available at http://buildbot.orphis.net/armips/",
+            "homepage": null,
             "id": 13342634,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-01T13:20:56Z",
+            "open_issues": 31,
             "owner": "Kingcom",
             "repo": "armips",
-            "stars": 411
+            "stars": 411,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -246,12 +336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Assembler for MSP430, dsPIC, ARM, MIPS, 65xx, 68000, 8051/8052, Atmel AVR8, and others.",
+            "homepage": "http://www.mikekohn.net/micro/naken_asm.php",
             "id": 17110122,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-30T23:57:18Z",
+            "open_issues": 14,
             "owner": "mikeakohn",
             "repo": "naken_asm",
-            "stars": 340
+            "stars": 340,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -262,12 +357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fork of byuu's bass assembler",
+            "homepage": null,
             "id": 26452133,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-07-29T14:20:43Z",
+            "open_issues": 14,
             "owner": "ARM9",
             "repo": "bass",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -278,12 +378,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MIPS R4300i assembler in Lua",
+            "homepage": null,
             "id": 46681340,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-04-28T19:40:11Z",
+            "open_issues": 0,
             "owner": "notwa",
             "repo": "lips",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "assembler",
+              "mips",
+              "mips-assembler",
+              "n64",
+              "r4300i",
+              "romhacking"
+            ]
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -294,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Interactive Assembler For N64",
+            "homepage": null,
             "id": 166635470,
             "language": "C",
+            "license": null,
             "last_commit": "2019-04-02T04:20:26Z",
+            "open_issues": 0,
             "owner": "jbendtsen",
             "repo": "screwaround64",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         }
@@ -318,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N64 Emulator",
+                "homepage": "http://www.pj64-emu.com/",
                 "id": 26941088,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-20T23:54:20Z",
+                "open_issues": 274,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3027
+                "stars": 3027,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -334,12 +456,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Accurate N64 Emulator",
+                "homepage": null,
                 "id": 168172390,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-14T21:28:44Z",
+                "open_issues": 45,
                 "owner": "simple64",
                 "repo": "simple64",
-                "stars": 1179
+                "stars": 1179,
+                "topics": [
+                  "emulation",
+                  "n64"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -350,12 +480,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rosalie's Mupen GUI",
+                "homepage": null,
                 "id": 294961602,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-29T17:39:57Z",
+                "open_issues": 135,
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1095
+                "stars": 1096,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -366,12 +501,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "experimental low-level n64 emulator",
+                "homepage": null,
                 "id": 270116602,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-25T13:13:17Z",
+                "open_issues": 7,
                 "owner": "Dillonb",
                 "repo": "n64",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "emulation",
+                  "emulator",
+                  "n64"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -382,12 +526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game agnostic N64 ModLoader. Uses Mupen64Plus for emulation.",
+                "homepage": null,
                 "id": 197218071,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-06T02:21:29Z",
+                "open_issues": 7,
                 "owner": "hylian-modding",
                 "repo": "ModLoader64",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -405,12 +554,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Highly compatible N64 emulator",
+                "homepage": "https://gopher64.com",
                 "id": 697523442,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T13:46:21Z",
+                "open_issues": 15,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1232
+                "stars": 1232,
+                "topics": [
+                  "emulation",
+                  "emulator",
+                  "game",
+                  "n64",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -421,12 +581,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N64 Emulator written in C#",
+                "homepage": null,
                 "id": 164715036,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-02-14T21:11:48Z",
+                "open_issues": 9,
                 "owner": "bdragoncore",
                 "repo": "cor64",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "c-sharp",
+                  "dotnet",
+                  "dotnet-core",
+                  "dotnetcore",
+                  "emulation",
+                  "emulator",
+                  "glfw3",
+                  "interpreter",
+                  "mips",
+                  "mips-assembler",
+                  "mips-assembly",
+                  "msil-compiler",
+                  "n64",
+                  "nintendo64",
+                  "recompilation",
+                  "skiasharp",
+                  "testing",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -437,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental Nintendo 64 emulator",
+                "homepage": "https://gadolinium.dev",
                 "id": 750721432,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-01-30T10:57:16Z",
+                "open_issues": 0,
                 "owner": "mehmetpeker1",
                 "repo": "Kaizen",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -460,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle-Accurate Nintendo 64 Emulator",
+                "homepage": null,
                 "id": 9182531,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-10-26T02:38:32Z",
+                "open_issues": 64,
                 "owner": "n64dev",
                 "repo": "cen64",
-                "stars": 842
+                "stars": 842,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -476,12 +670,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental modification of Mupen64GC using devkitRice.",
+                "homepage": null,
                 "id": 30281461,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-04-10T21:02:32Z",
+                "open_issues": 1,
                 "owner": "extremscorner",
                 "repo": "not64",
-                "stars": 370
+                "stars": 370,
+                "topics": [
+                  "emulator",
+                  "gamecube",
+                  "homebrew",
+                  "nintendo-64",
+                  "wii"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -492,12 +697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nintendo 64 emulator (written in Rust)",
+                "homepage": null,
                 "id": 136899406,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-02T00:39:09Z",
+                "open_issues": 6,
                 "owner": "rasky",
                 "repo": "r64emu",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -519,12 +729,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RP2040 N64 cartridge",
+            "homepage": null,
             "id": 520346362,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-13T15:49:05Z",
+            "open_issues": 10,
             "owner": "pdaxrom",
             "repo": "N64cart",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "cartridge",
+              "firmware",
+              "homebrew",
+              "n64",
+              "nintendo-64",
+              "raspberry-pi-pico",
+              "rp2040",
+              "uart",
+              "usb"
+            ]
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -535,12 +760,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brutzelkarte - N64 Flash Cart PCB (KiCad)",
+            "homepage": null,
             "id": 234910534,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-05-19T17:06:34Z",
+            "open_issues": 1,
             "owner": "jago85",
             "repo": "Brutzelkarte_PCB",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "hardware",
+              "n64"
+            ]
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -551,12 +784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "N64 GameShark Pro utilities using libusb",
+            "homepage": null,
             "id": 21721283,
             "language": "C",
+            "license": null,
             "last_commit": "2014-10-10T16:51:18Z",
+            "open_issues": 3,
             "owner": "hcs64",
             "repo": "gs_libusb",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         },
@@ -567,12 +805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source N64 development Cartridge",
+            "homepage": null,
             "id": 277396041,
             "language": "C",
+            "license": null,
             "last_commit": "2020-08-11T02:49:16Z",
+            "open_issues": 5,
             "owner": "Hazematman",
             "repo": "El-Barato-64",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
         }
@@ -591,12 +834,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SummerCart64 - a fully open source N64 flashcart",
+                "homepage": "https://summercart64.dev",
                 "id": 300688558,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-11T08:29:57Z",
+                "open_issues": 16,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1133
+                "stars": 1133,
+                "topics": [
+                  "flashcart",
+                  "n64"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -607,12 +858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform and universal Nintendo64 flashcart ROM uploader, featuring a USB+debug library for libultra and libdragon.",
+                "homepage": null,
                 "id": 283320213,
                 "language": "C++",
+                "license": "WTFPL",
                 "last_commit": "2026-05-15T23:54:26Z",
+                "open_issues": 13,
                 "owner": "buu342",
                 "repo": "N64-UNFLoader",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -623,12 +879,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains essential tools to be used with everdrive64.",
+                "homepage": null,
                 "id": 136831336,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-20T04:45:04Z",
+                "open_issues": 14,
                 "owner": "anacierdem",
                 "repo": "ed64",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "everdrive",
+                  "everdrive64",
+                  "loader64",
+                  "nintendo",
+                  "nintendo-64",
+                  "nintendo64"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -639,12 +907,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portable Linux/Mac tool for Retroactive 64drive",
+                "homepage": null,
                 "id": 204805348,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-06-09T22:23:27Z",
+                "open_issues": 4,
                 "owner": "rasky",
                 "repo": "g64drive",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -655,12 +928,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USB uploader tool for Everdrive64",
+                "homepage": null,
                 "id": 226586365,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-04-05T23:27:06Z",
+                "open_issues": 0,
                 "owner": "jsdf",
                 "repo": "loader64",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "everdrive64",
+                  "n64",
+                  "n64-development"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -678,12 +960,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal N64 flashcart menu for wide variety of devices",
+                "homepage": null,
                 "id": 601806108,
                 "language": "C",
-                "last_commit": "2026-08-28T22:11:07Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T23:40:35Z",
+                "open_issues": 43,
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
-                "stars": 454
+                "stars": 454,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -703,12 +990,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Blender based editor for scenes, meshes, and more in first-party N64 games",
+                    "homepage": "https://fast64.readthedocs.io/en/latest/",
                     "id": 390460421,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T10:30:55Z",
+                    "open_issues": 78,
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 531
+                    "stars": 531,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -719,12 +1011,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Blender 2.7+ plugin and N64 library for hierarchically modeled characters with animations",
+                    "homepage": null,
                     "id": 407991772,
                     "language": "C",
+                    "license": "WTFPL",
                     "last_commit": "2026-01-18T12:07:15Z",
+                    "open_issues": 4,
                     "owner": "buu342",
                     "repo": "N64-Sausage64",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -735,12 +1032,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wavefront OBJ model converter that generates optimized N64 displaylists.",
+                    "homepage": null,
                     "id": 28282520,
                     "language": "C",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2014-12-20T23:52:23Z",
+                    "open_issues": 0,
                     "owner": "n64dev",
                     "repo": "objn64",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -751,12 +1053,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Blender scripts to convert and export mesh objects to draw lists as header files for use with the n64 SDK",
+                    "homepage": null,
                     "id": 142105930,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-01-23T07:03:57Z",
+                    "open_issues": 0,
                     "owner": "GCaldL",
                     "repo": "Blen64",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -767,12 +1074,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🕹️ Currently a basic homebrew model viewer for the Nintendo 64.",
+                    "homepage": null,
                     "id": 141096645,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2018-07-17T18:32:15Z",
+                    "open_issues": 0,
                     "owner": "tffdev",
                     "repo": "N64_3DRenderingTest",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -783,12 +1097,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wavefront .obj to N64 Display List",
+                    "homepage": null,
                     "id": 105466639,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2017-10-02T23:05:06Z",
+                    "open_issues": 1,
                     "owner": "pseudophpt",
                     "repo": "Obj2N64DL",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -799,12 +1118,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Blender add-on to export to N64 NIFF2",
+                    "homepage": null,
                     "id": 273763654,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-11-10T17:44:15Z",
+                    "open_issues": 2,
                     "owner": "1r3n33",
                     "repo": "blend2niff",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "blender-addon",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -815,12 +1142,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Export mesh from Blender 3D to a n64 display list format. ",
+                    "homepage": null,
                     "id": 274536086,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-06-24T04:11:27Z",
+                    "open_issues": 0,
                     "owner": "engerb",
                     "repo": "Blender64",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -831,12 +1163,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Maxscripts to export models from 3DS Max to C code for N64 homebrew development.",
+                    "homepage": null,
                     "id": 245725189,
                     "language": "MAXScript",
+                    "license": null,
                     "last_commit": "2021-10-18T00:29:01Z",
+                    "open_issues": 0,
                     "owner": "MrQuetch",
                     "repo": "Max_To_N64",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 }
@@ -854,12 +1191,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "N64 Texture Ripper and Editor",
+                    "homepage": null,
                     "id": 94666933,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2021-01-02T04:33:33Z",
+                    "open_issues": 6,
                     "owner": "queueRAM",
                     "repo": "Texture64",
-                    "stars": 101
+                    "stars": 101,
+                    "topics": [
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -870,12 +1214,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "N64 Raw Graphics Tool",
+                    "homepage": null,
                     "id": 14132910,
                     "language": "C",
+                    "license": "WTFPL",
                     "last_commit": "2013-11-22T03:29:34Z",
+                    "open_issues": 0,
                     "owner": "Octocontrabass",
                     "repo": "n64rawgfx",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -886,12 +1235,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Nintendo 64 Texture Converter",
+                    "homepage": null,
                     "id": 128275250,
                     "language": "Game Maker Language",
+                    "license": null,
                     "last_commit": "2022-11-07T12:25:30Z",
+                    "open_issues": 6,
                     "owner": "buu342",
                     "repo": "GML-N64TextureConverter",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -902,12 +1256,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CI4/CI8 N64 Graphics Viewer/Editor",
+                    "homepage": null,
                     "id": 70399466,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2020-04-13T16:03:50Z",
+                    "open_issues": 0,
                     "owner": "LuigiBlood",
                     "repo": "N64GFXCookie",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "graphics",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -918,12 +1280,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A new way to import sprites and backgrounds for Nintendo 64 homebrew using S2DEX, complete with animation support",
+                    "homepage": null,
                     "id": 306188842,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-06-14T22:37:04Z",
+                    "open_issues": 0,
                     "owner": "farisawan-2000",
                     "repo": "mksprite2",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -934,12 +1301,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Convert PNG to RGBA(16/32), CI(4/8), I(A)(4/8)",
+                    "homepage": null,
                     "id": 306306287,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-24T16:17:22Z",
+                    "open_issues": 0,
                     "owner": "novaferg",
                     "repo": "n64texconv",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -950,12 +1322,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This program converts from standard image formats to N64's CI format. Written in C# and designed in visual studio. Unpolished, plan on using in a larger project later.",
+                    "homepage": null,
                     "id": 159763031,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2019-04-29T21:37:36Z",
+                    "open_issues": 0,
                     "owner": "darklink623",
                     "repo": "n64CIconverter",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -966,12 +1343,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Windows equivalent to the SGI program mksprite for the Nintendo 64. Converts .png to a h header and c source file.",
+                    "homepage": null,
                     "id": 131613805,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2020-06-16T14:06:23Z",
+                    "open_issues": 0,
                     "owner": "NathanDuma",
                     "repo": "mkspriten64",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -982,12 +1364,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "convert a 32 or 24 bits png to a 16 bits RBGA for n64",
+                    "homepage": null,
                     "id": 247475641,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-06-11T08:46:16Z",
+                    "open_issues": 0,
                     "owner": "manfriedn64",
                     "repo": "png2n64",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -998,12 +1385,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A program that converts PNG images into a texture format compatible with the N64 development tools.",
+                    "homepage": null,
                     "id": 68875229,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2020-11-09T14:05:11Z",
+                    "open_issues": 0,
                     "owner": "selfVSmind",
                     "repo": "png2c",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1014,12 +1406,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Convert 2 8bit images into 2bit images and pack them into 1 image. I'm using this to save storage space on the N64. FileDrop.java not by me",
+                    "homepage": null,
                     "id": 77646344,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2017-01-11T10:13:59Z",
+                    "open_issues": 0,
                     "owner": "TheRDavid",
                     "repo": "ImageMerge",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1030,12 +1427,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Arrange a directory of equally sized images as a Spritemappe, compress the spritemap right away to save memory space (the same way my ImageMerger does). Specifically made for N64 development.",
+                    "homepage": null,
                     "id": 78568936,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2017-02-20T16:32:25Z",
+                    "open_issues": 0,
                     "owner": "TheRDavid",
                     "repo": "Spritemapper",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1046,12 +1448,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "texture tool for n64 projects using the xo-64 platform",
+                    "homepage": null,
                     "id": 183086805,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2019-04-23T20:40:11Z",
+                    "open_issues": 0,
                     "owner": "xoorath",
                     "repo": "xo-tt64",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 }
@@ -1074,12 +1481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N64 Tools",
+                "homepage": null,
                 "id": 148819274,
                 "language": "C++",
+                "license": "Unlicense",
                 "last_commit": "2026-07-26T19:04:26Z",
+                "open_issues": 39,
                 "owner": "jombo23",
                 "repo": "N64-Tools",
-                "stars": 333
+                "stars": 333,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1090,12 +1502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sequenced music editor for first-party N64 games",
+                "homepage": null,
                 "id": 39737311,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-26T19:23:21Z",
+                "open_issues": 7,
                 "owner": "sauraen",
                 "repo": "seq64",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1106,12 +1523,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "multi-channel loopable video game music player for nerds and audiophiles",
+                "homepage": null,
                 "id": 52114480,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-04-28T18:01:36Z",
+                "open_issues": 7,
                 "owner": "derselbst",
                 "repo": "ANMP",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "audio-files",
+                  "audio-formats",
+                  "audio-normalization",
+                  "audio-player",
+                  "cuesheet",
+                  "ebur128",
+                  "fluidsynth",
+                  "frontend",
+                  "gapless",
+                  "linux",
+                  "looping",
+                  "loops",
+                  "midi",
+                  "music-player",
+                  "n64",
+                  "nintendo64",
+                  "pcm",
+                  "qt6",
+                  "video-game-music"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1122,12 +1564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts SFZ files to a format the N64 can use as part of instrument banks",
+                "homepage": null,
                 "id": 304413050,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-03-19T15:25:51Z",
+                "open_issues": 0,
                 "owner": "lambertjamesd",
                 "repo": "sfz2n64",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1138,12 +1585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sample ROM that allows you to switch out sample banks and tune them.",
+                "homepage": null,
                 "id": 140631947,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-05-28T12:39:20Z",
+                "open_issues": 0,
                 "owner": "buu342",
                 "repo": "N64-SoundTester",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1154,12 +1606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MPEG-1/2 decoder library for the Nintendo 64",
+                "homepage": null,
                 "id": 321183424,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-05-08T23:34:53Z",
+                "open_issues": 0,
                 "owner": "devwizard64",
                 "repo": "ultra_mpeg",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1170,12 +1627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "libmad with MIPS patches. Originally from: http://hkzlab.spatof.org/files/misc/n64_toolchain_howto/",
+                "homepage": null,
                 "id": 21331567,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2014-06-29T20:24:20Z",
+                "open_issues": 0,
                 "owner": "parasyte",
                 "repo": "libmad-n64",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1186,12 +1648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source replacement for midicvt to create midi files compatible for the N64s libultra",
+                "homepage": null,
                 "id": 303256813,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-03-15T19:06:50Z",
+                "open_issues": 0,
                 "owner": "lambertjamesd",
                 "repo": "midicvt",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -1209,12 +1676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nintendo 64 Remote Debugger",
+                "homepage": null,
                 "id": 21798036,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-09-25T01:02:44Z",
+                "open_issues": 4,
                 "owner": "parasyte",
                 "repo": "n64rd",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1225,12 +1697,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "printf() and error stacktraces for n64 sdk-based homebrew games running on everdrive64 flashcarts",
+                "homepage": null,
                 "id": 234563235,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-07-30T03:15:48Z",
+                "open_issues": 0,
                 "owner": "jsdf",
                 "repo": "ed64log",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "everdrive64",
+                  "n64",
+                  "n64-development"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1241,12 +1722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GDBstub for Nintendo 64 + EverDrive-64 v3.",
+                "homepage": null,
                 "id": 125392191,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-04-04T11:26:28Z",
+                "open_issues": 2,
                 "owner": "murachue",
                 "repo": "gdbstub-ed64",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1257,12 +1743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts for emulators",
+                "homepage": null,
                 "id": 197732470,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-07-01T02:03:02Z",
+                "open_issues": 1,
                 "owner": "LuigiBlood",
                 "repo": "EmuScripts",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1273,12 +1764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GDB stub implimentation for n64 that allows debugging in cen64",
+                "homepage": null,
                 "id": 279640048,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-08-22T01:04:27Z",
+                "open_issues": 0,
                 "owner": "Hazematman",
                 "repo": "N64-GDB-stub",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1289,12 +1785,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "connect to an everdrive 64 from your web browser",
+                "homepage": "https://jsdf.github.io/webserial-ed64log/",
                 "id": 267741898,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-07-18T21:09:10Z",
+                "open_issues": 0,
                 "owner": "jsdf",
                 "repo": "webserial-ed64log",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "n64-development"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1305,12 +1808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic project for learning how to debug using GDB on an ED64 V3",
+                "homepage": null,
                 "id": 185793650,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-05-09T12:35:15Z",
+                "open_issues": 0,
                 "owner": "networkfusion",
                 "repo": "ed64-gdb",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -1328,12 +1836,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A binary splitting tool to assist with decompilation and modding projects",
+                "homepage": null,
                 "id": 284825312,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-27T17:47:27Z",
+                "open_issues": 42,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 352
+                "stars": 352,
+                "topics": [
+                  "decompilation",
+                  "n64",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1344,12 +1861,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loader for custom N64 boot code",
+                "homepage": null,
                 "id": 281898460,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2022-10-06T19:55:47Z",
+                "open_issues": 0,
                 "owner": "hcs64",
                 "repo": "boot_stub",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1360,12 +1882,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N64 ROM utility",
+                "homepage": null,
                 "id": 396021726,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-12-15T08:23:07Z",
+                "open_issues": 3,
                 "owner": "mroach",
                 "repo": "rom64",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "emulation",
+                  "n64-dev",
+                  "nintendo",
+                  "nintendo-64"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1376,12 +1908,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clone of N64 sdk's mild.exe",
+                "homepage": null,
                 "id": 122904381,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-10-14T16:28:21Z",
+                "open_issues": 3,
                 "owner": "trhodeos",
                 "repo": "spicy",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "golang",
+                  "linker",
+                  "n64"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1392,12 +1933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Work with 64DD disk images and the files contained therein.",
+                "homepage": null,
                 "id": 28696232,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2016-07-25T02:11:49Z",
+                "open_issues": 0,
                 "owner": "jkbenaim",
                 "repo": "leotools",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1408,12 +1954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source replacement of the n64 sdk's makemask.exe",
+                "homepage": null,
                 "id": 125765369,
                 "language": "Go",
+                "license": "GPL-2.0",
                 "last_commit": "2022-10-14T16:37:50Z",
+                "open_issues": 0,
                 "owner": "trhodeos",
                 "repo": "makemask",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1424,12 +1975,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to judge an N64 ROM for correctness, and fix broken ones.",
+                "homepage": null,
                 "id": 107469342,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-06-07T08:15:37Z",
+                "open_issues": 2,
                 "owner": "jkbenaim",
                 "repo": "romjudge",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "c",
+                  "n64",
+                  "rom",
+                  "roms"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1440,12 +2001,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPU-accelerated hash collision finder for the N64 IPL3 boot code",
+                "homepage": null,
                 "id": 280334352,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2020-07-18T02:35:44Z",
+                "open_issues": 9,
                 "owner": "awygle",
                 "repo": "ipl3hasher",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1456,12 +2022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Replacement for N64 makerom",
+                "homepage": null,
                 "id": 234589439,
                 "language": "Assembly",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-01-17T16:31:30Z",
+                "open_issues": 0,
                 "owner": "fraser125",
                 "repo": "makeromOpen",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1472,12 +2043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 276705408,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-07-03T15:19:30Z",
+                "open_issues": 0,
                 "owner": "Random06457",
                 "repo": "N64ShellPreview",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -1495,12 +2071,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source library for N64 development.",
+                "homepage": "https://libdragon.dev",
                 "id": 949389,
                 "language": "C",
-                "last_commit": "2026-08-28T22:29:41Z",
+                "license": "Unlicense",
+                "last_commit": "2026-08-29T00:03:22Z",
+                "open_issues": 93,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1232
+                "stars": 1232,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1511,12 +2092,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N64 3D ucode for libdragon",
+                "homepage": null,
                 "id": 768839627,
                 "language": "C++",
-                "last_commit": "2026-08-28T17:04:46Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:03:32Z",
+                "open_issues": 5,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 558
+                "stars": 558,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1527,12 +2113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A matching decompilation of libultra by a couple of clever folks.",
+                "homepage": null,
                 "id": 168697460,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-01-29T18:34:57Z",
+                "open_issues": 2,
                 "owner": "n64decomp",
                 "repo": "libreultra",
-                "stars": 182
+                "stars": 182,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1543,12 +2134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A (free) open-source N64 development toolchain.",
+                "homepage": null,
                 "id": 39669629,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-10-07T15:07:12Z",
+                "open_issues": 11,
                 "owner": "tj90241",
                 "repo": "n64chain",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1559,12 +2155,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N64 library",
+                "homepage": null,
                 "id": 141675060,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-09-09T23:08:01Z",
+                "open_issues": 4,
                 "owner": "pseudophpt",
                 "repo": "pseultra",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "assembly",
+                  "c",
+                  "microcode",
+                  "mips",
+                  "n64"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1575,12 +2182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse engineering of libultra",
+                "homepage": null,
                 "id": 439775018,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-04-19T14:02:50Z",
+                "open_issues": 11,
                 "owner": "decompals",
                 "repo": "ultralib",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1591,12 +2203,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asset pipeline and minimal framework for building N64 games with libultra",
+                "homepage": null,
                 "id": 325400721,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-23T15:13:23Z",
+                "open_issues": 1,
                 "owner": "matthewcpp",
                 "repo": "framework64",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "libultra",
+                  "nintendo64"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1607,12 +2227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source N64 library for 3D graphics (WIP)",
+                "homepage": null,
                 "id": 276497293,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-09-19T17:23:06Z",
+                "open_issues": 0,
                 "owner": "Hazematman",
                 "repo": "libhfx",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -1623,12 +2248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An N64-compatible text engine, powered by S2DEX",
+                "homepage": null,
                 "id": 320927426,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-07-20T23:31:15Z",
+                "open_issues": 0,
                 "owner": "someone2639",
                 "repo": "S2DEX-Text-Engine",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -1654,12 +2284,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+                    "homepage": "https://discord.gg/DuYH3Fh",
                     "id": 190845267,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2024-02-04T10:26:16Z",
+                    "open_issues": 28,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8740
+                    "stars": 8741,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1670,12 +2305,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of The Legend of Zelda: Ocarina of Time",
+                    "homepage": null,
                     "id": 247875738,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-19T12:04:50Z",
+                    "open_issues": 73,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5488
+                    "stars": 5490,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1686,12 +2326,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of The Legend of Zelda: Majora's Mask",
+                    "homepage": "https://zelda.deco.mp/games/mm",
                     "id": 247875852,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-28T11:39:11Z",
+                    "open_issues": 15,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1713
+                    "stars": 1714,
+                    "topics": [
+                      "decompilation"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1702,12 +2349,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Paper Mario (Nintendo 64)",
+                    "homepage": "https://papermar.io",
                     "id": 287151133,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-25T17:02:23Z",
+                    "open_issues": 34,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1602
+                    "stars": 1603,
+                    "topics": [
+                      "decompilation",
+                      "n64",
+                      "nintendo",
+                      "paper-mario",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1718,12 +2376,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.",
+                    "homepage": null,
                     "id": 304205548,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-16T03:24:52Z",
+                    "open_issues": 35,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1294
+                    "stars": 1294,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1734,12 +2397,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 267453843,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-18T12:16:06Z",
+                    "open_issues": 4,
                     "owner": "DavidSM64",
                     "repo": "Diddy-Kong-Racing",
-                    "stars": 417
+                    "stars": 418,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1750,12 +2418,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Animal Forest",
+                    "homepage": "https://zeldaret.github.io/af/",
                     "id": 617065079,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-16T17:56:24Z",
+                    "open_issues": 6,
                     "owner": "zeldaret",
                     "repo": "af",
-                    "stars": 291
+                    "stars": 291,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1766,12 +2439,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Duke Nukem Zero Hour",
+                    "homepage": null,
                     "id": 535043776,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-11-06T10:14:35Z",
+                    "open_issues": 0,
                     "owner": "Gillou68310",
                     "repo": "DukeNukemZeroHour",
-                    "stars": 270
+                    "stars": 270,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1782,12 +2460,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A smashin' decompilation of the original Super Smash Bros. for the Nintendo 64.",
+                    "homepage": null,
                     "id": 674504094,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-25T00:52:30Z",
+                    "open_issues": 3,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 238
+                    "stars": 239,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1798,12 +2481,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Work-in-progress decompilation of Conker's Bad Fur Day for N64",
+                    "homepage": "https://conker.deco.mp/",
                     "id": 302966341,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-05-10T08:30:55Z",
+                    "open_issues": 9,
                     "owner": "mkst",
                     "repo": "conker",
-                    "stars": 237
+                    "stars": 237,
+                    "topics": [
+                      "cbfd",
+                      "conker",
+                      "decomp",
+                      "n64",
+                      "rareware"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1814,12 +2508,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Doom 64 Reverse Engineering By [GEC]",
+                    "homepage": null,
                     "id": 313839713,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-05-30T05:04:00Z",
+                    "open_issues": 1,
                     "owner": "Erick194",
                     "repo": "DOOM64-RE",
-                    "stars": 235
+                    "stars": 235,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1830,12 +2529,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A work-in-progress decompilation of Kirby 64: The Crystal Shards, brought to you.",
+                    "homepage": "https://discord.gg/Gh6fBCr",
                     "id": 265695457,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2026-08-26T01:44:24Z",
+                    "open_issues": 3,
                     "owner": "Kirby64Ret",
                     "repo": "kirby64",
-                    "stars": 228
+                    "stars": 228,
+                    "topics": [
+                      "decomp"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1846,12 +2552,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Harvest Moon 64 Decompilation",
+                    "homepage": null,
                     "id": 680951870,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-07-02T04:52:51Z",
+                    "open_issues": 2,
                     "owner": "harvestwhisperer",
                     "repo": "hm64-decomp",
-                    "stars": 216
+                    "stars": 217,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1862,12 +2573,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A WIP decompilation of Dinosaur Planet for the Nintendo 64",
+                    "homepage": null,
                     "id": 340927189,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-09T22:43:13Z",
+                    "open_issues": 2,
                     "owner": "zestydevy",
                     "repo": "dinosaur-planet",
-                    "stars": 215
+                    "stars": 215,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1878,12 +2594,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Disassembly and decompilation of Pokémon Stadium",
+                    "homepage": null,
                     "id": 26101139,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-18T01:43:29Z",
+                    "open_issues": 7,
                     "owner": "pret",
                     "repo": "pokestadium",
-                    "stars": 198
+                    "stars": 198,
+                    "topics": [
+                      "c",
+                      "disassembly",
+                      "nintendo64",
+                      "pokemon",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1894,12 +2621,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of snowboard kids 2 (N64)",
+                    "homepage": "http://chrislewis.au/snowboardkids2-decomp/",
                     "id": 864682338,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-28T03:59:34Z",
+                    "open_issues": 4,
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
-                    "stars": 185
+                    "stars": 185,
+                    "topics": [
+                      "c",
+                      "decomp",
+                      "decompilation",
+                      "mips-assembly",
+                      "n64",
+                      "n64-dev",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1910,12 +2650,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WIP Banjo Tooie Decompilation w/ Splat",
+                    "homepage": null,
                     "id": 646991060,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-11-29T22:55:36Z",
+                    "open_issues": 5,
                     "owner": "Mr-Wiseguy",
                     "repo": "banjo-tooie",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1926,12 +2671,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A work in progress decompilation of Wave Race 64",
+                    "homepage": null,
                     "id": 749426781,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2026-08-23T21:00:18Z",
+                    "open_issues": 2,
                     "owner": "LLONSIT",
                     "repo": "Wave-Race-64",
-                    "stars": 104
+                    "stars": 104,
+                    "topics": [
+                      "decompilation",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1942,12 +2695,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "F-Zero X Decompilation",
+                    "homepage": null,
                     "id": 815573584,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-11T23:22:56Z",
+                    "open_issues": 2,
                     "owner": "inspectredc",
                     "repo": "fzerox",
-                    "stars": 102
+                    "stars": 102,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1958,12 +2716,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gotta match 'em all",
+                    "homepage": null,
                     "id": 275165286,
                     "language": "C",
-                    "last_commit": "2026-08-28T03:00:11Z",
+                    "license": null,
+                    "last_commit": "2026-08-29T03:34:53Z",
+                    "open_issues": 7,
                     "owner": "ethteck",
                     "repo": "pokemonsnap",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1974,12 +2737,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "In-progress decompilation of Yoshi's Story",
+                    "homepage": null,
                     "id": 452949093,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-04-19T16:22:24Z",
+                    "open_issues": 1,
                     "owner": "decompals",
                     "repo": "yoshis-story",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -1990,12 +2758,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dr. Mario 64 decomp",
+                    "homepage": "https://decomp.dev/AngheloAlf/drmario64",
                     "id": 538707677,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-13T23:21:16Z",
+                    "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "drmario64",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2006,12 +2779,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mario Party 1 US Decomp",
+                    "homepage": null,
                     "id": 484109700,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-06-28T16:57:50Z",
+                    "open_issues": 1,
                     "owner": "mariopartyrd",
                     "repo": "marioparty",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2022,12 +2800,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "In-progress decompilation of mischief makers for the N64.",
+                    "homepage": null,
                     "id": 375656792,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-16T01:57:03Z",
+                    "open_issues": 3,
                     "owner": "Drahsid",
                     "repo": "mischief-makers",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "decompilation",
+                      "mischief-makers",
+                      "n64",
+                      "yuke-yuke-trouble-makers"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2038,12 +2826,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Mario Party 3 for N64",
+                    "homepage": null,
                     "id": 502461748,
                     "language": "C",
-                    "last_commit": "2026-08-28T22:41:08Z",
+                    "license": null,
+                    "last_commit": "2026-08-29T02:26:42Z",
+                    "open_issues": 0,
                     "owner": "mariopartyrd",
                     "repo": "marioparty3",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2054,12 +2847,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WIP Space Station Silicon Valley N64 Decomp",
+                    "homepage": "https://sssv.deco.mp/",
                     "id": 338258341,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-26T20:06:30Z",
+                    "open_issues": 0,
                     "owner": "mkst",
                     "repo": "sssv",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": [
+                      "decomp",
+                      "decompilation",
+                      "n64",
+                      "rnc"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2070,12 +2873,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Bomberman Hero (US).",
+                    "homepage": null,
                     "id": 689143524,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-04-24T15:15:46Z",
+                    "open_issues": 0,
                     "owner": "Bomberhackers",
                     "repo": "bmhero",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2086,12 +2894,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Castlevania for the Nintendo 64",
+                    "homepage": null,
                     "id": 691366974,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-07-28T11:53:43Z",
+                    "open_issues": 5,
                     "owner": "k64ret",
                     "repo": "cv64",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2102,12 +2915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mario Party 2 US Decomp",
+                    "homepage": null,
                     "id": 516550219,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-04-26T19:41:03Z",
+                    "open_issues": 0,
                     "owner": "mariopartyrd",
                     "repo": "marioparty2",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2118,12 +2936,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 614621229,
                     "language": "C",
-                    "last_commit": "2026-08-27T15:13:37Z",
+                    "license": null,
+                    "last_commit": "2026-08-29T01:38:14Z",
+                    "open_issues": 0,
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2134,12 +2957,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Pokémon Stadium 2 (US)",
+                    "homepage": null,
                     "id": 877883350,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-07-10T15:49:57Z",
+                    "open_issues": 0,
                     "owner": "pret",
                     "repo": "pokestadiumgs",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": [
+                      "c",
+                      "disassembly",
+                      "nintendo64",
+                      "pokemon",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2150,12 +2984,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of the N64 game \"Rocket: Robot on Wheels\"",
+                    "homepage": null,
                     "id": 322973669,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-01-15T20:41:57Z",
+                    "open_issues": 4,
                     "owner": "RocketRet",
                     "repo": "Rocket-Robot-On-Wheels",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2166,12 +3005,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Blast Corps decompilation.",
+                    "homepage": null,
                     "id": 370996165,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2021-12-28T13:05:11Z",
+                    "open_issues": 1,
                     "owner": "retroplastic",
                     "repo": "blastcorps",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2182,12 +3026,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Aidyn Chronicles: the First Mage on the Nintendo 64.",
+                    "homepage": null,
                     "id": 358885922,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-08-02T06:03:15Z",
+                    "open_issues": 0,
                     "owner": "blackgamma7",
                     "repo": "Aidyn",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "cpp",
+                      "n64",
+                      "nintendo-64",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2198,12 +3052,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 276809202,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-28T14:13:14Z",
+                    "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2214,12 +3073,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WIP Decompilation of the only anime game on N64",
+                    "homepage": null,
                     "id": 338937298,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-07-13T17:51:10Z",
+                    "open_issues": 2,
                     "owner": "farisawan-2000",
                     "repo": "evangelion",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2230,12 +3094,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Matching decomp of Pokémon Puzzle League",
+                    "homepage": "decomp.dev/AngheloAlf/puzzleleague64",
                     "id": 610957587,
                     "language": "C",
-                    "last_commit": "2026-08-28T12:24:57Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T03:25:10Z",
+                    "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2246,12 +3115,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 726917677,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-03-08T01:25:42Z",
+                    "open_issues": 0,
                     "owner": "Bomberhackers",
                     "repo": "bm64",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2262,12 +3136,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of a speedy game !",
+                    "homepage": null,
                     "id": 555500291,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-01-23T18:48:17Z",
+                    "open_issues": 0,
                     "owner": "LLONSIT",
                     "repo": "AeroGauge",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "decompilation",
+                      "lzma",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2278,12 +3161,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "F-Zero X Expansion Kit Decompilation",
+                    "homepage": null,
                     "id": 971307097,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-01-06T15:42:50Z",
+                    "open_issues": 0,
                     "owner": "inspectredc",
                     "repo": "fzerox-expansion-kit",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2294,12 +3182,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Gex 64",
+                    "homepage": "https://decomp.dev/MatBourgon/Gex64Decomp",
                     "id": 896639452,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-07-27T03:17:00Z",
+                    "open_issues": 12,
                     "owner": "MatBourgon",
                     "repo": "Gex64Decomp",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2310,12 +3203,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "In progress decompilation of Turok 3",
+                    "homepage": null,
                     "id": 420183226,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-12-04T02:54:23Z",
+                    "open_issues": 0,
                     "owner": "Drahsid",
                     "repo": "turok3",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2326,12 +3224,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Virtual Pro-Wrestling 2 decompilation project.",
+                    "homepage": null,
                     "id": 476578739,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2026-03-26T01:28:45Z",
+                    "open_issues": 0,
                     "owner": "AKI-Club",
                     "repo": "vpw2",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "aki",
+                      "n64",
+                      "vpw"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2342,12 +3249,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "in-progress decompilation of Gauntlet Legends for the N64",
+                    "homepage": null,
                     "id": 437089271,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-04-30T07:19:45Z",
+                    "open_issues": 0,
                     "owner": "Drahsid",
                     "repo": "gauntlet-legends",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2358,12 +3270,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Mario Golf for the Nintendo 64.",
+                    "homepage": null,
                     "id": 690450023,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-07-24T12:34:40Z",
+                    "open_issues": 1,
                     "owner": "monde-lointain",
                     "repo": "mariogolf64",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2374,12 +3291,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Superman 64 Decomp",
+                    "homepage": null,
                     "id": 358992496,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2021-04-17T22:53:34Z",
+                    "open_issues": 0,
                     "owner": "farisawan-2000",
                     "repo": "superman",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2390,12 +3312,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Shadows of the Empire for N64",
+                    "homepage": null,
                     "id": 907106528,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-02-10T19:39:16Z",
+                    "open_issues": 1,
                     "owner": "EltaleLibrarian",
                     "repo": "SotE",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2406,12 +3333,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Duke Nukem 64 decompilation (heavily WIP)",
+                    "homepage": null,
                     "id": 1015476103,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-08-04T16:03:51Z",
+                    "open_issues": 0,
                     "owner": "NBlood",
                     "repo": "Duke64-RE",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2422,12 +3354,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 814346048,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-02-03T01:48:35Z",
+                    "open_issues": 1,
                     "owner": "Rainchus",
                     "repo": "Quest64-Decomp",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2438,12 +3375,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 746620591,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-04-04T14:28:40Z",
+                    "open_issues": 0,
                     "owner": "Bomberhackers",
                     "repo": "bm64tsa",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2454,12 +3396,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 834718529,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-03-13T02:29:59Z",
+                    "open_issues": 0,
                     "owner": "Rainchus",
                     "repo": "Glover",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2470,12 +3417,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Mario Tennis for the Nintendo 64, released in 2000.",
+                    "homepage": null,
                     "id": 782301074,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-04-05T03:12:11Z",
+                    "open_issues": 0,
                     "owner": "DellM-79",
                     "repo": "MarioTennisN64",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2486,12 +3438,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 511790524,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-19T08:07:30Z",
+                    "open_issues": 0,
                     "owner": "chameleonTwistRet",
                     "repo": "chameleonTwistv1.0-JP",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2502,12 +3459,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A work-in-progress decompilation of Mystical Ninja Starring Goemon for the Nintendo 64.",
+                    "homepage": null,
                     "id": 931771804,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-06-28T12:27:21Z",
+                    "open_issues": 0,
                     "owner": "klorfmorf",
                     "repo": "mnsg",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2518,12 +3480,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reversing the N64 game Knife Edge - Nose Gunner",
+                    "homepage": null,
                     "id": 353483621,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2021-04-01T13:31:52Z",
+                    "open_issues": 0,
                     "owner": "disi33",
                     "repo": "KE-NG_Reversing",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2534,12 +3501,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 573180769,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-09-14T09:55:33Z",
+                    "open_issues": 1,
                     "owner": "marijnvdwerf",
                     "repo": "lego-racers",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2550,12 +3522,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shadowgate 64 decomp",
+                    "homepage": null,
                     "id": 639682076,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-05-18T04:34:48Z",
+                    "open_issues": 0,
                     "owner": "Rainchus",
                     "repo": "ShadowGate64",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2566,12 +3543,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 554576476,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2022-10-29T20:49:44Z",
+                    "open_issues": 0,
                     "owner": "LLONSIT",
                     "repo": "VirtualPool64",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2582,12 +3564,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 816042765,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-15T14:23:38Z",
+                    "open_issues": 0,
                     "owner": "adipocira",
                     "repo": "doraemon1",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2598,12 +3585,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 818507989,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-01-23T03:15:03Z",
+                    "open_issues": 0,
                     "owner": "KiritoDv",
                     "repo": "tnt",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2614,12 +3606,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 525145264,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-05-18T00:30:44Z",
+                    "open_issues": 0,
                     "owner": "chameleonTwistRet",
                     "repo": "chameleonTwist2v1.0-JP",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2630,12 +3627,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dark Rift Decomp Project",
+                    "homepage": null,
                     "id": 882671306,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-06-23T05:40:34Z",
+                    "open_issues": 0,
                     "owner": "Unnunu",
                     "repo": "darkrift",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2646,12 +3648,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1023598761,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-11-20T16:02:24Z",
+                    "open_issues": 0,
                     "owner": "Ryan-Myers",
                     "repo": "onegaimonsters",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2662,12 +3669,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 973361168,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2025-05-08T00:31:01Z",
+                    "open_issues": 0,
                     "owner": "Jhynjhiruu",
                     "repo": "sharkwire",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 }
@@ -2685,12 +3697,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nintendo 64 CIC clone",
+                    "homepage": null,
                     "id": 37817921,
                     "language": "Assembly",
+                    "license": "Unlicense",
                     "last_commit": "2018-08-19T20:44:13Z",
+                    "open_issues": 1,
                     "owner": "mikeryan",
                     "repo": "UltraCIC",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2701,12 +3718,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "N64 PIF Replacement Hardware (KiCad)",
+                    "homepage": null,
                     "id": 232359554,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2020-10-30T23:10:59Z",
+                    "open_issues": 5,
                     "owner": "jago85",
                     "repo": "UltraPIF_Hardware",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": [
+                      "hardware",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2717,12 +3742,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "N64 CIC replacement",
+                    "homepage": null,
                     "id": 283135644,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-12-08T13:49:43Z",
+                    "open_issues": 4,
                     "owner": "ManCloud",
                     "repo": "UltraCIC-III",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": [
+                      "attiny",
+                      "n64",
+                      "ultracic"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2733,12 +3767,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Matching and mostly documented disassemblies of the F3DEX2/F3DZEX2 N64 RSP microcode family",
+                    "homepage": null,
                     "id": 296469271,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-05-24T15:49:46Z",
+                    "open_issues": 1,
                     "owner": "Mr-Wiseguy",
                     "repo": "f3dex2",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2749,12 +3788,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nintendo64 CIC clone written in C",
+                    "homepage": null,
                     "id": 204061643,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2019-08-23T20:02:10Z",
+                    "open_issues": 0,
                     "owner": "jago85",
                     "repo": "UltraCIC_C",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2765,12 +3811,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code to recreate N64 CIC chips on an ATTiny25/45",
+                    "homepage": null,
                     "id": 165450280,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2019-01-13T01:09:34Z",
+                    "open_issues": 0,
                     "owner": "perkinsb1024",
                     "repo": "UltraCIC-II",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2781,12 +3832,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This tends to re-create Nintendo 64 schematics and lay out a board suitable for portable version",
+                    "homepage": null,
                     "id": 76401371,
                     "language": "Prolog",
+                    "license": null,
                     "last_commit": "2020-12-14T00:30:43Z",
+                    "open_issues": 0,
                     "owner": "dmkfasi",
                     "repo": "nus-cpu",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2797,12 +3853,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A set of Kicad files detailing the N64 hardware",
+                    "homepage": null,
                     "id": 334319648,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2021-01-30T04:10:35Z",
+                    "open_issues": 0,
                     "owner": "nterry",
                     "repo": "n64-kicad",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 }
@@ -2825,12 +3886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome decompilation resources and projects.",
+                "homepage": null,
                 "id": 129588860,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-09T12:48:36Z",
+                "open_issues": 4,
                 "owner": "nforest",
                 "repo": "awesome-decompilation",
-                "stars": 666
+                "stars": 666,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -2848,12 +3914,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A decompiler targeting MIPS, PowerPC, ARM, and SuperH.",
+                "homepage": null,
                 "id": 139763391,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T13:52:27Z",
+                "open_issues": 64,
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 628
+                "stars": 630,
+                "topics": [
+                  "decompiler",
+                  "mips",
+                  "powerpc",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -2864,12 +3940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N64 Tools",
+                "homepage": null,
                 "id": 148819274,
                 "language": "C++",
+                "license": "Unlicense",
                 "last_commit": "2026-07-26T19:04:26Z",
+                "open_issues": 39,
                 "owner": "jombo23",
                 "repo": "N64-Tools",
-                "stars": 333
+                "stars": 333,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -2880,12 +3961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Randomly permute C files to better match a target binary",
+                "homepage": null,
                 "id": 172801212,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-22T16:24:27Z",
+                "open_issues": 48,
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
-                "stars": 214
+                "stars": 214,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -2896,12 +3982,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MIPS instruction decoder",
+                "homepage": "https://decompollaborate.github.io/rabbitizer/",
                 "id": 499600845,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-29T11:53:14Z",
+                "open_issues": 2,
                 "owner": "Decompollaborate",
                 "repo": "rabbitizer",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "disassembler",
+                  "mips-assembly",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -2912,12 +4007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Assembly diff script",
+                "homepage": null,
                 "id": 183968585,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2026-08-25T14:09:40Z",
+                "open_issues": 34,
                 "owner": "simonlindholm",
                 "repo": "asm-differ",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -2928,12 +4028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ghidra Loader Module for N64 ROMs",
+                "homepage": null,
                 "id": 204992864,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-01T14:52:49Z",
+                "open_issues": 1,
                 "owner": "zeroKilo",
                 "repo": "N64LoaderWV",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -2944,12 +4049,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MIPS disassembler",
+                "homepage": "https://pypi.org/project/spimdisasm/",
                 "id": 429202043,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-06T12:11:31Z",
+                "open_issues": 7,
                 "owner": "Decompollaborate",
                 "repo": "spimdisasm",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -2960,12 +4070,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N64 Symbol Identification Tool",
+                "homepage": null,
                 "id": 92714661,
                 "language": "Standard ML",
+                "license": "MIT",
                 "last_commit": "2023-03-27T17:44:16Z",
+                "open_issues": 1,
                 "owner": "shygoo",
                 "repo": "n64sym",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -2976,12 +4091,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A binary diffing tool",
+                "homepage": null,
                 "id": 674543615,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-11-04T07:35:50Z",
+                "open_issues": 17,
                 "owner": "ethteck",
                 "repo": "bdiff",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -2992,12 +4112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to assist with N64 decompilation that runs m2c and decomp_permuter to try to automatically decompile functions",
+                "homepage": null,
                 "id": 343159177,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-01T14:28:25Z",
+                "open_issues": 3,
                 "owner": "ethteck",
                 "repo": "m3c",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3008,12 +4133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OpenOCD configuration for the N64",
+                "homepage": null,
                 "id": 346174232,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-09T23:38:06Z",
+                "open_issues": 0,
                 "owner": "juchong",
                 "repo": "openocd_n64",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -3037,12 +4167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A SNES emulator for the N64, written in assembly",
+                "homepage": null,
                 "id": 414365555,
                 "language": "Assembly",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-11T20:55:28Z",
+                "open_issues": 21,
                 "owner": "Hydr8gon",
                 "repo": "sodium64",
-                "stars": 325
+                "stars": 325,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3053,12 +4188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N64 Bare Metal Mips Assembly Programming",
+                "homepage": null,
                 "id": 21631013,
                 "language": "Assembly",
+                "license": "Unlicense",
                 "last_commit": "2026-02-01T11:04:35Z",
+                "open_issues": 17,
                 "owner": "PeterLemon",
                 "repo": "N64",
-                "stars": 323
+                "stars": 323,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3069,12 +4209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Nintendo 64",
+                "homepage": null,
                 "id": 12688067,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-11-02T20:55:39Z",
+                "open_issues": 1,
                 "owner": "mikeryan",
                 "repo": "n64dev",
-                "stars": 174
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3085,12 +4230,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NES Emulation On the N64, 2.0 WIP",
+                "homepage": "https://hcs64.com/neon64.html",
                 "id": 277992709,
                 "language": "Assembly",
+                "license": "ISC",
                 "last_commit": "2025-01-06T03:14:53Z",
+                "open_issues": 22,
                 "owner": "hcs64",
                 "repo": "neon64v2",
-                "stars": 107
+                "stars": 108,
+                "topics": [
+                  "emulator",
+                  "mips-assembly",
+                  "n64",
+                  "nes-emulator"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3101,12 +4256,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Visual Studio Code extension that provides language support and theme for the N64 Assembly language",
+                "homepage": null,
                 "id": 260502592,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-30T11:37:16Z",
+                "open_issues": 0,
                 "owner": "is06",
                 "repo": "n64-assembly",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "assembly",
+                  "n64",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3117,12 +4281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The support files for N64 Assembly Language Tutorial ",
+                "homepage": null,
                 "id": 93987544,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2018-08-27T16:58:45Z",
+                "open_issues": 0,
                 "owner": "fraser125",
                 "repo": "N64-ASM-Tutorial",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3133,12 +4302,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 127495674,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2018-04-25T23:55:10Z",
+                "open_issues": 0,
                 "owner": "pdrome",
                 "repo": "n64-asm-timing",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -3158,12 +4332,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+                    "homepage": "https://hailtododongo.github.io/pyrite64/",
                     "id": 1062843332,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T18:03:37Z",
+                    "open_issues": 23,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3238
+                    "stars": 3238,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3174,12 +4353,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)",
+                    "homepage": null,
                     "id": 28119786,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T21:14:42Z",
+                    "open_issues": 565,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2041
+                    "stars": 2041,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3190,12 +4374,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An RPG engine made for the Nintendo 64",
+                    "homepage": null,
                     "id": 696032763,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-12-06T02:34:25Z",
+                    "open_issues": 2,
                     "owner": "breadbored",
                     "repo": "N64-RPG",
-                    "stars": 185
+                    "stars": 185,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3206,12 +4395,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A WIP level editor/game engine for the Nintendo 64.",
+                    "homepage": null,
                     "id": 167413768,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2022-11-16T03:15:42Z",
+                    "open_issues": 15,
                     "owner": "deadcast2",
                     "repo": "UltraEd",
-                    "stars": 139
+                    "stars": 139,
+                    "topics": [
+                      "game-development",
+                      "gamedev",
+                      "homebrew"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3222,12 +4420,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Legend of Elya — N64 game with a real 6.36M-parameter ternary transformer on the VR4300 MIPS III CPU. Zelda-style dungeon, AI NPCs, byte-level inference at 1.23 tok/s scalar / 2.19 tok/s on the RSP overlay (measured under ares, never on silicon). Built with libdragon.",
+                    "homepage": "https://hackaday.io/project/206401-transformers-on-retro-game-consoles",
                     "id": 1168838598,
                     "language": "C",
-                    "last_commit": "2026-08-19T16:48:31Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T03:54:36Z",
+                    "open_issues": 3,
                     "owner": "Scottcjn",
                     "repo": "legend-of-elya-n64",
-                    "stars": 128
+                    "stars": 128,
+                    "topics": [
+                      "ai",
+                      "edge-ai",
+                      "embedded-ai",
+                      "game-dev",
+                      "homebrew",
+                      "libdragon",
+                      "llm",
+                      "llm-inference",
+                      "machine-learning",
+                      "mips",
+                      "n64",
+                      "nintendo-64",
+                      "quantization",
+                      "retro-gaming",
+                      "retrocomputing",
+                      "rustchain",
+                      "tinyml",
+                      "transformer",
+                      "vintage-computing",
+                      "zelda"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3238,12 +4462,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A gameboy emulator that runs on real N64 hardware",
+                    "homepage": null,
                     "id": 268360091,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-08-17T16:49:33Z",
+                    "open_issues": 21,
                     "owner": "lambertjamesd",
                     "repo": "gb64",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3254,12 +4483,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source port of the original Doom to the Nintendo 64",
+                    "homepage": null,
                     "id": 32396905,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2024-03-17T12:52:25Z",
+                    "open_issues": 12,
                     "owner": "jnmartin84",
                     "repo": "64doom",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3270,12 +4504,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "untitled goose game demake for nintendo 64",
+                    "homepage": "https://twitter.com/ur_friend_james",
                     "id": 214956666,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2023-12-03T05:59:12Z",
+                    "open_issues": 1,
                     "owner": "jsdf",
                     "repo": "goose64",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": [
+                      "goosegame",
+                      "n64",
+                      "nintendo-64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3286,12 +4529,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "n64 homebrew demo app",
+                    "homepage": null,
                     "id": 255004049,
                     "language": "Objective-C",
+                    "license": "Unlicense",
                     "last_commit": "2020-06-14T17:11:24Z",
+                    "open_issues": 2,
                     "owner": "jsdf",
                     "repo": "n64-sdk-demo",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": [
+                      "n64",
+                      "n64-development"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3302,12 +4553,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collaborative minigame ROM for the N64brew Game Jam 2024",
+                    "homepage": null,
                     "id": 867175138,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-12-29T20:16:06Z",
+                    "open_issues": 0,
                     "owner": "n64brew",
                     "repo": "N64brew-GameJam2024",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "homebrew",
+                      "homebrew-game",
+                      "n64",
+                      "nintendo-64",
+                      "nintendo64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3318,12 +4580,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A homebrew rom made to test various features of the N64 controller on a N64 console. :video_game:",
+                    "homepage": null,
                     "id": 281608267,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-11-06T05:54:18Z",
+                    "open_issues": 0,
                     "owner": "Ryzee119",
                     "repo": "n64_controller_test",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3334,12 +4601,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clone of Flappy Bird for Nintendo 64 built using the open source LibDragon SDK. Original game design, graphics, and sound effects created by .GEARS",
+                    "homepage": "https://www.christopherbonhage.com/FlappyBird-N64",
                     "id": 92865620,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-05T02:47:23Z",
+                    "open_issues": 0,
                     "owner": "meeq",
                     "repo": "flappybird-n64",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": [
+                      "flappy-bird",
+                      "flappy-bird-game",
+                      "flappybird",
+                      "game-development",
+                      "gamedev",
+                      "libdragon",
+                      "n64",
+                      "nintendo",
+                      "retrogaming",
+                      "rom"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3350,12 +4633,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minecraft clone for the N64",
+                    "homepage": null,
                     "id": 737401477,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-02-02T19:34:27Z",
+                    "open_issues": 0,
                     "owner": "SiliconSloth",
                     "repo": "Mine64",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3366,12 +4654,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A NeoGeo emulator for Nintendo64",
+                    "homepage": null,
                     "id": 361520249,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-08-17T17:21:02Z",
+                    "open_issues": 3,
                     "owner": "rasky",
                     "repo": "mvs64",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "emulators",
+                      "homebrew",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3382,12 +4679,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎮 Original SGI Nintendo 64 demos",
+                    "homepage": null,
                     "id": 17013626,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2014-02-20T08:31:18Z",
+                    "open_issues": 0,
                     "owner": "shlomnissan",
                     "repo": "ultra64-demos",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3398,12 +4700,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Small64 - The first Nintendo 64 4K intro",
+                    "homepage": null,
                     "id": 946265156,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-07-13T21:09:23Z",
+                    "open_issues": 0,
                     "owner": "rasky",
                     "repo": "small64",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3414,12 +4721,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A set of tools and libraries to connect your Nintendo 64 homebrew to the internet for multiplayer using your flashcart's USB slot.",
+                    "homepage": null,
                     "id": 814434802,
                     "language": "C++",
+                    "license": "WTFPL",
                     "last_commit": "2025-08-20T22:49:06Z",
+                    "open_issues": 2,
                     "owner": "buu342",
                     "repo": "N64-NetLib",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "homebrew",
+                      "nintendo-64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3430,12 +4745,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A port of the Driving Strikers indie game to the Nintendo 64 using Libdragon SDK, Tiny3D and a custom-made codebase in C",
+                    "homepage": null,
                     "id": 982028836,
                     "language": "C",
+                    "license": "Unlicense",
                     "last_commit": "2025-07-22T04:07:23Z",
+                    "open_issues": 0,
                     "owner": "SpookyIluha",
                     "repo": "Driving-Strikers-64",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3446,12 +4766,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "N64 Controller pak manager with win95 like UI",
+                    "homepage": null,
                     "id": 260789510,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2020-05-06T17:04:17Z",
+                    "open_issues": 0,
                     "owner": "manfriedn64",
                     "repo": "Controller-Pak-Manager",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3462,12 +4787,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Portable N64 Controller Tester",
+                    "homepage": null,
                     "id": 302742624,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-10-09T20:36:18Z",
+                    "open_issues": 0,
                     "owner": "max257612",
                     "repo": "controllertest",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3478,12 +4808,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "N64 RSP torture test",
+                    "homepage": null,
                     "id": 345445840,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-08-31T16:38:29Z",
+                    "open_issues": 0,
                     "owner": "Dillonb",
                     "repo": "rsp-ruination",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3494,12 +4829,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Proof of Concept GBA emulator for the N64 - only runs ARMWrestler",
+                    "homepage": null,
                     "id": 328302731,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2022-10-04T08:29:26Z",
+                    "open_issues": 0,
                     "owner": "Dillonb",
                     "repo": "n64-gba",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3510,12 +4850,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "N64 interactive RDP triangle demo",
+                    "homepage": null,
                     "id": 77173699,
                     "language": "C",
+                    "license": "ISC",
                     "last_commit": "2025-07-22T18:06:14Z",
+                    "open_issues": 0,
                     "owner": "sp1187",
                     "repo": "n64triangle",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3526,12 +4873,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A bit of a tech demo made with Libdragon unstable, features 128x128 color textures and a fully dynamic sky",
+                    "homepage": null,
                     "id": 723255476,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-01-14T06:25:32Z",
+                    "open_issues": 0,
                     "owner": "SpookyIluha",
                     "repo": "BrewReality",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3542,12 +4894,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "ROM built with CMake",
+                    "homepage": null,
                     "id": 271320098,
                     "language": "CMake",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-01-24T21:29:00Z",
+                    "open_issues": 1,
                     "owner": "n64-tools",
                     "repo": "cmake-demo-rom",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3558,12 +4915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Homebrew 3D brick-breaker game for the N64",
+                    "homepage": null,
                     "id": 284310324,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2020-08-23T17:39:10Z",
+                    "open_issues": 0,
                     "owner": "allie",
                     "repo": "brick64",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3574,12 +4936,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shiba Inu Match 64",
+                    "homepage": null,
                     "id": 115372804,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2019-08-08T22:18:03Z",
+                    "open_issues": 1,
                     "owner": "einhov",
                     "repo": "shibamatch",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3590,12 +4957,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Templates for Nintendo 64 game made with n64sdkmod",
+                    "homepage": null,
                     "id": 383959103,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-02-05T00:37:46Z",
+                    "open_issues": 11,
                     "owner": "stefanmielke",
                     "repo": "ultra64-templates",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "nintendo-64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3606,12 +4980,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "nintendo 64 port of https://github.com/fabiensanglard/Another-World-Bytecode-Interpreter/",
+                    "homepage": null,
                     "id": 293831539,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2022-08-23T20:20:59Z",
+                    "open_issues": 0,
                     "owner": "jnmartin84",
                     "repo": "aw64",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3622,12 +5001,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Complex N64 demo not using nusys",
+                    "homepage": null,
                     "id": 370080466,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2021-05-23T14:53:22Z",
+                    "open_issues": 0,
                     "owner": "gamemasterplc",
                     "repo": "non_nusys_demo",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3638,12 +5022,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An up to 4 player action puzzle game for Nintendo 64",
+                    "homepage": null,
                     "id": 252988433,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-04-04T12:35:59Z",
+                    "open_issues": 0,
                     "owner": "murachue",
                     "repo": "ochim",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3654,12 +5043,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Memory64 is a game of memory skill for Nintendo64",
+                    "homepage": null,
                     "id": 103447165,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-10T06:19:28Z",
+                    "open_issues": 0,
                     "owner": "vrgl117-games",
                     "repo": "Memory64-N64",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3670,12 +5064,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 736145128,
                     "language": "Makefile",
+                    "license": null,
                     "last_commit": "2023-12-27T20:58:34Z",
+                    "open_issues": 1,
                     "owner": "alexvnesta",
                     "repo": "n64_bullet_demo",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3686,12 +5085,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Nintendo 64 Homebrew Game",
+                    "homepage": null,
                     "id": 260577975,
                     "language": "C",
+                    "license": "MPL-2.0",
                     "last_commit": "2023-03-05T07:54:21Z",
+                    "open_issues": 2,
                     "owner": "danbolt",
                     "repo": "old-castle",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3702,12 +5106,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 136981225,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2018-06-11T21:21:52Z",
+                    "open_issues": 0,
                     "owner": "loociano",
                     "repo": "n64dev",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3718,12 +5127,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "conway's game of life on n64",
+                    "homepage": null,
                     "id": 255786245,
                     "language": "C",
+                    "license": "Unlicense",
                     "last_commit": "2020-04-20T03:11:19Z",
+                    "open_issues": 0,
                     "owner": "jsdf",
                     "repo": "n64-gameoflife",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "conways-game-of-life",
+                      "game-of-life",
+                      "gameoflife",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3734,12 +5153,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An adventure platformer targeted for the N64 ",
+                    "homepage": null,
                     "id": 294299265,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2020-10-07T02:37:09Z",
+                    "open_issues": 0,
                     "owner": "lambertjamesd",
                     "repo": "platformer64",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3750,12 +5174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reimplementation of classic DOS game Vlak for Nintendo 64 using libdragon SDK.",
+                    "homepage": null,
                     "id": 854314126,
                     "language": "C",
+                    "license": "Unlicense",
                     "last_commit": "2026-02-06T10:34:55Z",
+                    "open_issues": 0,
                     "owner": "thekovic",
                     "repo": "vlak64",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3766,12 +5195,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 160815544,
                     "language": "C",
+                    "license": "LGPL-3.0",
                     "last_commit": "2018-12-07T11:33:37Z",
+                    "open_issues": 0,
                     "owner": "clbr",
                     "repo": "n64zlibbench",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3782,12 +5216,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A scene dedicated to celebrating the occasion of Christmas 2024 for the whole N64Brew community!",
+                    "homepage": null,
                     "id": 909317369,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-01-25T04:56:03Z",
+                    "open_issues": 0,
                     "owner": "SpookyIluha",
                     "repo": "BrewChristmas",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3798,12 +5237,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a chip 8 emulator for the nintendo 64",
+                    "homepage": null,
                     "id": 101521708,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-08-17T16:13:08Z",
+                    "open_issues": 1,
                     "owner": "joshiggins",
                     "repo": "chip8-n64",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3814,12 +5258,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "N64 homebrew inspired by Panic lab from Gigamic",
+                    "homepage": null,
                     "id": 334730472,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2021-05-09T09:03:05Z",
+                    "open_issues": 0,
                     "owner": "1r3n33",
                     "repo": "paniclab64",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "game",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3830,12 +5282,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 798983187,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-05-17T01:01:12Z",
+                    "open_issues": 0,
                     "owner": "realtradam",
                     "repo": "tojam2024",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3846,12 +5303,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A port of Pong for the Nintendo 64, featuring additional game modes, developed in C using the Libdragon SDK.",
+                    "homepage": null,
                     "id": 1073877955,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-28T21:38:16Z",
+                    "open_issues": 0,
                     "owner": "JumpiX64",
                     "repo": "Pong64",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "game",
+                      "game-development",
+                      "homebrew",
+                      "libdragon",
+                      "n64",
+                      "n64-development",
+                      "pong-game"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3862,12 +5332,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WIP Platformer for N64",
+                    "homepage": null,
                     "id": 817985473,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-09-01T20:56:32Z",
+                    "open_issues": 0,
                     "owner": "s4Ys369",
                     "repo": "hlfg",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3878,12 +5353,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Targem Games GameJam 2025 Entry indie game/homebrew made for the Nintendo 64",
+                    "homepage": null,
                     "id": 1019588465,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-06T10:32:10Z",
+                    "open_issues": 0,
                     "owner": "SpookyIluha",
                     "repo": "CounterEmotion-Bar",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3894,12 +5374,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nintendo 64 hashing-algorithm benchmark — 32 algos on a 93.75 MHz VR4300 MIPS3 (libdragon)",
+                    "homepage": "https://github.com/dmang-dev/hash-bench",
                     "id": 1237326120,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-05-14T23:35:45Z",
+                    "open_issues": 0,
                     "owner": "dmang-dev",
                     "repo": "hash-bench-n64",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "benchmark",
+                      "cryptography",
+                      "hashing",
+                      "homebrew",
+                      "libdragon",
+                      "mips",
+                      "n64",
+                      "nintendo",
+                      "nintendo-64",
+                      "vr4300"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 }
@@ -3922,12 +5418,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make Nintendo 64 games in Rust! 🦀",
+                "homepage": null,
                 "id": 161867400,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-06-21T04:16:35Z",
+                "open_issues": 13,
                 "owner": "rust-console",
                 "repo": "cargo-n64",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "cargo-subcommand",
+                  "n64",
+                  "nintendo-64",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3938,12 +5444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tests a wide variety of N64 features, from common to hardware quirks. Written in Rust. Executes quickly.",
+                "homepage": null,
                 "id": 433966079,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-21T22:21:44Z",
+                "open_issues": 13,
                 "owner": "lemmy-64",
                 "repo": "n64-systemtest",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3954,12 +5465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple cross-platform runtime / startup for Rust on embedded devices.",
+                "homepage": null,
                 "id": 161970809,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-10-16T22:59:24Z",
+                "open_issues": 1,
                 "owner": "rust-console",
                 "repo": "rrt0",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3970,12 +5486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple cross-platform runtime / startup for Rust on embedded devices.",
+                "homepage": null,
                 "id": 161970809,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-10-16T22:59:24Z",
+                "open_issues": 1,
                 "owner": "rust-console",
                 "repo": "rrt0",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -3986,12 +5507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust bindings to libdragon",
+                "homepage": null,
                 "id": 755985800,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-16T15:31:50Z",
+                "open_issues": 1,
                 "owner": "sarchar",
                 "repo": "libdragon-rs",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4002,12 +5528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 225180211,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-12-15T14:58:52Z",
+                "open_issues": 1,
                 "owner": "JoNil",
                 "repo": "loka-n64",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4018,12 +5549,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ELF binary to N64 ROM converter",
+                "homepage": null,
                 "id": 501518892,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-06-26T15:04:39Z",
+                "open_issues": 0,
                 "owner": "rust-n64",
                 "repo": "nust64",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "elf",
+                  "homebrew",
+                  "n64",
+                  "rom",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4034,12 +5576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust Meetup N64 slides Apr 2019",
+                "homepage": null,
                 "id": 182173035,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2020-05-19T04:27:46Z",
+                "open_issues": 0,
                 "owner": "monocasa",
                 "repo": "n64-slides-apr",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4050,12 +5597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust Implementation of N64 ROM Toolchain",
+                "homepage": null,
                 "id": 77199211,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2016-12-26T01:53:31Z",
+                "open_issues": 0,
                 "owner": "monocasa",
                 "repo": "n64toolchain",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4066,12 +5618,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library & toolkit for working with Nintendo 64 rom files",
+                "homepage": null,
                 "id": 215296904,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-01-10T01:34:59Z",
+                "open_issues": 0,
                 "owner": "saneki",
                 "repo": "n64rom-rs",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "nintendo",
+                  "nintendo-64",
+                  "rom",
+                  "rust",
+                  "rustlang"
+                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4082,12 +5645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal startup / runtime for Nintendo 64",
+                "homepage": null,
                 "id": 182171886,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2019-04-18T23:55:39Z",
+                "open_issues": 0,
                 "owner": "monocasa",
                 "repo": "rs64-rt",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4098,12 +5666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fairly raw N64 MMIO definitions",
+                "homepage": null,
                 "id": 182170503,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-02-07T02:03:26Z",
+                "open_issues": 1,
                 "owner": "monocasa",
                 "repo": "rs64-periph",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4114,12 +5687,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust library from manipulating Nintendo 64 ROM images",
+                "homepage": null,
                 "id": 181803150,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2019-04-17T03:00:10Z",
+                "open_issues": 0,
                 "owner": "monocasa",
                 "repo": "rs64-rom",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4130,12 +5708,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust bindings and interface to the N64-dev library LibDragon",
+                "homepage": null,
                 "id": 363247218,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-05-11T19:34:50Z",
+                "open_issues": 1,
                 "owner": "Freia-Jensen",
                 "repo": "libdragon-bindings",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4146,12 +5729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for manipulating Nintendo 64 ROM images",
+                "homepage": null,
                 "id": 182169321,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2019-04-18T23:15:24Z",
+                "open_issues": 0,
                 "owner": "monocasa",
                 "repo": "rs64romtool",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -4169,12 +5757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support for Nintendo64 in embeddedgo",
+                "homepage": "https://embeddedgo.github.io/",
                 "id": 718168031,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-09T13:44:53Z",
+                "open_issues": 0,
                 "owner": "clktmr",
                 "repo": "n64",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4185,12 +5778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 887992121,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-08-03T20:07:43Z",
+                "open_issues": 0,
                 "owner": "clktmr",
                 "repo": "gopher-kart",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             }
@@ -4204,15 +5802,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:21.320Z",
+    "last_updated": "2026-08-29T04:42:12.894Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
+      "homepage": "https://n64.dev",
       "id": 195496224,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-07-12T17:54:11Z",
+      "open_issues": 2,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
-      "stars": 574
+      "stars": 574,
+      "topics": [
+        "asm",
+        "assembler",
+        "assembly-programming",
+        "awesome",
+        "awesome-list",
+        "c",
+        "cartridge",
+        "development-kit",
+        "documentation",
+        "game-development",
+        "gamedev",
+        "mips",
+        "mips-assembly",
+        "n64",
+        "nintendo",
+        "nintendo-64",
+        "resources",
+        "rom",
+        "rust",
+        "tools"
+      ]
     },
     "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
     "enhanced_repository": "enhansome/enhansome-n64-development",
