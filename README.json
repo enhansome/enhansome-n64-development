@@ -560,7 +560,7 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T13:46:21Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "gopher64",
                 "repo": "gopher64",
                 "stars": 1232,
@@ -843,7 +843,7 @@
                 "open_issues": 16,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1133,
+                "stars": 1134,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -867,7 +867,7 @@
                 "open_issues": 13,
                 "owner": "buu342",
                 "repo": "N64-UNFLoader",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -966,10 +966,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T23:40:35Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
-                "stars": 454,
+                "stars": 455,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2293,7 +2293,7 @@
                     "open_issues": 28,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8741,
+                    "stars": 8743,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2310,11 +2310,11 @@
                     "id": 247875738,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-19T12:04:50Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-08-29T14:14:49Z",
+                    "open_issues": 72,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5490,
+                    "stars": 5492,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2331,11 +2331,11 @@
                     "id": 247875852,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-28T11:39:11Z",
+                    "last_commit": "2026-08-29T15:44:47Z",
                     "open_issues": 15,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1714,
+                    "stars": 1713,
                     "topics": [
                       "decompilation"
                     ]
@@ -2406,7 +2406,7 @@
                     "open_issues": 4,
                     "owner": "DavidSM64",
                     "repo": "Diddy-Kong-Racing",
-                    "stars": 418,
+                    "stars": 419,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2852,7 +2852,7 @@
                     "id": 338258341,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-26T20:06:30Z",
+                    "last_commit": "2026-08-29T07:27:35Z",
                     "open_issues": 0,
                     "owner": "mkst",
                     "repo": "sssv",
@@ -2910,6 +2910,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Jet Force Gemini",
+                  "description": "An in-progress decompilation of Jet Force Gemini",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 614621229,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-08-29T01:38:14Z",
+                    "open_issues": 0,
+                    "owner": "Ryan-Myers",
+                    "repo": "Jet-Force-Gemini",
+                    "stars": 51,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Mario Party 2",
                   "description": "An in-progress decompilation of Mario Party 2",
                   "children": [],
@@ -2925,27 +2946,6 @@
                     "owner": "mariopartyrd",
                     "repo": "marioparty2",
                     "stars": 51,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Jet Force Gemini",
-                  "description": "An in-progress decompilation of Jet Force Gemini",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 614621229,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-08-29T01:38:14Z",
-                    "open_issues": 0,
-                    "owner": "Ryan-Myers",
-                    "repo": "Jet-Force-Gemini",
-                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3057,7 +3057,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-28T14:13:14Z",
+                    "last_commit": "2026-08-29T08:50:50Z",
                     "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -3569,7 +3569,7 @@
                     "id": 816042765,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-15T14:23:38Z",
+                    "last_commit": "2026-08-29T17:21:25Z",
                     "open_issues": 0,
                     "owner": "adipocira",
                     "repo": "doraemon1",
@@ -3919,8 +3919,8 @@
                 "id": 139763391,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T13:52:27Z",
-                "open_issues": 64,
+                "last_commit": "2026-08-29T15:07:35Z",
+                "open_issues": 63,
                 "owner": "matt-kempster",
                 "repo": "m2c",
                 "stars": 630,
@@ -3970,7 +3970,7 @@
                 "open_issues": 48,
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4341,7 +4341,7 @@
                     "open_issues": 23,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3238,
+                    "stars": 3239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4359,7 +4359,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-27T21:14:42Z",
-                    "open_issues": 565,
+                    "open_issues": 564,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
                     "stars": 2041,
@@ -4425,7 +4425,7 @@
                     "id": 1168838598,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T03:54:36Z",
+                    "last_commit": "2026-08-29T17:21:17Z",
                     "open_issues": 3,
                     "owner": "Scottcjn",
                     "repo": "legend-of-elya-n64",
@@ -5802,7 +5802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:12.894Z",
+    "last_updated": "2026-08-29T17:23:55.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
