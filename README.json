@@ -444,7 +444,7 @@
                 "open_issues": 275,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3030,
+                "stars": 3031,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -559,11 +559,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T14:02:39Z",
+                "last_commit": "2026-09-05T09:51:53Z",
                 "open_issues": 16,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1242,
+                "stars": 1243,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -965,7 +965,7 @@
                 "id": 601806108,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-01T21:16:27Z",
+                "last_commit": "2026-09-05T15:19:29Z",
                 "open_issues": 44,
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
@@ -996,7 +996,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-01T22:42:36Z",
-                    "open_issues": 76,
+                    "open_issues": 78,
                     "owner": "Fast-64",
                     "repo": "fast64",
                     "stars": 532,
@@ -2097,7 +2097,7 @@
                 "id": 768839627,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-30T22:49:41Z",
+                "last_commit": "2026-09-05T14:44:09Z",
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
@@ -2208,7 +2208,7 @@
                 "id": 325400721,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-30T03:40:08Z",
+                "last_commit": "2026-09-05T04:10:50Z",
                 "open_issues": 1,
                 "owner": "matthewcpp",
                 "repo": "framework64",
@@ -2310,11 +2310,11 @@
                     "id": 247875738,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-02T16:59:35Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-09-04T19:12:51Z",
+                    "open_issues": 75,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5497,
+                    "stars": 5499,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2335,7 +2335,7 @@
                     "open_issues": 11,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1716,
+                    "stars": 1717,
                     "topics": [
                       "decompilation"
                     ]
@@ -2358,7 +2358,7 @@
                     "open_issues": 34,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1604,
+                    "stars": 1605,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2469,7 +2469,7 @@
                     "open_issues": 3,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 246,
+                    "stars": 247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2721,11 +2721,11 @@
                     "id": 275165286,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-29T03:34:53Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-09-05T01:12:49Z",
+                    "open_issues": 8,
                     "owner": "ethteck",
                     "repo": "pokemonsnap",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2831,7 +2831,7 @@
                     "id": 502461748,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-04T01:09:13Z",
+                    "last_commit": "2026-09-05T09:30:08Z",
                     "open_issues": 0,
                     "owner": "mariopartyrd",
                     "repo": "marioparty3",
@@ -2921,7 +2921,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-09-03T19:22:00Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
                     "stars": 52,
@@ -3021,6 +3021,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Body Harvest",
+                  "description": "An in-progress decompilation of Body Harvest in D (see also DeltaniumIndustries/BodyHarvestDecomp)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 276809202,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-09-05T10:47:47Z",
+                    "open_issues": 2,
+                    "owner": "jaytheham",
+                    "repo": "body-harvest-decompilation",
+                    "stars": 40,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Aidyn Chronicles",
                   "description": "An in-progress decompilation of Aidyn Chronicles",
                   "children": [],
@@ -3042,27 +3063,6 @@
                       "nintendo-64",
                       "reverse-engineering"
                     ]
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Body Harvest",
-                  "description": "An in-progress decompilation of Body Harvest in D (see also DeltaniumIndustries/BodyHarvestDecomp)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 276809202,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-09-04T07:49:19Z",
-                    "open_issues": 2,
-                    "owner": "jaytheham",
-                    "repo": "body-harvest-decompilation",
-                    "stars": 39,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3100,7 +3100,7 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-09-04T12:14:53Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
                     "stars": 35,
@@ -3966,8 +3966,8 @@
                 "id": 172801212,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T22:43:58Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-05T16:04:48Z",
+                "open_issues": 49,
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
                 "stars": 217,
@@ -4013,7 +4013,7 @@
                 "language": "Python",
                 "license": "Unlicense",
                 "last_commit": "2026-08-25T14:09:40Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "simonlindholm",
                 "repo": "asm-differ",
                 "stars": 167,
@@ -4341,7 +4341,7 @@
                     "open_issues": 23,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3244,
+                    "stars": 3246,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4358,11 +4358,11 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-03T18:59:06Z",
+                    "last_commit": "2026-09-04T22:42:19Z",
                     "open_issues": 565,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2046,
+                    "stars": 2047,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4429,7 +4429,7 @@
                     "open_issues": 3,
                     "owner": "Scottcjn",
                     "repo": "legend-of-elya-n64",
-                    "stars": 133,
+                    "stars": 135,
                     "topics": [
                       "ai",
                       "edge-ai",
@@ -5802,7 +5802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:07:49.442Z",
+    "last_updated": "2026-09-05T16:17:02.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
