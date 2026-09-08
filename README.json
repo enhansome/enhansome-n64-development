@@ -444,7 +444,7 @@
                 "open_issues": 275,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3035,
+                "stars": 3034,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -563,7 +563,7 @@
                 "open_issues": 16,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1249,
+                "stars": 1253,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -734,11 +734,11 @@
             "id": 520346362,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-06-13T15:49:05Z",
+            "last_commit": "2026-09-08T13:42:51Z",
             "open_issues": 10,
             "owner": "pdaxrom",
             "repo": "N64cart",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "cartridge",
               "firmware",
@@ -769,7 +769,7 @@
             "open_issues": 1,
             "owner": "jago85",
             "repo": "Brutzelkarte_PCB",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "hardware",
               "n64"
@@ -843,7 +843,7 @@
                 "open_issues": 16,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1140,
+                "stars": 1142,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -966,10 +966,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-06T00:58:16Z",
-                "open_issues": 45,
+                "open_issues": 47,
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
-                "stars": 458,
+                "stars": 461,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1845,7 +1845,7 @@
                 "open_issues": 42,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -2077,10 +2077,10 @@
                 "language": "C",
                 "license": "Unlicense",
                 "last_commit": "2026-09-07T18:16:41Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1234,
+                "stars": 1236,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2101,7 +2101,7 @@
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 562,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2208,7 +2208,7 @@
                 "id": 325400721,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-05T04:10:50Z",
+                "last_commit": "2026-09-08T03:28:01Z",
                 "open_issues": 1,
                 "owner": "matthewcpp",
                 "repo": "framework64",
@@ -2266,6 +2266,118 @@
           "description": null,
           "node_type": "group",
           "title": "Development Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "n64_controller_test",
+              "description": "A simple homebrew ROM built with to perform some basic controller tests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A homebrew rom made to test various features of the N64 controller on a N64 console. :video_game:",
+                "homepage": null,
+                "id": 281608267,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2024-11-06T05:54:18Z",
+                "open_issues": 0,
+                "owner": "Ryzee119",
+                "repo": "n64_controller_test",
+                "stars": 70,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:13:21.320Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Controller-Pak-Manager",
+              "description": "A ROM that presents graphical user interface to manage Controller Pak data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "N64 Controller pak manager with win95 like UI",
+                "homepage": null,
+                "id": 260789510,
+                "language": "C",
+                "license": null,
+                "last_commit": "2020-05-06T17:04:17Z",
+                "open_issues": 0,
+                "owner": "manfriedn64",
+                "repo": "Controller-Pak-Manager",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:13:21.320Z"
+            },
+            {
+              "node_type": "item",
+              "title": "controllertest",
+              "description": "Another controller test ROM, also built with",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Portable N64 Controller Tester",
+                "homepage": null,
+                "id": 302742624,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2020-10-09T20:36:18Z",
+                "open_issues": 0,
+                "owner": "max257612",
+                "repo": "controllertest",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:13:21.320Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rsp-ruination",
+              "description": "A torture test that uses an emulated RSP on the CPU to validate functionality of the actual RSP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "N64 RSP torture test",
+                "homepage": null,
+                "id": 345445840,
+                "language": "C",
+                "license": null,
+                "last_commit": "2024-08-31T16:38:29Z",
+                "open_issues": 0,
+                "owner": "Dillonb",
+                "repo": "rsp-ruination",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:13:21.320Z"
+            },
+            {
+              "node_type": "item",
+              "title": "n64memtest",
+              "description": "Homebrew RDRAM memory diagnostic tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nintendo 64 memory test",
+                "homepage": null,
+                "id": 1265247106,
+                "language": "C",
+                "license": "Unlicense",
+                "last_commit": "2026-06-10T16:39:06Z",
+                "open_issues": 0,
+                "owner": "rasky",
+                "repo": "n64memtest",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-09-08T17:33:06.257Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
         }
       ],
       "title": "Tools and Libraries"
@@ -2293,7 +2405,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8757,
+                    "stars": 8760,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2314,7 +2426,7 @@
                     "open_issues": 76,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5500,
+                    "stars": 5504,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2358,7 +2470,7 @@
                     "open_issues": 34,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1605,
+                    "stars": 1606,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2406,7 +2518,7 @@
                     "open_issues": 4,
                     "owner": "DavidSM64",
                     "repo": "Diddy-Kong-Racing",
-                    "stars": 421,
+                    "stars": 422,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2427,7 +2539,7 @@
                     "open_issues": 6,
                     "owner": "zeldaret",
                     "repo": "af",
-                    "stars": 292,
+                    "stars": 293,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2465,11 +2577,11 @@
                     "id": 674504094,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-25T00:52:30Z",
+                    "last_commit": "2026-09-08T01:26:12Z",
                     "open_issues": 3,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2659,7 +2771,7 @@
                     "open_issues": 6,
                     "owner": "Mr-Wiseguy",
                     "repo": "banjo-tooie",
-                    "stars": 139,
+                    "stars": 140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2732,6 +2844,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Mario Party",
+                  "description": "An in-progress decompilation of Mario Party",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Mario Party 1 US Decomp",
+                    "homepage": null,
+                    "id": 484109700,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-06-28T16:57:50Z",
+                    "open_issues": 1,
+                    "owner": "mariopartyrd",
+                    "repo": "marioparty",
+                    "stars": 78,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Yoshi's Story",
                   "description": "An in-progress decompilation of Yoshi's Story",
                   "children": [],
@@ -2747,27 +2880,6 @@
                     "owner": "decompals",
                     "repo": "yoshis-story",
                     "stars": 78,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Mario Party",
-                  "description": "An in-progress decompilation of Mario Party",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Mario Party 1 US Decomp",
-                    "homepage": null,
-                    "id": 484109700,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-06-28T16:57:50Z",
-                    "open_issues": 1,
-                    "owner": "mariopartyrd",
-                    "repo": "marioparty",
-                    "stars": 77,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2809,7 +2921,7 @@
                     "open_issues": 3,
                     "owner": "Drahsid",
                     "repo": "mischief-makers",
-                    "stars": 71,
+                    "stars": 72,
                     "topics": [
                       "decompilation",
                       "mischief-makers",
@@ -3010,7 +3122,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-07T09:26:50Z",
+                    "last_commit": "2026-09-08T08:06:18Z",
                     "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -3099,8 +3211,8 @@
                     "id": 610957587,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T12:14:53Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-09-08T00:14:33Z",
+                    "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
                     "stars": 35,
@@ -3569,7 +3681,7 @@
                     "id": 816042765,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-03T05:45:42Z",
+                    "last_commit": "2026-09-08T05:35:29Z",
                     "open_issues": 0,
                     "owner": "adipocira",
                     "repo": "doraemon1",
@@ -3966,11 +4078,11 @@
                 "id": 172801212,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T16:04:48Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-07T22:52:37Z",
+                "open_issues": 49,
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
-                "stars": 218,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4146,6 +4258,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
+            },
+            {
+              "node_type": "item",
+              "title": "y64_linker",
+              "description": "MIPS64 ELF relocation resolver and section extractor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MIPS64 ELF relocation resolver & section extractor",
+                "homepage": null,
+                "id": 1152090201,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-09-02T02:44:47Z",
+                "open_issues": 0,
+                "owner": "blueberry077",
+                "repo": "y64_linker",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-08T17:33:06.257Z"
             }
           ],
           "description": null,
@@ -4176,7 +4309,7 @@
                 "open_issues": 21,
                 "owner": "Hydr8gon",
                 "repo": "sodium64",
-                "stars": 327,
+                "stars": 328,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4239,7 +4372,7 @@
                 "open_issues": 22,
                 "owner": "hcs64",
                 "repo": "neon64v2",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "emulator",
                   "mips-assembly",
@@ -4338,7 +4471,7 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-08-20T18:03:37Z",
-                    "open_issues": 23,
+                    "open_issues": 24,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
                     "stars": 3248,
@@ -4358,11 +4491,11 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-06T07:54:12Z",
+                    "last_commit": "2026-09-07T21:55:38Z",
                     "open_issues": 567,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2049,
+                    "stars": 2051,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4416,7 +4549,7 @@
                 {
                   "node_type": "item",
                   "title": "Legend of Elya",
-                  "description": "A 4-layer nano-GPT neural network (819K parameters) running natively on the N64's MIPS R4300i FPU, believed to be the first LLM on Nintendo 64 hardware",
+                  "description": "A Zelda-style ROM running a transformer for live LLM inference powering an NPC, built with",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4538,7 +4671,7 @@
                     "open_issues": 2,
                     "owner": "jsdf",
                     "repo": "n64-sdk-demo",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": [
                       "n64",
                       "n64-development"
@@ -4570,27 +4703,6 @@
                       "nintendo-64",
                       "nintendo64"
                     ]
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "n64_controller_test",
-                  "description": "A simple homebrew ROM built with to perform some basic controller tests",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A homebrew rom made to test various features of the N64 controller on a N64 console. :video_game:",
-                    "homepage": null,
-                    "id": 281608267,
-                    "language": "C",
-                    "license": "MIT",
-                    "last_commit": "2024-11-06T05:54:18Z",
-                    "open_issues": 0,
-                    "owner": "Ryzee119",
-                    "repo": "n64_controller_test",
-                    "stars": 70,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -4755,69 +4867,6 @@
                     "owner": "SpookyIluha",
                     "repo": "Driving-Strikers-64",
                     "stars": 29,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Controller-Pak-Manager",
-                  "description": "A ROM that presents graphical user interface to manage Controller Pak data",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "N64 Controller pak manager with win95 like UI",
-                    "homepage": null,
-                    "id": 260789510,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2020-05-06T17:04:17Z",
-                    "open_issues": 0,
-                    "owner": "manfriedn64",
-                    "repo": "Controller-Pak-Manager",
-                    "stars": 26,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "controllertest",
-                  "description": "Another controller test ROM, also built with",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Portable N64 Controller Tester",
-                    "homepage": null,
-                    "id": 302742624,
-                    "language": "C",
-                    "license": "GPL-3.0",
-                    "last_commit": "2020-10-09T20:36:18Z",
-                    "open_issues": 0,
-                    "owner": "max257612",
-                    "repo": "controllertest",
-                    "stars": 20,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsp-ruination",
-                  "description": "A torture test that uses an emulated RSP on the CPU to validate functionality of the actual RSP",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "N64 RSP torture test",
-                    "homepage": null,
-                    "id": 345445840,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2024-08-31T16:38:29Z",
-                    "open_issues": 0,
-                    "owner": "Dillonb",
-                    "repo": "rsp-ruination",
-                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5802,7 +5851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:25:14.764Z",
+    "last_updated": "2026-09-08T17:33:06.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
@@ -5810,11 +5859,11 @@
       "id": 195496224,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-07-12T17:54:11Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-07T23:19:15Z",
+      "open_issues": 0,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
-      "stars": 576,
+      "stars": 577,
       "topics": [
         "asm",
         "assembler",
@@ -5838,7 +5887,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "f2c4e30587ceca34fed766f0213a6de395cc0aa7",
+    "original_repository_sha": "a3d3434c34efd0f1e03b62ec289aef3149623cb8",
     "enhanced_repository": "enhansome/enhansome-n64-development",
     "enhanced_repository_description": null,
     "title": "Awesome N64 Development with stars"
