@@ -440,7 +440,7 @@
                 "id": 26941088,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-30T10:38:20Z",
+                "last_commit": "2026-09-17T10:16:27Z",
                 "open_issues": 277,
                 "owner": "project64",
                 "repo": "project64",
@@ -485,8 +485,8 @@
                 "id": 294961602,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T15:49:48Z",
-                "open_issues": 137,
+                "last_commit": "2026-09-17T11:35:41Z",
+                "open_issues": 136,
                 "owner": "Rosalie241",
                 "repo": "RMG",
                 "stars": 1108,
@@ -506,8 +506,8 @@
                 "id": 270116602,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-16T12:38:34Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-16T23:46:41Z",
+                "open_issues": 8,
                 "owner": "Dillonb",
                 "repo": "n64",
                 "stars": 185,
@@ -559,11 +559,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T06:17:54Z",
+                "last_commit": "2026-09-17T08:29:41Z",
                 "open_issues": 14,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1264,
+                "stars": 1265,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -843,7 +843,7 @@
                 "open_issues": 16,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1149,
+                "stars": 1152,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -969,7 +969,7 @@
                 "open_issues": 48,
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
-                "stars": 468,
+                "stars": 469,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -999,7 +999,7 @@
                     "open_issues": 80,
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 534,
+                    "stars": 535,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1845,7 +1845,7 @@
                 "open_issues": 42,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -2080,7 +2080,7 @@
                 "open_issues": 99,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1242,
+                "stars": 1243,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2101,7 +2101,7 @@
                 "open_issues": 4,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2422,7 +2422,7 @@
                     "id": 247875738,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-14T12:15:11Z",
+                    "last_commit": "2026-09-17T10:23:15Z",
                     "open_issues": 76,
                     "owner": "zeldaret",
                     "repo": "oot",
@@ -2444,7 +2444,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-09-03T03:29:47Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "zeldaret",
                     "repo": "mm",
                     "stars": 1718,
@@ -2518,7 +2518,7 @@
                     "open_issues": 4,
                     "owner": "DavidSM64",
                     "repo": "Diddy-Kong-Racing",
-                    "stars": 424,
+                    "stars": 425,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2812,7 +2812,7 @@
                     "id": 815573584,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-03T17:33:21Z",
+                    "last_commit": "2026-09-17T14:56:50Z",
                     "open_issues": 2,
                     "owner": "inspectredc",
                     "repo": "fzerox",
@@ -2837,7 +2837,7 @@
                     "open_issues": 9,
                     "owner": "ethteck",
                     "repo": "pokemonsnap",
-                    "stars": 102,
+                    "stars": 103,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3122,11 +3122,11 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-16T07:29:33Z",
+                    "last_commit": "2026-09-17T07:26:56Z",
                     "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3211,8 +3211,8 @@
                     "id": 610957587,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T10:15:44Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-09-17T00:13:52Z",
+                    "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
                     "stars": 35,
@@ -3555,7 +3555,7 @@
                     "id": 511790524,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-10T01:36:58Z",
+                    "last_commit": "2026-09-17T02:47:03Z",
                     "open_issues": 0,
                     "owner": "chameleonTwistRet",
                     "repo": "chameleonTwistv1.0-JP",
@@ -3581,6 +3581,27 @@
                     "owner": "klorfmorf",
                     "repo": "mnsg",
                     "stars": 9,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Doraemon: Nobita to Mittsu no Seireiseki",
+                  "description": "An in-progress decompilation of Doraemon: Nobita to Mittsu no Seireiseki",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 816042765,
+                    "language": "C",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-15T06:06:26Z",
+                    "open_issues": 0,
+                    "owner": "adipocira",
+                    "repo": "doraemon1",
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3665,27 +3686,6 @@
                     "owner": "LLONSIT",
                     "repo": "VirtualPool64",
                     "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Doraemon: Nobita to Mittsu no Seireiseki",
-                  "description": "An in-progress decompilation of Doraemon: Nobita to Mittsu no Seireiseki",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 816042765,
-                    "language": "C",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-15T06:06:26Z",
-                    "open_issues": 0,
-                    "owner": "adipocira",
-                    "repo": "doraemon1",
-                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4474,7 +4474,7 @@
                     "open_issues": 23,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3254,
+                    "stars": 3255,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4491,11 +4491,11 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-16T09:52:45Z",
-                    "open_issues": 569,
+                    "last_commit": "2026-09-17T09:13:42Z",
+                    "open_issues": 568,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2059,
+                    "stars": 2058,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5851,7 +5851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:45:10.905Z",
+    "last_updated": "2026-09-17T17:45:26.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
@@ -5863,7 +5863,7 @@
       "open_issues": 0,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
-      "stars": 581,
+      "stars": 582,
       "topics": [
         "asm",
         "assembler",
