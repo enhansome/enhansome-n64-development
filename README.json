@@ -489,7 +489,7 @@
                 "open_issues": 139,
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1113,
+                "stars": 1112,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -559,11 +559,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T21:12:16Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-26T21:19:12Z",
+                "open_issues": 12,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1276,
+                "stars": 1277,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -843,7 +843,7 @@
                 "open_issues": 16,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1156,
+                "stars": 1157,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -965,11 +965,11 @@
                 "id": 601806108,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-25T17:30:32Z",
+                "last_commit": "2026-09-27T13:20:58Z",
                 "open_issues": 48,
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
-                "stars": 472,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1845,7 +1845,7 @@
                 "open_issues": 43,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 356,
+                "stars": 357,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -2077,10 +2077,10 @@
                 "language": "C",
                 "license": "Unlicense",
                 "last_commit": "2026-09-14T23:36:32Z",
-                "open_issues": 102,
+                "open_issues": 99,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1252,
+                "stars": 1255,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2191,7 +2191,7 @@
                 "open_issues": 12,
                 "owner": "decompals",
                 "repo": "ultralib",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2405,7 +2405,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8786,
+                    "stars": 8789,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2426,7 +2426,7 @@
                     "open_issues": 75,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5540,
+                    "stars": 5541,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2443,7 +2443,7 @@
                     "id": 247875852,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-24T03:46:36Z",
+                    "last_commit": "2026-09-26T21:38:01Z",
                     "open_issues": 13,
                     "owner": "zeldaret",
                     "repo": "mm",
@@ -2470,7 +2470,7 @@
                     "open_issues": 34,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1614,
+                    "stars": 1615,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2515,7 +2515,7 @@
                     "language": "C",
                     "license": "CC0-1.0",
                     "last_commit": "2026-08-18T12:16:06Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "DavidSM64",
                     "repo": "Diddy-Kong-Racing",
                     "stars": 422,
@@ -2539,7 +2539,7 @@
                     "open_issues": 6,
                     "owner": "zeldaret",
                     "repo": "af",
-                    "stars": 295,
+                    "stars": 296,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2581,7 +2581,7 @@
                     "open_issues": 4,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 258,
+                    "stars": 260,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2738,7 +2738,7 @@
                     "id": 864682338,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-30T04:18:07Z",
+                    "last_commit": "2026-09-27T17:30:22Z",
                     "open_issues": 4,
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
@@ -2865,6 +2865,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Dr. Mario 64",
+                  "description": "An in-progress decompilation of Dr. Mario 64",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Dr. Mario 64 decomp",
+                    "homepage": "https://decomp.dev/AngheloAlf/drmario64",
+                    "id": 538707677,
+                    "language": "C",
+                    "license": "MIT",
+                    "last_commit": "2026-08-13T23:21:16Z",
+                    "open_issues": 0,
+                    "owner": "AngheloAlf",
+                    "repo": "drmario64",
+                    "stars": 78,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Yoshi's Story",
                   "description": "An in-progress decompilation of Yoshi's Story",
                   "children": [],
@@ -2886,27 +2907,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Dr. Mario 64",
-                  "description": "An in-progress decompilation of Dr. Mario 64",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Dr. Mario 64 decomp",
-                    "homepage": "https://decomp.dev/AngheloAlf/drmario64",
-                    "id": 538707677,
-                    "language": "C",
-                    "license": "MIT",
-                    "last_commit": "2026-08-13T23:21:16Z",
-                    "open_issues": 0,
-                    "owner": "AngheloAlf",
-                    "repo": "drmario64",
-                    "stars": 77,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Mischief Makers",
                   "description": "An in-progress decompilation of Mischief Makers",
                   "children": [],
@@ -2921,7 +2921,7 @@
                     "open_issues": 2,
                     "owner": "Drahsid",
                     "repo": "mischief-makers",
-                    "stars": 72,
+                    "stars": 71,
                     "topics": [
                       "decompilation",
                       "mischief-makers",
@@ -3033,7 +3033,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-09-03T19:22:00Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
                     "stars": 53,
@@ -3122,8 +3122,8 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-26T07:23:12Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-27T09:14:19Z",
+                    "open_issues": 3,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 44,
@@ -3147,7 +3147,7 @@
                     "open_issues": 1,
                     "owner": "retroplastic",
                     "repo": "blastcorps",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4035,7 +4035,7 @@
                 "open_issues": 62,
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 642,
+                "stars": 643,
                 "topics": [
                   "decompiler",
                   "mips",
@@ -4128,7 +4128,7 @@
                 "open_issues": 34,
                 "owner": "simonlindholm",
                 "repo": "asm-differ",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4474,7 +4474,7 @@
                     "open_issues": 24,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3258,
+                    "stars": 3262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4492,7 +4492,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-23T21:55:12Z",
-                    "open_issues": 572,
+                    "open_issues": 573,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
                     "stars": 2066,
@@ -5851,7 +5851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:23:38.616Z",
+    "last_updated": "2026-09-27T17:56:55.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
@@ -5863,7 +5863,7 @@
       "open_issues": 0,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
-      "stars": 581,
+      "stars": 582,
       "topics": [
         "asm",
         "assembler",
