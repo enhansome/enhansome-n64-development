@@ -444,7 +444,7 @@
                 "open_issues": 276,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3051,
+                "stars": 3053,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -489,7 +489,7 @@
                 "open_issues": 138,
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1115,
+                "stars": 1116,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -563,7 +563,7 @@
                 "open_issues": 11,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1278,
+                "stars": 1279,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -679,7 +679,7 @@
                 "open_issues": 1,
                 "owner": "extremscorner",
                 "repo": "not64",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "emulator",
                   "gamecube",
@@ -738,7 +738,7 @@
             "open_issues": 10,
             "owner": "pdaxrom",
             "repo": "N64cart",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "cartridge",
               "firmware",
@@ -965,8 +965,8 @@
                 "id": 601806108,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-29T18:44:37Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-29T23:55:18Z",
+                "open_issues": 50,
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
                 "stars": 472,
@@ -1824,7 +1824,7 @@
                 "open_issues": 43,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -2059,7 +2059,7 @@
                 "open_issues": 99,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1255,
+                "stars": 1256,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2076,11 +2076,11 @@
                 "id": 768839627,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-28T21:52:18Z",
+                "last_commit": "2026-09-30T18:04:55Z",
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 572,
+                "stars": 573,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2384,7 +2384,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8789,
+                    "stars": 8794,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2401,11 +2401,11 @@
                     "id": 247875738,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-24T04:29:19Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-09-30T12:18:54Z",
+                    "open_issues": 73,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5544,
+                    "stars": 5546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2449,7 +2449,7 @@
                     "open_issues": 34,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1618,
+                    "stars": 1619,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2518,7 +2518,7 @@
                     "open_issues": 6,
                     "owner": "zeldaret",
                     "repo": "af",
-                    "stars": 296,
+                    "stars": 297,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2539,7 +2539,7 @@
                     "open_issues": 0,
                     "owner": "Gillou68310",
                     "repo": "DukeNukemZeroHour",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2560,7 +2560,7 @@
                     "open_issues": 4,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 262,
+                    "stars": 261,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2648,8 +2648,8 @@
                     "id": 340927189,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-28T19:34:24Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-09-30T06:43:29Z",
+                    "open_issues": 2,
                     "owner": "zestydevy",
                     "repo": "dinosaur-planet",
                     "stars": 217,
@@ -2694,7 +2694,7 @@
                     "open_issues": 6,
                     "owner": "pret",
                     "repo": "pokestadium",
-                    "stars": 206,
+                    "stars": 208,
                     "topics": [
                       "c",
                       "disassembly",
@@ -2757,6 +2757,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "F-Zero X",
+                  "description": "An in-progress decompilation of F-Zero X",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "F-Zero X Decompilation",
+                    "homepage": null,
+                    "id": 815573584,
+                    "language": "C",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-09-17T14:56:50Z",
+                    "open_issues": 2,
+                    "owner": "inspectredc",
+                    "repo": "fzerox",
+                    "stars": 107,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Wave Race 64",
                   "description": "An in-progress decompilation of Wave Race 64",
                   "children": [],
@@ -2776,27 +2797,6 @@
                       "decompilation",
                       "n64"
                     ]
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "F-Zero X",
-                  "description": "An in-progress decompilation of F-Zero X",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "F-Zero X Decompilation",
-                    "homepage": null,
-                    "id": 815573584,
-                    "language": "C",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-09-17T14:56:50Z",
-                    "open_issues": 2,
-                    "owner": "inspectredc",
-                    "repo": "fzerox",
-                    "stars": 106,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3101,8 +3101,8 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-29T10:52:50Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-30T10:08:46Z",
+                    "open_issues": 3,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 43,
@@ -3159,27 +3159,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Neon Genesis Evangelion 64",
-                  "description": "An in-progress decompilation of Neon Genesis Evangelion 64",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "WIP Decompilation of the only anime game on N64",
-                    "homepage": null,
-                    "id": 338937298,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2025-07-13T17:51:10Z",
-                    "open_issues": 2,
-                    "owner": "farisawan-2000",
-                    "repo": "evangelion",
-                    "stars": 36,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Pokémon Puzzle League",
                   "description": "An in-progress decompilation of Pokémon Puzzle League",
                   "children": [],
@@ -3194,6 +3173,27 @@
                     "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
+                    "stars": 37,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Neon Genesis Evangelion 64",
+                  "description": "An in-progress decompilation of Neon Genesis Evangelion 64",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "WIP Decompilation of the only anime game on N64",
+                    "homepage": null,
+                    "id": 338937298,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2025-07-13T17:51:10Z",
+                    "open_issues": 2,
+                    "owner": "farisawan-2000",
+                    "repo": "evangelion",
                     "stars": 36,
                     "topics": []
                   },
@@ -4449,11 +4449,11 @@
                     "id": 1062843332,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T23:07:49Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-09-30T16:25:42Z",
+                    "open_issues": 19,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3262,
+                    "stars": 3264,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4474,7 +4474,7 @@
                     "open_issues": 573,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2067,
+                    "stars": 2068,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4516,7 +4516,7 @@
                     "open_issues": 3,
                     "owner": "Scottcjn",
                     "repo": "legend-of-elya-n64",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": [
                       "ai",
                       "edge-ai",
@@ -5830,7 +5830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:53:12.029Z",
+    "last_updated": "2026-09-30T18:35:30.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
