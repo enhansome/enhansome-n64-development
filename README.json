@@ -444,7 +444,7 @@
                 "open_issues": 276,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3053,
+                "stars": 3054,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -465,7 +465,7 @@
                 "open_issues": 45,
                 "owner": "simple64",
                 "repo": "simple64",
-                "stars": 1177,
+                "stars": 1179,
                 "topics": [
                   "emulation",
                   "n64"
@@ -506,7 +506,7 @@
                 "id": 270116602,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-24T21:45:29Z",
+                "last_commit": "2026-10-01T03:20:18Z",
                 "open_issues": 8,
                 "owner": "Dillonb",
                 "repo": "n64",
@@ -559,11 +559,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T21:19:12Z",
+                "last_commit": "2026-10-01T14:20:33Z",
                 "open_issues": 11,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1279,
+                "stars": 1280,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -679,7 +679,7 @@
                 "open_issues": 1,
                 "owner": "extremscorner",
                 "repo": "not64",
-                "stars": 371,
+                "stars": 372,
                 "topics": [
                   "emulator",
                   "gamecube",
@@ -843,7 +843,7 @@
                 "open_issues": 17,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1157,
+                "stars": 1158,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -969,7 +969,7 @@
                 "open_issues": 50,
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
-                "stars": 472,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -999,7 +999,7 @@
                     "open_issues": 90,
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 536,
+                    "stars": 537,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1824,7 +1824,7 @@
                 "open_issues": 43,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -2056,10 +2056,10 @@
                 "language": "C",
                 "license": "Unlicense",
                 "last_commit": "2026-09-14T23:36:32Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1256,
+                "stars": 1257,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2076,7 +2076,7 @@
                 "id": 768839627,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-30T18:04:55Z",
+                "last_commit": "2026-09-30T18:44:46Z",
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
@@ -2101,7 +2101,7 @@
                 "open_issues": 2,
                 "owner": "n64decomp",
                 "repo": "libreultra",
-                "stars": 181,
+                "stars": 182,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2384,7 +2384,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8794,
+                    "stars": 8797,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2405,7 +2405,7 @@
                     "open_issues": 73,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5546,
+                    "stars": 5548,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2426,7 +2426,7 @@
                     "open_issues": 13,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1726,
+                    "stars": 1729,
                     "topics": [
                       "decompilation"
                     ]
@@ -2449,7 +2449,7 @@
                     "open_issues": 34,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1619,
+                    "stars": 1620,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2476,7 +2476,7 @@
                     "open_issues": 36,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1299,
+                    "stars": 1301,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2493,14 +2493,35 @@
                     "id": 267453843,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-08-18T12:16:06Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-01T10:02:27Z",
+                    "open_issues": 4,
                     "owner": "DavidSM64",
                     "repo": "Diddy-Kong-Racing",
-                    "stars": 422,
+                    "stars": 423,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Star Fox 64",
+                  "description": "An in-progress decompilation of Star Fox 64",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation of Starfox 64",
+                    "homepage": null,
+                    "id": 693816513,
+                    "language": "C",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-09-28T18:33:09Z",
+                    "open_issues": 0,
+                    "owner": "sonicdcer",
+                    "repo": "sf64",
+                    "stars": 347,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-01T19:03:45.822Z"
                 },
                 {
                   "node_type": "item",
@@ -2515,7 +2536,7 @@
                     "language": "C",
                     "license": "CC0-1.0",
                     "last_commit": "2026-08-16T17:56:24Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "zeldaret",
                     "repo": "af",
                     "stars": 297,
@@ -2581,7 +2602,7 @@
                     "open_issues": 9,
                     "owner": "mkst",
                     "repo": "conker",
-                    "stars": 239,
+                    "stars": 238,
                     "topics": [
                       "cbfd",
                       "conker",
@@ -2638,27 +2659,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Dinosaur Planet",
-                  "description": "An in-progress decompilation of Dinosaur Planet",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A WIP decompilation of Dinosaur Planet for the Nintendo 64",
-                    "homepage": null,
-                    "id": 340927189,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-09-30T06:43:29Z",
-                    "open_issues": 2,
-                    "owner": "zestydevy",
-                    "repo": "dinosaur-planet",
-                    "stars": 217,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Harvest Moon 64",
                   "description": "An in-progress decompilation of Harvest Moon 64",
                   "children": [],
@@ -2673,6 +2673,27 @@
                     "open_issues": 2,
                     "owner": "harvestwhisperer",
                     "repo": "hm64-decomp",
+                    "stars": 218,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dinosaur Planet",
+                  "description": "An in-progress decompilation of Dinosaur Planet",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A WIP decompilation of Dinosaur Planet for the Nintendo 64",
+                    "homepage": null,
+                    "id": 340927189,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-09-30T20:28:02Z",
+                    "open_issues": 2,
+                    "owner": "zestydevy",
+                    "repo": "dinosaur-planet",
                     "stars": 217,
                     "topics": []
                   },
@@ -2750,8 +2771,32 @@
                     "open_issues": 6,
                     "owner": "Mr-Wiseguy",
                     "repo": "banjo-tooie",
-                    "stars": 142,
+                    "stars": 143,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wave Race 64",
+                  "description": "An in-progress decompilation of Wave Race 64",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A work in progress decompilation of Wave Race 64",
+                    "homepage": null,
+                    "id": 749426781,
+                    "language": "Assembly",
+                    "license": null,
+                    "last_commit": "2026-09-26T02:48:02Z",
+                    "open_issues": 0,
+                    "owner": "LLONSIT",
+                    "repo": "Wave-Race-64",
+                    "stars": 109,
+                    "topics": [
+                      "decompilation",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2773,30 +2818,6 @@
                     "repo": "fzerox",
                     "stars": 107,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Wave Race 64",
-                  "description": "An in-progress decompilation of Wave Race 64",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A work in progress decompilation of Wave Race 64",
-                    "homepage": null,
-                    "id": 749426781,
-                    "language": "Assembly",
-                    "license": null,
-                    "last_commit": "2026-09-26T02:48:02Z",
-                    "open_issues": 0,
-                    "owner": "LLONSIT",
-                    "repo": "Wave-Race-64",
-                    "stars": 107,
-                    "topics": [
-                      "decompilation",
-                      "n64"
-                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2959,6 +2980,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Bomberman Hero",
+                  "description": "An in-progress decompilation of Bomberman Hero",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A decompilation of Bomberman Hero (US).",
+                    "homepage": null,
+                    "id": 689143524,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-04-24T15:15:46Z",
+                    "open_issues": 0,
+                    "owner": "Bomberhackers",
+                    "repo": "bmhero",
+                    "stars": 61,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Castlevania 64",
                   "description": "An in-progress decompilation of Castlevania 64",
                   "children": [],
@@ -2974,27 +3016,6 @@
                     "owner": "k64ret",
                     "repo": "cv64",
                     "stars": 61,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Bomberman Hero",
-                  "description": "An in-progress decompilation of Bomberman Hero",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A decompilation of Bomberman Hero (US).",
-                    "homepage": null,
-                    "id": 689143524,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-04-24T15:15:46Z",
-                    "open_issues": 0,
-                    "owner": "Bomberhackers",
-                    "repo": "bmhero",
-                    "stars": 59,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3101,8 +3122,8 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-30T10:08:46Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-01T18:43:14Z",
+                    "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 43,
@@ -3169,7 +3190,7 @@
                     "id": 610957587,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T00:02:52Z",
+                    "last_commit": "2026-10-01T01:58:34Z",
                     "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
@@ -3215,7 +3236,7 @@
                     "open_issues": 0,
                     "owner": "Bomberhackers",
                     "repo": "bm64",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3236,7 +3257,7 @@
                     "open_issues": 0,
                     "owner": "LLONSIT",
                     "repo": "AeroGauge",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": [
                       "decompilation",
                       "lzma",
@@ -3289,6 +3310,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Virtual Pro Wrestling 2: Ōdō Keishō",
+                  "description": "An in-progress decompilation of Virtual Pro Wrestling 2: Ōdō Keishō",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Virtual Pro-Wrestling 2 decompilation project.",
+                    "homepage": null,
+                    "id": 476578739,
+                    "language": "Assembly",
+                    "license": null,
+                    "last_commit": "2026-03-26T01:28:45Z",
+                    "open_issues": 0,
+                    "owner": "AKI-Club",
+                    "repo": "vpw2",
+                    "stars": 27,
+                    "topics": [
+                      "aki",
+                      "n64",
+                      "vpw"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Gauntlet Legends",
                   "description": "An in-progress decompilation of Gauntlet Legends",
                   "children": [],
@@ -3326,31 +3372,6 @@
                     "repo": "turok3",
                     "stars": 26,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Virtual Pro Wrestling 2: Ōdō Keishō",
-                  "description": "An in-progress decompilation of Virtual Pro Wrestling 2: Ōdō Keishō",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Virtual Pro-Wrestling 2 decompilation project.",
-                    "homepage": null,
-                    "id": 476578739,
-                    "language": "Assembly",
-                    "license": null,
-                    "last_commit": "2026-03-26T01:28:45Z",
-                    "open_issues": 0,
-                    "owner": "AKI-Club",
-                    "repo": "vpw2",
-                    "stars": 26,
-                    "topics": [
-                      "aki",
-                      "n64",
-                      "vpw"
-                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3587,6 +3608,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Virtual Pool 64",
+                  "description": "An in-progress decompilation of Virtual Pool 64",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 554576476,
+                    "language": "Assembly",
+                    "license": null,
+                    "last_commit": "2022-10-29T20:49:44Z",
+                    "open_issues": 0,
+                    "owner": "LLONSIT",
+                    "repo": "VirtualPool64",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Knife Edge: Nose Gunner",
                   "description": "Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for Knife Edge: Nose Gunner",
                   "children": [],
@@ -3643,27 +3685,6 @@
                     "open_issues": 0,
                     "owner": "Rainchus",
                     "repo": "ShadowGate64",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Virtual Pool 64",
-                  "description": "An in-progress decompilation of Virtual Pool 64",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 554576476,
-                    "language": "Assembly",
-                    "license": null,
-                    "last_commit": "2022-10-29T20:49:44Z",
-                    "open_issues": 0,
-                    "owner": "LLONSIT",
-                    "repo": "VirtualPool64",
                     "stars": 7,
                     "topics": []
                   },
@@ -4082,7 +4103,7 @@
                 "open_issues": 2,
                 "owner": "Decompollaborate",
                 "repo": "rabbitizer",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "disassembler",
                   "mips-assembly",
@@ -4149,7 +4170,7 @@
                 "open_issues": 7,
                 "owner": "Decompollaborate",
                 "repo": "spimdisasm",
-                "stars": 79,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4351,7 +4372,7 @@
                 "open_issues": 22,
                 "owner": "hcs64",
                 "repo": "neon64v2",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "emulator",
                   "mips-assembly",
@@ -4474,7 +4495,7 @@
                     "open_issues": 573,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2068,
+                    "stars": 2067,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5830,7 +5851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:35:30.947Z",
+    "last_updated": "2026-10-01T19:03:45.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
