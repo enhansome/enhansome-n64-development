@@ -115,7 +115,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Works In Progress
 
-* [Gopher64](https://github.com/gopher64/gopher64) ⭐ 1,280 | 🐛 11 | 🌐 Rust | 📅 2026-10-02 - An N64 emulator written in Rust by the developer of Simple64, able to already play some commercial games at decent speeds!
+* [Gopher64](https://github.com/gopher64/gopher64) ⭐ 1,282 | 🐛 11 | 🌐 Rust | 📅 2026-10-02 - An N64 emulator written in Rust by the developer of Simple64, able to already play some commercial games at decent speeds!
 * [cor64](https://github.com/bryanperris/cor64) ⭐ 54 | 🐛 9 | 🌐 C# | 📅 2024-02-14 - An in-progress emulator written in C#
 * [Kaizen (previously Gadolinium)](https://github.com/mehmetpeker1/Kaizen) ⭐ 0 | 🐛 0 | 📅 2024-01-30 - Work-in-progress emulator written in C++, able to already play some commercial games and replay Mupen TAS movies
 
@@ -155,7 +155,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Development Cartridge Loaders
 
-* [sc64deployer](https://github.com/Polprzewodnikowy/SummerCart64/releases) ⭐ 1,158 | 🐛 17 | 🌐 C | 📅 2025-05-11 - SummerCart64 loader and control software (Windows, macOS and Linux)
+* [sc64deployer](https://github.com/Polprzewodnikowy/SummerCart64/releases) ⭐ 1,159 | 🐛 18 | 🌐 C | 📅 2025-05-11 - SummerCart64 loader and control software (Windows, macOS and Linux)
 * [UNFLoader](https://github.com/buu342/N64-UNFLoader/) ⭐ 133 | 🐛 16 | 🌐 C++ | 📅 2026-05-15 - A universal flash cart ROM uploader (64drive, EverDrive 64 V3, EverDrive 64 X7 and SummerCart64) and debug library
 * [ed64](https://github.com/anacierdem/ed64) ⭐ 30 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-20 - Tools to develop on an EverDrive 64 cartridge
 * [g64drive](https://github.com/rasky/g64drive) ⭐ 29 | 🐛 4 | 🌐 Go | 📅 2025-06-09 - Linux/Mac tool for operating a 64drive development cartridge
@@ -163,13 +163,13 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Flashcart Menu Software
 
-* [N64FlashcartMenu](https://github.com/Polprzewodnikowy/N64FlashcartMenu) ⭐ 474 | 🐛 50 | 🌐 C | 📅 2026-09-29 - Universal flashcart menu with aim to support most of the N64 flashcarts on the market
+* [N64FlashcartMenu](https://github.com/Polprzewodnikowy/N64FlashcartMenu) ⭐ 475 | 🐛 50 | 🌐 C | 📅 2026-09-29 - Universal flashcart menu with aim to support most of the N64 flashcarts on the market
 
 ### Asset Conversion and Viewing
 
 #### 3D
 
-* [Fast64](https://github.com/Fast-64/fast64) ⭐ 538 | 🐛 90 | 🌐 Python | 📅 2026-09-22 - A Blender plugin to preview and export meshes as F3D display lists for decomp and homebrew projects.
+* [Fast64](https://github.com/Fast-64/fast64) ⭐ 539 | 🐛 90 | 🌐 Python | 📅 2026-09-22 - A Blender plugin to preview and export meshes as F3D display lists for decomp and homebrew projects.
 * [Sausage64](https://github.com/buu342/Blender-Sausage64) ⭐ 90 | 🐛 4 | 🌐 C | 📅 2026-01-18 - A Blender plugin to export "sausage link" style character models with animations
 * [objn64](https://github.com/n64dev/objn64) ⭐ 25 | 🐛 0 | 🌐 C | 📅 2014-12-20 - Wavefront `.obj` model converter that generates optimized displaylists for compilation with `libultra`
 * [Blen64](https://github.com/GCaldL/Blen64) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2019-01-23 - Blender scripts to export meshes to draw lists as header files
@@ -242,7 +242,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [libn64](https://github.com/tj90241/n64chain/tree/master/libn64) ⭐ 156 | 🐛 11 | 🌐 C | 📅 2022-10-07 - An open-source library for Nintendo 64 development, part of `n64chain`
 * [pseultra](https://github.com/pseudophpt/pseultra) ⭐ 78 | 🐛 4 | 🌐 C | 📅 2019-09-09 - A collection of tools used to develop software for the Nintendo 64 that are distinct from the official SDK
 * [ultralib](https://github.com/decompals/ultralib) ⭐ 68 | 🐛 12 | 🌐 C | 📅 2026-04-19 - A reverse engineering of `libultra`
-* [framework64](https://github.com/matthewcpp/framework64) ⭐ 27 | 🐛 1 | 🌐 C | 📅 2026-09-21 - An asset pipeline and C library to simplify game creation (uses n64sdkmod)
+* [framework64](https://github.com/matthewcpp/framework64) ⭐ 27 | 🐛 1 | 🌐 C | 📅 2026-10-03 - An asset pipeline and C library to simplify game creation (uses n64sdkmod)
 * [libhfx](https://github.com/Hazematman/libhfx) ⭐ 19 | 🐛 0 | 🌐 C | 📅 2021-09-19 - An in-progress open source library for 3D graphics
 * [S2DEX Text Engine](https://github.com/someone2639/S2DEX-Text-Engine) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2025-07-20 - A text engine powered by the S2DEX microcode
 * [n64ut](https://github.com/n64ut) - An in-progress set of modern Nintendo 64 libraries
@@ -262,7 +262,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 #### Game Decompilation
 
-* [Super Mario 64](https://github.com/n64decomp/sm64) ⭐ 8,800 | 🐛 29 | 🌐 C | 📅 2024-02-04 - A **complete** decompilation of *Super Mario 64*
+* [Super Mario 64](https://github.com/n64decomp/sm64) ⭐ 8,799 | 🐛 29 | 🌐 C | 📅 2024-02-04 - A **complete** decompilation of *Super Mario 64*
 * [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot) ⭐ 5,548 | 🐛 73 | 🌐 C | 📅 2026-09-30 - A **complete** decompilation of *The Legend of Zelda: Ocarina of Time*
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm) ⭐ 1,729 | 🐛 13 | 🌐 C | 📅 2026-09-26 - A **complete** decompilation of *The Legend of Zelda: Majora's Mask*
 * [Paper Mario](https://github.com/pmret/papermario) ⭐ 1,621 | 🐛 34 | 🌐 C | 📅 2026-09-26 - A **complete** decompilation of *Paper Mario*
@@ -276,8 +276,8 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Doom 64](https://github.com/Erick194/DOOM64-RE) ⭐ 235 | 🐛 1 | 🌐 C | 📅 2025-05-30 - A **complete** decompilation of *Doom 64*
 * [Kirby 64: The Crystal Shards](https://github.com/kirby64ret/kirby64) ⭐ 231 | 🐛 2 | 🌐 Assembly | 📅 2026-09-13 - An in-progress decompilation of *Kirby 64: The Crystal Shards*
 * [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp) ⭐ 218 | 🐛 2 | 🌐 C | 📅 2026-07-02 - An in-progress decompilation of *Harvest Moon 64*
-* [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) ⭐ 217 | 🐛 0 | 🌐 C | 📅 2026-10-02 - An in-progress decompilation of *Dinosaur Planet*
-* [Pokémon Stadium](https://github.com/pret/pokestadium) ⭐ 208 | 🐛 6 | 🌐 C | 📅 2026-09-29 - An in-progress decompilation of *Pokémon Stadium*
+* [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) ⭐ 217 | 🐛 1 | 🌐 C | 📅 2026-10-02 - An in-progress decompilation of *Dinosaur Planet*
+* [Pokémon Stadium](https://github.com/pret/pokestadium) ⭐ 208 | 🐛 8 | 🌐 C | 📅 2026-09-29 - An in-progress decompilation of *Pokémon Stadium*
 * [Snowboard Kids 2](https://github.com/cdlewis/snowboardkids2-decomp) ⭐ 188 | 🐛 4 | 🌐 C | 📅 2026-09-27 - An in-progress decompilation of *Snowboard Kids 2*
 * [Banjo-Tooie](https://github.com/mr-wiseguy/banjo-tooie) ⭐ 143 | 🐛 6 | 🌐 C | 📅 2025-11-29 - An in-progress decompilation of *Banjo-Tooie*
 * [Wave Race 64](https://github.com/LLONSIT/wave-race-64) ⭐ 109 | 🐛 0 | 🌐 Assembly | 📅 2026-09-26 - An in-progress decompilation of *Wave Race 64*
@@ -295,7 +295,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Mario Party 2](https://github.com/mariopartyrd/marioparty2) ⭐ 52 | 🐛 0 | 🌐 C | 📅 2026-04-26 - An in-progress decompilation of *Mario Party 2*
 * [Pokémon Stadium 2](https://github.com/pret/pokestadiumgs) ⭐ 52 | 🐛 0 | 🌐 C | 📅 2026-07-10 - An in-progress decompilation of *Pokémon Stadium 2*
 * [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels) ⭐ 47 | 🐛 4 | 🌐 C | 📅 2023-01-15 - An in-progress decompilation of *Rocket: Robot on Wheels*
-* [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) ⭐ 43 | 🐛 2 | 🌐 C | 📅 2026-10-02 - An in-progress decompilation of *Body Harvest* in D (see also [DeltaniumIndustries/BodyHarvestDecomp](https://github.com/DeltaniumIndustries/BodyHarvestDecomp) ⚠️ Archived)
+* [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) ⭐ 44 | 🐛 2 | 🌐 C | 📅 2026-10-03 - An in-progress decompilation of *Body Harvest* in D (see also [DeltaniumIndustries/BodyHarvestDecomp](https://github.com/DeltaniumIndustries/BodyHarvestDecomp) ⚠️ Archived)
 * [Blast Corps](https://github.com/retroplastic/blastcorps) ⭐ 42 | 🐛 1 | 🌐 C | 📅 2021-12-28 - An in-progress decompilation of *Blast Corps*
 * [Aidyn Chronicles](https://github.com/blackgamma7/Aidyn) ⭐ 40 | 🐛 0 | 🌐 C++ | 📅 2026-09-22 - An in-progress decompilation of *Aidyn Chronicles*
 * [Pokémon Puzzle League](https://github.com/angheloalf/puzzleleague64) ⭐ 38 | 🐛 0 | 🌐 C | 📅 2026-10-01 - An in-progress decompilation of *Pokémon Puzzle League*
@@ -358,7 +358,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [decomp-permuter](https://github.com/simonlindholm/decomp-permuter) ⭐ 227 | 🐛 49 | 🌐 Python | 📅 2026-09-07 - A tool to randomly permute C files to better match a target binary
 * [rabbitizer](https://github.com/decompollaborate/rabbitizer) ⭐ 181 | 🐛 2 | 🌐 C | 📅 2026-05-29 - An API for decoding MIPS instructions
 * [asm-differ](https://github.com/simonlindholm/asm-differ) ⭐ 171 | 🐛 34 | 🌐 Python | 📅 2026-09-06 - A `diff` script for MIPS assembly
-* [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) ⭐ 168 | 🐛 1 | 🌐 Java | 📅 2026-09-20 - Nintendo 64 ROM loader for the [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,321 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30 reverse engineering tool
+* [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) ⭐ 168 | 🐛 1 | 🌐 Java | 📅 2026-09-20 - Nintendo 64 ROM loader for the [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,366 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30 reverse engineering tool
 * [spimdisasm](https://github.com/decompollaborate/spimdisasm) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2026-08-06 - Matching MIPS disassembler API and front-ends with built-in instruction analysis
 * [n64sym](https://github.com/shygoo/n64sym) ⭐ 45 | 🐛 1 | 🌐 Standard ML | 📅 2023-03-27 - Scans a RAM dump for symbols from a given library or object file
 * [bdiff](https://github.com/ethteck/bdiff) ⭐ 25 | 🐛 17 | 🌐 Rust | 📅 2024-11-04 - A local binary diffing tool
@@ -396,7 +396,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 #### Example Code
 
 * [pyrite64](https://github.com/HailToDodongo/pyrite64) ⭐ 3,263 | 🐛 20 | 🌐 C++ | 📅 2026-10-01 - A game engine and editor using `libdragon` and `tiny3d` from C++
-* [ClassiCube](https://github.com/ClassiCube/ClassiCube) ⭐ 2,067 | 🐛 571 | 🌐 C | 📅 2026-10-02 - A multi-platform Minecraft Classic / ClassiCube client with early N64 support, using `libdragon`
+* [ClassiCube](https://github.com/ClassiCube/ClassiCube) ⭐ 2,066 | 🐛 571 | 🌐 C | 📅 2026-10-02 - A multi-platform Minecraft Classic / ClassiCube client with early N64 support, using `libdragon`
 * [N64-RPG](https://github.com/breadbored/N64-RPG) ⭐ 185 | 🐛 2 | 🌐 C | 📅 2023-12-06 - An in-progress RPG engine using `libdragon`
 * [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) ⭐ 146 | 🐛 3 | 🌐 C | 📅 2026-08-30 - A Zelda-style ROM running a transformer for live LLM inference powering an NPC, built with `libdragon`
 * [UltraEd](https://github.com/deadcast2/UltraEd/) ⚠️ Archived - An in-progress level editor and game engine
@@ -471,4 +471,4 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

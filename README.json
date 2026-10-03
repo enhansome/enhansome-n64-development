@@ -485,7 +485,7 @@
                 "id": 294961602,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T13:27:47Z",
+                "last_commit": "2026-10-02T19:16:17Z",
                 "open_issues": 138,
                 "owner": "Rosalie241",
                 "repo": "RMG",
@@ -563,7 +563,7 @@
                 "open_issues": 11,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1280,
+                "stars": 1282,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -840,10 +840,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2025-05-11T08:29:57Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1158,
+                "stars": 1159,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -969,7 +969,7 @@
                 "open_issues": 50,
                 "owner": "Polprzewodnikowy",
                 "repo": "N64FlashcartMenu",
-                "stars": 474,
+                "stars": 475,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -999,7 +999,7 @@
                     "open_issues": 90,
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 538,
+                    "stars": 539,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2187,7 +2187,7 @@
                 "id": 325400721,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-21T22:42:06Z",
+                "last_commit": "2026-10-03T00:55:07Z",
                 "open_issues": 1,
                 "owner": "matthewcpp",
                 "repo": "framework64",
@@ -2384,7 +2384,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8800,
+                    "stars": 8799,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2691,7 +2691,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-02T04:22:20Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "zestydevy",
                     "repo": "dinosaur-planet",
                     "stars": 217,
@@ -2712,7 +2712,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-09-29T00:11:22Z",
-                    "open_issues": 6,
+                    "open_issues": 8,
                     "owner": "pret",
                     "repo": "pokestadium",
                     "stars": 208,
@@ -3122,11 +3122,11 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-02T08:15:48Z",
+                    "last_commit": "2026-10-03T02:19:03Z",
                     "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4495,7 +4495,7 @@
                     "open_issues": 571,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2067,
+                    "stars": 2066,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5851,7 +5851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:43:21.308Z",
+    "last_updated": "2026-10-03T04:57:47.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
