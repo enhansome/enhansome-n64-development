@@ -444,7 +444,7 @@
                 "open_issues": 279,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3056,
+                "stars": 3058,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -961,13 +961,13 @@
               "repo_info": {
                 "archived": false,
                 "description": "Universal N64 flashcart menu for wide variety of devices",
-                "homepage": null,
+                "homepage": "http://menu.summercart64.dev/",
                 "id": 601806108,
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-03T23:29:36Z",
                 "open_issues": 49,
-                "owner": "Polprzewodnikowy",
+                "owner": "n64brew",
                 "repo": "N64FlashcartMenu",
                 "stars": 477,
                 "topics": []
@@ -1824,7 +1824,7 @@
                 "open_issues": 44,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 364,
+                "stars": 365,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -2056,7 +2056,7 @@
                 "language": "C",
                 "license": "Unlicense",
                 "last_commit": "2026-09-14T23:36:32Z",
-                "open_issues": 99,
+                "open_issues": 96,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
                 "stars": 1256,
@@ -2076,7 +2076,7 @@
                 "id": 768839627,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T23:02:06Z",
+                "last_commit": "2026-10-06T19:03:03Z",
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
@@ -2384,7 +2384,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8825,
+                    "stars": 8823,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2402,10 +2402,10 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-09-30T12:18:54Z",
-                    "open_issues": 73,
+                    "open_issues": 74,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5559,
+                    "stars": 5560,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2476,7 +2476,7 @@
                     "open_issues": 36,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1305,
+                    "stars": 1306,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2536,10 +2536,10 @@
                     "language": "C",
                     "license": "CC0-1.0",
                     "last_commit": "2026-08-16T17:56:24Z",
-                    "open_issues": 8,
+                    "open_issues": 6,
                     "owner": "zeldaret",
                     "repo": "af",
-                    "stars": 297,
+                    "stars": 298,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2715,7 +2715,7 @@
                     "open_issues": 7,
                     "owner": "pret",
                     "repo": "pokestadium",
-                    "stars": 208,
+                    "stars": 209,
                     "topics": [
                       "c",
                       "disassembly",
@@ -2837,7 +2837,7 @@
                     "open_issues": 9,
                     "owner": "ethteck",
                     "repo": "pokemonsnap",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3036,7 +3036,7 @@
                     "open_issues": 0,
                     "owner": "pret",
                     "repo": "pokestadiumgs",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": [
                       "c",
                       "disassembly",
@@ -3122,7 +3122,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-06T10:27:27Z",
+                    "last_commit": "2026-10-06T18:45:32Z",
                     "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -3190,7 +3190,7 @@
                     "id": 610957587,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T00:05:01Z",
+                    "last_commit": "2026-10-06T11:57:46Z",
                     "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
@@ -4035,7 +4035,7 @@
                 "open_issues": 64,
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 650,
+                "stars": 651,
                 "topics": [
                   "decompiler",
                   "mips",
@@ -4082,7 +4082,7 @@
                 "open_issues": 49,
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
-                "stars": 227,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4128,7 +4128,7 @@
                 "open_issues": 34,
                 "owner": "simonlindholm",
                 "repo": "asm-differ",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4492,7 +4492,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-06T08:26:01Z",
-                    "open_issues": 573,
+                    "open_issues": 574,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
                     "stars": 2067,
@@ -5851,7 +5851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:26.127Z",
+    "last_updated": "2026-10-06T19:06:59.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
