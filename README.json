@@ -489,7 +489,7 @@
                 "open_issues": 139,
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1115,
+                "stars": 1116,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -559,8 +559,8 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T14:34:14Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-10T15:31:55Z",
+                "open_issues": 9,
                 "owner": "gopher64",
                 "repo": "gopher64",
                 "stars": 1283,
@@ -965,8 +965,8 @@
                 "id": 601806108,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-07T18:48:38Z",
-                "open_issues": 51,
+                "last_commit": "2026-10-09T22:24:40Z",
+                "open_issues": 52,
                 "owner": "n64brew",
                 "repo": "N64FlashcartMenu",
                 "stars": 477,
@@ -1820,8 +1820,8 @@
                 "id": 284825312,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-27T17:47:27Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-10T13:03:07Z",
+                "open_issues": 43,
                 "owner": "ethteck",
                 "repo": "splat",
                 "stars": 366,
@@ -2059,7 +2059,7 @@
                 "open_issues": 96,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1256,
+                "stars": 1255,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2080,7 +2080,7 @@
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 573,
+                "stars": 572,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2384,7 +2384,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8841,
+                    "stars": 8845,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2402,10 +2402,10 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-08T18:51:18Z",
-                    "open_issues": 74,
+                    "open_issues": 75,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5568,
+                    "stars": 5572,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2449,7 +2449,7 @@
                     "open_issues": 34,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1627,
+                    "stars": 1629,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2771,7 +2771,7 @@
                     "open_issues": 6,
                     "owner": "Mr-Wiseguy",
                     "repo": "banjo-tooie",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2812,7 +2812,7 @@
                     "id": 275165286,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-12T01:12:45Z",
+                    "last_commit": "2026-10-10T01:13:36Z",
                     "open_issues": 9,
                     "owner": "ethteck",
                     "repo": "pokemonsnap",
@@ -2900,7 +2900,7 @@
                     "open_issues": 1,
                     "owner": "decompals",
                     "repo": "yoshis-story",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2917,7 +2917,7 @@
                     "id": 375656792,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-08T13:15:49Z",
+                    "last_commit": "2026-10-10T17:26:44Z",
                     "open_issues": 2,
                     "owner": "Drahsid",
                     "repo": "mischief-makers",
@@ -3036,7 +3036,7 @@
                     "open_issues": 0,
                     "owner": "pret",
                     "repo": "pokestadiumgs",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": [
                       "c",
                       "disassembly",
@@ -3122,8 +3122,8 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-09T18:37:53Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-10T11:05:46Z",
+                    "open_issues": 1,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 44,
@@ -3190,7 +3190,7 @@
                     "id": 610957587,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T11:54:29Z",
+                    "last_commit": "2026-10-09T23:48:15Z",
                     "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
@@ -3289,6 +3289,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Gauntlet Legends",
+                  "description": "An in-progress decompilation of Gauntlet Legends",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "in-progress decompilation of Gauntlet Legends for the N64",
+                    "homepage": null,
+                    "id": 437089271,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-04-30T07:19:45Z",
+                    "open_issues": 0,
+                    "owner": "Drahsid",
+                    "repo": "gauntlet-legends",
+                    "stars": 27,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Gex 64: Enter the Gecko",
                   "description": "An in-progress decompilation of Gex 64: Enter the Gecko",
                   "children": [],
@@ -3330,27 +3351,6 @@
                       "n64",
                       "vpw"
                     ]
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Gauntlet Legends",
-                  "description": "An in-progress decompilation of Gauntlet Legends",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "in-progress decompilation of Gauntlet Legends for the N64",
-                    "homepage": null,
-                    "id": 437089271,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-04-30T07:19:45Z",
-                    "open_issues": 0,
-                    "owner": "Drahsid",
-                    "repo": "gauntlet-legends",
-                    "stars": 26,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -4032,10 +4032,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-16T14:52:54Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 653,
+                "stars": 655,
                 "topics": [
                   "decompiler",
                   "mips",
@@ -4470,8 +4470,8 @@
                     "id": 1062843332,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T20:42:48Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-09T20:50:23Z",
+                    "open_issues": 20,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
                     "stars": 3265,
@@ -4495,7 +4495,7 @@
                     "open_issues": 574,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2069,
+                    "stars": 2070,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5809,7 +5809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:01:35.690Z",
+    "last_updated": "2026-10-10T18:02:51.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
@@ -5821,7 +5821,7 @@
       "open_issues": 1,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
-      "stars": 580,
+      "stars": 581,
       "topics": [
         "asm",
         "assembler",
