@@ -444,7 +444,7 @@
                 "open_issues": 279,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3061,
+                "stars": 3062,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -559,11 +559,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T15:31:55Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-11T18:10:12Z",
+                "open_issues": 8,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1283,
+                "stars": 1287,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -995,11 +995,11 @@
                     "id": 390460421,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-22T13:47:23Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-10-11T14:57:09Z",
+                    "open_issues": 90,
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 543,
+                    "stars": 544,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2059,7 +2059,7 @@
                 "open_issues": 96,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1255,
+                "stars": 1253,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2384,7 +2384,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8845,
+                    "stars": 8850,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2405,7 +2405,7 @@
                     "open_issues": 75,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5572,
+                    "stars": 5576,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2422,11 +2422,11 @@
                     "id": 247875852,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-09T11:47:01Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-10-11T02:53:23Z",
+                    "open_issues": 11,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1737,
+                    "stars": 1739,
                     "topics": [
                       "decompilation"
                     ]
@@ -2476,7 +2476,7 @@
                     "open_issues": 36,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1308,
+                    "stars": 1309,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2879,7 +2879,7 @@
                     "open_issues": 2,
                     "owner": "mariopartyrd",
                     "repo": "marioparty",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2900,7 +2900,7 @@
                     "open_issues": 1,
                     "owner": "decompals",
                     "repo": "yoshis-story",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3122,7 +3122,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-10T11:05:46Z",
+                    "last_commit": "2026-10-11T18:08:35Z",
                     "open_issues": 1,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -3190,7 +3190,7 @@
                     "id": 610957587,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T23:48:15Z",
+                    "last_commit": "2026-10-11T16:29:26Z",
                     "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
@@ -4470,8 +4470,8 @@
                     "id": 1062843332,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T20:50:23Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-10-10T19:49:14Z",
+                    "open_issues": 16,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
                     "stars": 3265,
@@ -5809,7 +5809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:02:51.700Z",
+    "last_updated": "2026-10-11T18:29:01.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
