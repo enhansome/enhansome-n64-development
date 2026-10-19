@@ -444,7 +444,7 @@
                 "open_issues": 279,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3060,
+                "stars": 3063,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -489,7 +489,7 @@
                 "open_issues": 139,
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1125,
+                "stars": 1129,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -563,7 +563,7 @@
                 "open_issues": 10,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1299,
+                "stars": 1302,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -843,7 +843,7 @@
                 "open_issues": 17,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1164,
+                "stars": 1166,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -1469,7 +1469,7 @@
                 "open_issues": 39,
                 "owner": "jombo23",
                 "repo": "N64-Tools",
-                "stars": 335,
+                "stars": 336,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2080,7 +2080,7 @@
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 572,
+                "stars": 573,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2101,7 +2101,7 @@
                 "open_issues": 2,
                 "owner": "n64decomp",
                 "repo": "libreultra",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2384,7 +2384,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8892,
+                    "stars": 8901,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2405,7 +2405,7 @@
                     "open_issues": 67,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5601,
+                    "stars": 5606,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2426,7 +2426,7 @@
                     "open_issues": 11,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1748,
+                    "stars": 1752,
                     "topics": [
                       "decompilation"
                     ]
@@ -2476,7 +2476,7 @@
                     "open_issues": 36,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1313,
+                    "stars": 1314,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2581,7 +2581,7 @@
                     "open_issues": 3,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 269,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2690,11 +2690,11 @@
                     "id": 340927189,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-18T03:35:10Z",
+                    "last_commit": "2026-10-18T18:59:39Z",
                     "open_issues": 1,
                     "owner": "zestydevy",
                     "repo": "dinosaur-planet",
-                    "stars": 217,
+                    "stars": 218,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2715,7 +2715,7 @@
                     "open_issues": 7,
                     "owner": "pret",
                     "repo": "pokestadium",
-                    "stars": 212,
+                    "stars": 213,
                     "topics": [
                       "c",
                       "disassembly",
@@ -2742,7 +2742,7 @@
                     "open_issues": 4,
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
-                    "stars": 195,
+                    "stars": 196,
                     "topics": [
                       "c",
                       "decomp",
@@ -2789,7 +2789,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-17T01:12:34Z",
-                    "open_issues": 16,
+                    "open_issues": 15,
                     "owner": "ethteck",
                     "repo": "pokemonsnap",
                     "stars": 113,
@@ -2907,6 +2907,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Mario Party 3",
+                  "description": "An in-progress decompilation of Mario Party 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation of Mario Party 3 for N64",
+                    "homepage": null,
+                    "id": 502461748,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-10-17T19:05:59Z",
+                    "open_issues": 3,
+                    "owner": "mariopartyrd",
+                    "repo": "marioparty3",
+                    "stars": 72,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Mischief Makers",
                   "description": "An in-progress decompilation of Mischief Makers",
                   "children": [],
@@ -2928,27 +2949,6 @@
                       "n64",
                       "yuke-yuke-trouble-makers"
                     ]
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Mario Party 3",
-                  "description": "An in-progress decompilation of Mario Party 3",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation of Mario Party 3 for N64",
-                    "homepage": null,
-                    "id": 502461748,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-10-17T19:05:59Z",
-                    "open_issues": 3,
-                    "owner": "mariopartyrd",
-                    "repo": "marioparty3",
-                    "stars": 71,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3063,7 +3063,7 @@
                     "open_issues": 2,
                     "owner": "Ryan-Myers",
                     "repo": "Jet-Force-Gemini",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3084,7 +3084,7 @@
                     "open_issues": 0,
                     "owner": "mariopartyrd",
                     "repo": "marioparty2",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3101,8 +3101,8 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-18T08:22:58Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-19T18:11:16Z",
+                    "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 46,
@@ -3191,7 +3191,7 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-10-13T11:27:14Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
                     "stars": 42,
@@ -3282,7 +3282,28 @@
                     "open_issues": 0,
                     "owner": "inspectredc",
                     "repo": "fzerox-expansion-kit",
-                    "stars": 30,
+                    "stars": 31,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Gauntlet Legends",
+                  "description": "An in-progress decompilation of Gauntlet Legends",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "in-progress decompilation of Gauntlet Legends for the N64",
+                    "homepage": null,
+                    "id": 437089271,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-04-30T07:19:45Z",
+                    "open_issues": 0,
+                    "owner": "Drahsid",
+                    "repo": "gauntlet-legends",
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3309,27 +3330,6 @@
                       "n64",
                       "vpw"
                     ]
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Gauntlet Legends",
-                  "description": "An in-progress decompilation of Gauntlet Legends",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "in-progress decompilation of Gauntlet Legends for the N64",
-                    "homepage": null,
-                    "id": 437089271,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-04-30T07:19:45Z",
-                    "open_issues": 0,
-                    "owner": "Drahsid",
-                    "repo": "gauntlet-legends",
-                    "stars": 28,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -4061,7 +4061,7 @@
                 "open_issues": 39,
                 "owner": "jombo23",
                 "repo": "N64-Tools",
-                "stars": 335,
+                "stars": 336,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4079,7 +4079,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T08:18:29Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
                 "stars": 234,
@@ -4470,11 +4470,11 @@
                     "id": 1062843332,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T17:13:15Z",
+                    "last_commit": "2026-10-19T17:18:29Z",
                     "open_issues": 19,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3269,
+                    "stars": 3272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4495,7 +4495,7 @@
                     "open_issues": 579,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2079,
+                    "stars": 2080,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5809,7 +5809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:57:04.461Z",
+    "last_updated": "2026-10-19T19:30:02.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
