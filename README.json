@@ -138,7 +138,7 @@
             "open_issues": 11,
             "owner": "tj90241",
             "repo": "n64chain",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
@@ -506,8 +506,8 @@
                 "id": 270116602,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-20T14:33:45Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-21T06:53:02Z",
+                "open_issues": 7,
                 "owner": "Dillonb",
                 "repo": "n64",
                 "stars": 186,
@@ -563,7 +563,7 @@
                 "open_issues": 10,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1306,
+                "stars": 1311,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -965,11 +965,11 @@
                 "id": 601806108,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-17T22:59:57Z",
+                "last_commit": "2026-10-21T18:06:37Z",
                 "open_issues": 50,
                 "owner": "n64brew",
                 "repo": "N64FlashcartMenu",
-                "stars": 484,
+                "stars": 485,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1821,10 +1821,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-10T13:03:07Z",
-                "open_issues": 43,
+                "open_issues": 42,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 371,
+                "stars": 372,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -1849,7 +1849,7 @@
                 "open_issues": 0,
                 "owner": "hcs64",
                 "repo": "boot_stub",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2122,7 +2122,7 @@
                 "open_issues": 11,
                 "owner": "tj90241",
                 "repo": "n64chain",
-                "stars": 157,
+                "stars": 158,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2384,7 +2384,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8903,
+                    "stars": 8912,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2402,10 +2402,10 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-18T12:31:57Z",
-                    "open_issues": 67,
+                    "open_issues": 68,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5613,
+                    "stars": 5615,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2422,11 +2422,11 @@
                     "id": 247875852,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-11T02:53:23Z",
+                    "last_commit": "2026-10-21T01:33:26Z",
                     "open_issues": 11,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1753,
+                    "stars": 1756,
                     "topics": [
                       "decompilation"
                     ]
@@ -2449,7 +2449,7 @@
                     "open_issues": 35,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1636,
+                    "stars": 1637,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2476,7 +2476,7 @@
                     "open_issues": 36,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1314,
+                    "stars": 1315,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2539,7 +2539,7 @@
                     "open_issues": 6,
                     "owner": "zeldaret",
                     "repo": "af",
-                    "stars": 301,
+                    "stars": 302,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2577,11 +2577,11 @@
                     "id": 674504094,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-15T15:42:07Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-20T21:20:01Z",
+                    "open_issues": 0,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 270,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2742,7 +2742,7 @@
                     "open_issues": 4,
                     "owner": "cdlewis",
                     "repo": "snowboardkids2-decomp",
-                    "stars": 196,
+                    "stars": 195,
                     "topics": [
                       "c",
                       "decomp",
@@ -2771,7 +2771,7 @@
                     "open_issues": 6,
                     "owner": "Mr-Wiseguy",
                     "repo": "banjo-tooie",
-                    "stars": 151,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2837,7 +2837,7 @@
                     "open_issues": 2,
                     "owner": "inspectredc",
                     "repo": "fzerox",
-                    "stars": 108,
+                    "stars": 109,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3101,7 +3101,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-20T07:21:46Z",
+                    "last_commit": "2026-10-21T07:21:52Z",
                     "open_issues": 1,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -3190,7 +3190,7 @@
                     "id": 610957587,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T11:07:36Z",
+                    "last_commit": "2026-10-20T21:50:43Z",
                     "open_issues": 0,
                     "owner": "AngheloAlf",
                     "repo": "puzzleleague64",
@@ -3387,11 +3387,32 @@
                     "id": 690450023,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T18:07:53Z",
+                    "last_commit": "2026-10-21T05:44:51Z",
                     "open_issues": 1,
                     "owner": "monde-lointain",
                     "repo": "mariogolf64",
                     "stars": 24,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Star Wars: Shadows of the Empire",
+                  "description": "An in-progress decompilation of Star Wars: Shadows of the Empire",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A decompilation of Shadows of the Empire for N64",
+                    "homepage": null,
+                    "id": 907106528,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2025-02-10T19:39:16Z",
+                    "open_issues": 1,
+                    "owner": "EltaleLibrarian",
+                    "repo": "SotE",
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3413,27 +3434,6 @@
                     "owner": "farisawan-2000",
                     "repo": "superman",
                     "stars": 22,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Star Wars: Shadows of the Empire",
-                  "description": "An in-progress decompilation of Star Wars: Shadows of the Empire",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A decompilation of Shadows of the Empire for N64",
-                    "homepage": null,
-                    "id": 907106528,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2025-02-10T19:39:16Z",
-                    "open_issues": 1,
-                    "owner": "EltaleLibrarian",
-                    "repo": "SotE",
-                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4146,7 +4146,7 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2026-09-20T12:15:35Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "zeroKilo",
                 "repo": "N64LoaderWV",
                 "stars": 172,
@@ -4470,11 +4470,11 @@
                     "id": 1062843332,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-19T17:18:29Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-21T17:49:15Z",
+                    "open_issues": 17,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3275,
+                    "stars": 3277,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4491,11 +4491,11 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-15T10:52:49Z",
+                    "last_commit": "2026-10-21T06:38:33Z",
                     "open_issues": 579,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2080,
+                    "stars": 2082,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5809,7 +5809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:07:32.066Z",
+    "last_updated": "2026-10-21T18:16:06.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
@@ -5821,7 +5821,7 @@
       "open_issues": 4,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
-      "stars": 582,
+      "stars": 583,
       "topics": [
         "asm",
         "assembler",
