@@ -324,7 +324,7 @@
             "open_issues": 31,
             "owner": "Kingcom",
             "repo": "armips",
-            "stars": 414,
+            "stars": 415,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
@@ -560,10 +560,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-27T06:24:09Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1318,
+                "stars": 1322,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -843,7 +843,7 @@
                 "open_issues": 17,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1170,
+                "stars": 1171,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -966,7 +966,7 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-21T23:38:14Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "n64brew",
                 "repo": "N64FlashcartMenu",
                 "stars": 488,
@@ -1824,7 +1824,7 @@
                 "open_issues": 42,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 372,
+                "stars": 374,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -1870,7 +1870,7 @@
                 "open_issues": 3,
                 "owner": "mroach",
                 "repo": "rom64",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "emulation",
                   "n64-dev",
@@ -2059,7 +2059,7 @@
                 "open_issues": 96,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1252,
+                "stars": 1250,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2384,7 +2384,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8932,
+                    "stars": 8935,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2405,7 +2405,7 @@
                     "open_issues": 69,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5628,
+                    "stars": 5629,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2426,7 +2426,7 @@
                     "open_issues": 11,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1765,
+                    "stars": 1766,
                     "topics": [
                       "decompilation"
                     ]
@@ -2476,7 +2476,7 @@
                     "open_issues": 37,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1315,
+                    "stars": 1316,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2581,7 +2581,7 @@
                     "open_issues": 0,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 271,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2602,7 +2602,7 @@
                     "open_issues": 9,
                     "owner": "mkst",
                     "repo": "conker",
-                    "stars": 240,
+                    "stars": 239,
                     "topics": [
                       "cbfd",
                       "conker",
@@ -2694,7 +2694,7 @@
                     "open_issues": 0,
                     "owner": "zestydevy",
                     "repo": "dinosaur-planet",
-                    "stars": 218,
+                    "stars": 217,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2771,7 +2771,7 @@
                     "open_issues": 7,
                     "owner": "Mr-Wiseguy",
                     "repo": "banjo-tooie",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2789,7 +2789,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-25T08:58:19Z",
-                    "open_issues": 13,
+                    "open_issues": 10,
                     "owner": "ethteck",
                     "repo": "pokemonsnap",
                     "stars": 112,
@@ -2985,7 +2985,7 @@
                     "id": 338258341,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-25T09:15:04Z",
+                    "last_commit": "2026-10-28T07:20:07Z",
                     "open_issues": 0,
                     "owner": "mkst",
                     "repo": "sssv",
@@ -3101,7 +3101,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-27T18:47:35Z",
+                    "last_commit": "2026-10-28T18:13:36Z",
                     "open_issues": 1,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -3257,7 +3257,7 @@
                     "open_issues": 0,
                     "owner": "LLONSIT",
                     "repo": "AeroGauge",
-                    "stars": 32,
+                    "stars": 31,
                     "topics": [
                       "decompilation",
                       "lzma",
@@ -3310,6 +3310,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Gex 64: Enter the Gecko",
+                  "description": "An in-progress decompilation of Gex 64: Enter the Gecko",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation of Gex 64",
+                    "homepage": "https://decomp.dev/MatBourgon/Gex64Decomp",
+                    "id": 896639452,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-09-03T02:38:33Z",
+                    "open_issues": 11,
+                    "owner": "MatBourgon",
+                    "repo": "Gex64Decomp",
+                    "stars": 29,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Virtual Pro Wrestling 2: Ōdō Keishō",
                   "description": "An in-progress decompilation of Virtual Pro Wrestling 2: Ōdō Keishō",
                   "children": [],
@@ -3330,27 +3351,6 @@
                       "n64",
                       "vpw"
                     ]
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Gex 64: Enter the Gecko",
-                  "description": "An in-progress decompilation of Gex 64: Enter the Gecko",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation of Gex 64",
-                    "homepage": "https://decomp.dev/MatBourgon/Gex64Decomp",
-                    "id": 896639452,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-09-03T02:38:33Z",
-                    "open_issues": 11,
-                    "owner": "MatBourgon",
-                    "repo": "Gex64Decomp",
-                    "stars": 28,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -4103,7 +4103,7 @@
                 "open_issues": 2,
                 "owner": "Decompollaborate",
                 "repo": "rabbitizer",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "disassembler",
                   "mips-assembly",
@@ -4470,11 +4470,11 @@
                     "id": 1062843332,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-26T22:20:00Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-10-27T20:57:56Z",
+                    "open_issues": 19,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3280,
+                    "stars": 3282,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4491,11 +4491,11 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T01:21:36Z",
+                    "last_commit": "2026-10-28T08:28:20Z",
                     "open_issues": 583,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2084,
+                    "stars": 2085,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4520,6 +4520,48 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Legend of Elya",
+                  "description": "A Zelda-style ROM running a transformer for live LLM inference powering an NPC, built with",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Legend of Elya — N64 game with a real 6.36M-parameter ternary transformer on the VR4300 MIPS III CPU. Zelda-style dungeon, AI NPCs, byte-level inference at 1.23 tok/s scalar / 2.19 tok/s on the RSP overlay (measured under ares, never on silicon). Built with libdragon.",
+                    "homepage": "https://hackaday.io/project/206401-transformers-on-retro-game-consoles",
+                    "id": 1168838598,
+                    "language": "C",
+                    "license": "MIT",
+                    "last_commit": "2026-08-30T14:30:02Z",
+                    "open_issues": 3,
+                    "owner": "Scottcjn",
+                    "repo": "legend-of-elya-n64",
+                    "stars": 142,
+                    "topics": [
+                      "ai",
+                      "edge-ai",
+                      "embedded-ai",
+                      "game-dev",
+                      "homebrew",
+                      "libdragon",
+                      "llm",
+                      "llm-inference",
+                      "machine-learning",
+                      "mips",
+                      "n64",
+                      "nintendo-64",
+                      "quantization",
+                      "retro-gaming",
+                      "retrocomputing",
+                      "rustchain",
+                      "tinyml",
+                      "transformer",
+                      "vintage-computing",
+                      "zelda"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T19:08:02.995Z"
                 },
                 {
                   "node_type": "item",
@@ -4583,7 +4625,7 @@
                     "open_issues": 12,
                     "owner": "jnmartin84",
                     "repo": "64doom",
-                    "stars": 98,
+                    "stars": 99,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5809,7 +5851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:59:48.541Z",
+    "last_updated": "2026-10-28T19:08:02.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
@@ -5821,7 +5863,7 @@
       "open_issues": 5,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
-      "stars": 586,
+      "stars": 587,
       "topics": [
         "asm",
         "assembler",
