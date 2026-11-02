@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "n64dev",
             "repo": "cen64",
-            "stars": 841,
+            "stars": 840,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
@@ -324,7 +324,7 @@
             "open_issues": 31,
             "owner": "Kingcom",
             "repo": "armips",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
@@ -451,24 +451,27 @@
             },
             {
               "node_type": "item",
-              "title": "simple64",
-              "description": "(GitHub) - A fork of Mupen64Plus that is easy to use and also more accurate.",
+              "title": "Gopher64",
+              "description": "An N64 emulator written in Rust by the developer of Simple64, able to already play some commercial games at decent speeds!",
               "children": [],
               "repo_info": {
-                "archived": true,
-                "description": "Accurate N64 Emulator",
-                "homepage": null,
-                "id": 168172390,
-                "language": "C",
+                "archived": false,
+                "description": "Highly compatible N64 emulator",
+                "homepage": "https://gopher64.com",
+                "id": 697523442,
+                "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2025-02-14T21:28:44Z",
-                "open_issues": 45,
-                "owner": "simple64",
-                "repo": "simple64",
-                "stars": 1178,
+                "last_commit": "2026-11-02T16:20:30Z",
+                "open_issues": 7,
+                "owner": "gopher64",
+                "repo": "gopher64",
+                "stars": 1331,
                 "topics": [
                   "emulation",
-                  "n64"
+                  "emulator",
+                  "game",
+                  "n64",
+                  "rust"
                 ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -486,36 +489,11 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T23:38:16Z",
-                "open_issues": 141,
+                "open_issues": 142,
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1142,
+                "stars": 1143,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:13:21.320Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Dillonb's dgb-n64",
-              "description": "A low-level, accurate N64 emulator for Windows and Linux. It includes a CPU recompiler, and emulates RDP with Vulkan (via parallel-RDP).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "experimental low-level n64 emulator",
-                "homepage": null,
-                "id": 270116602,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2026-10-21T06:53:02Z",
-                "open_issues": 7,
-                "owner": "Dillonb",
-                "repo": "n64",
-                "stars": 186,
-                "topics": [
-                  "emulation",
-                  "emulator",
-                  "n64"
-                ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -549,27 +527,25 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Gopher64",
-              "description": "An N64 emulator written in Rust by the developer of Simple64, able to already play some commercial games at decent speeds!",
+              "title": "Dillonb's dgb-n64",
+              "description": "A low-level, accurate N64 emulator for Windows and Linux. It includes a CPU recompiler, and emulates RDP with Vulkan (via parallel-RDP).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Highly compatible N64 emulator",
-                "homepage": "https://gopher64.com",
-                "id": 697523442,
-                "language": "Rust",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-01T11:59:51Z",
-                "open_issues": 7,
-                "owner": "gopher64",
-                "repo": "gopher64",
-                "stars": 1329,
+                "description": "experimental low-level n64 emulator",
+                "homepage": null,
+                "id": 270116602,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2026-11-02T11:50:27Z",
+                "open_issues": 8,
+                "owner": "Dillonb",
+                "repo": "n64",
+                "stars": 186,
                 "topics": [
                   "emulation",
                   "emulator",
-                  "game",
-                  "n64",
-                  "rust"
+                  "n64"
                 ]
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -590,7 +566,7 @@
                 "open_issues": 9,
                 "owner": "bdragoncore",
                 "repo": "cor64",
-                "stars": 56,
+                "stars": 55,
                 "topics": [
                   "c-sharp",
                   "dotnet",
@@ -644,6 +620,30 @@
           "children": [
             {
               "node_type": "item",
+              "title": "simple64",
+              "description": "(GitHub) - A fork of Mupen64Plus that is easy to use and also more accurate.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Accurate N64 Emulator",
+                "homepage": null,
+                "id": 168172390,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2025-02-14T21:28:44Z",
+                "open_issues": 45,
+                "owner": "simple64",
+                "repo": "simple64",
+                "stars": 1178,
+                "topics": [
+                  "emulation",
+                  "n64"
+                ]
+              },
+              "first_seen": "2026-08-28T23:13:21.320Z"
+            },
+            {
+              "node_type": "item",
               "title": "cen64",
               "description": "A cycle-accurate emulator for Windows, Linux, and Mac. While currently not fast enough to play games at full speed, it aims for perfect emulation by emulating the hardware inside of the console down to the register-transfer level. Widely used to test ROMs in lieu of or before using real hardware.",
               "children": [],
@@ -658,7 +658,7 @@
                 "open_issues": 64,
                 "owner": "n64dev",
                 "repo": "cen64",
-                "stars": 841,
+                "stars": 840,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -965,11 +965,11 @@
                 "id": 601806108,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-01T13:54:55Z",
-                "open_issues": 46,
+                "last_commit": "2026-11-01T23:58:25Z",
+                "open_issues": 49,
                 "owner": "n64brew",
                 "repo": "N64FlashcartMenu",
-                "stars": 492,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -995,8 +995,8 @@
                     "id": 390460421,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-11T14:57:09Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-11-02T09:21:31Z",
+                    "open_issues": 89,
                     "owner": "Fast-64",
                     "repo": "fast64",
                     "stars": 547,
@@ -1466,7 +1466,7 @@
                 "language": "C++",
                 "license": "Unlicense",
                 "last_commit": "2026-09-23T00:31:02Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "jombo23",
                 "repo": "N64-Tools",
                 "stars": 337,
@@ -1824,7 +1824,7 @@
                 "open_issues": 42,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 375,
+                "stars": 376,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -1849,7 +1849,7 @@
                 "open_issues": 0,
                 "owner": "hcs64",
                 "repo": "boot_stub",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1949,6 +1949,27 @@
             },
             {
               "node_type": "item",
+              "title": "Turtle64",
+              "description": "A free and open-source N64 ROM information tool, inspired by romjudge and ROM64. It has a lot of other tools built-in as well!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A tool for verifying N64, N64DD, iQue, and Aleck64 ROM dumps (experimental)",
+                "homepage": null,
+                "id": 1384860283,
+                "language": "Rust",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-02T07:53:37Z",
+                "open_issues": 0,
+                "owner": "DerekTurtleRoe",
+                "repo": "Turtle64",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-11-02T22:28:38.791Z"
+            },
+            {
+              "node_type": "item",
               "title": "romjudge",
               "description": "A utility to judge an N64 ROM for correctness",
               "children": [],
@@ -1989,7 +2010,7 @@
                 "open_issues": 9,
                 "owner": "awygle",
                 "repo": "ipl3hasher",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2059,7 +2080,7 @@
                 "open_issues": 96,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1251,
+                "stars": 1250,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2384,7 +2405,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8950,
+                    "stars": 8953,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2405,7 +2426,7 @@
                     "open_issues": 69,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5636,
+                    "stars": 5640,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2426,7 +2447,7 @@
                     "open_issues": 12,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1768,
+                    "stars": 1770,
                     "topics": [
                       "decompilation"
                     ]
@@ -2449,7 +2470,7 @@
                     "open_issues": 35,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1638,
+                    "stars": 1637,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2476,7 +2497,7 @@
                     "open_issues": 37,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1317,
+                    "stars": 1318,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2497,7 +2518,7 @@
                     "open_issues": 4,
                     "owner": "DavidSM64",
                     "repo": "Diddy-Kong-Racing",
-                    "stars": 425,
+                    "stars": 424,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2518,7 +2539,7 @@
                     "open_issues": 0,
                     "owner": "sonicdcer",
                     "repo": "sf64",
-                    "stars": 354,
+                    "stars": 355,
                     "topics": []
                   },
                   "first_seen": "2026-10-01T19:03:45.822Z"
@@ -2778,30 +2799,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Wave Race 64",
-                  "description": "An in-progress decompilation of Wave Race 64",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A work in progress decompilation of Wave Race 64",
-                    "homepage": null,
-                    "id": 749426781,
-                    "language": "Assembly",
-                    "license": null,
-                    "last_commit": "2026-09-26T02:48:02Z",
-                    "open_issues": 0,
-                    "owner": "LLONSIT",
-                    "repo": "Wave-Race-64",
-                    "stars": 114,
-                    "topics": [
-                      "decompilation",
-                      "n64"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Pokémon Snap",
                   "description": "An in-progress decompilation of Pokémon Snap",
                   "children": [],
@@ -2818,6 +2815,30 @@
                     "repo": "pokemonsnap",
                     "stars": 113,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wave Race 64",
+                  "description": "An in-progress decompilation of Wave Race 64",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A work in progress decompilation of Wave Race 64",
+                    "homepage": null,
+                    "id": 749426781,
+                    "language": "Assembly",
+                    "license": null,
+                    "last_commit": "2026-09-26T02:48:02Z",
+                    "open_issues": 0,
+                    "owner": "LLONSIT",
+                    "repo": "Wave-Race-64",
+                    "stars": 113,
+                    "topics": [
+                      "decompilation",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -2918,7 +2939,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-23T23:13:59Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "mariopartyrd",
                     "repo": "marioparty3",
                     "stars": 77,
@@ -2938,7 +2959,7 @@
                     "id": 375656792,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-31T20:24:12Z",
+                    "last_commit": "2026-11-02T00:53:40Z",
                     "open_issues": 2,
                     "owner": "Drahsid",
                     "repo": "mischief-makers",
@@ -3101,7 +3122,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-01T18:36:09Z",
+                    "last_commit": "2026-11-02T18:27:03Z",
                     "open_issues": 1,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -4058,7 +4079,7 @@
                 "language": "C++",
                 "license": "Unlicense",
                 "last_commit": "2026-09-23T00:31:02Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "jombo23",
                 "repo": "N64-Tools",
                 "stars": 337,
@@ -4103,7 +4124,7 @@
                 "open_issues": 2,
                 "owner": "Decompollaborate",
                 "repo": "rabbitizer",
-                "stars": 184,
+                "stars": 185,
                 "topics": [
                   "disassembler",
                   "mips-assembly",
@@ -4149,7 +4170,7 @@
                 "open_issues": 3,
                 "owner": "zeroKilo",
                 "repo": "N64LoaderWV",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4309,7 +4330,7 @@
                 "open_issues": 24,
                 "owner": "Hydr8gon",
                 "repo": "sodium64",
-                "stars": 332,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4330,7 +4351,7 @@
                 "open_issues": 17,
                 "owner": "PeterLemon",
                 "repo": "N64",
-                "stars": 326,
+                "stars": 325,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4474,7 +4495,7 @@
                     "open_issues": 17,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3283,
+                    "stars": 3284,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4491,11 +4512,11 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-28T08:28:20Z",
+                    "last_commit": "2026-11-02T20:41:01Z",
                     "open_issues": 583,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2088,
+                    "stars": 2087,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5851,7 +5872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:36:09.311Z",
+    "last_updated": "2026-11-02T22:28:38.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
@@ -5859,7 +5880,7 @@
       "id": 195496224,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-07T23:19:15Z",
+      "last_commit": "2026-11-02T17:46:56Z",
       "open_issues": 6,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
@@ -5887,7 +5908,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "a3d3434c34efd0f1e03b62ec289aef3149623cb8",
+    "original_repository_sha": "bdedcfc748f96f95e7218b338e9be415fc6b301d",
     "enhanced_repository": "enhansome/enhansome-n64-development",
     "enhanced_repository_description": null,
     "title": "Awesome N64 Development with stars"
