@@ -61,7 +61,7 @@
             "open_issues": 20,
             "owner": "joeldipops",
             "repo": "TransferBoy",
-            "stars": 50,
+            "stars": 49,
             "topics": [
               "libdragon",
               "n64",
@@ -444,7 +444,7 @@
                 "open_issues": 283,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3068,
+                "stars": 3067,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -461,11 +461,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T16:20:30Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-03T20:08:31Z",
+                "open_issues": 8,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1331,
+                "stars": 1334,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -537,11 +537,11 @@
                 "id": 270116602,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-02T11:50:27Z",
+                "last_commit": "2026-11-03T00:48:11Z",
                 "open_issues": 8,
                 "owner": "Dillonb",
                 "repo": "n64",
-                "stars": 186,
+                "stars": 185,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -618,30 +618,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "simple64",
-              "description": "(GitHub) - A fork of Mupen64Plus that is easy to use and also more accurate.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Accurate N64 Emulator",
-                "homepage": null,
-                "id": 168172390,
-                "language": "C",
-                "license": "GPL-3.0",
-                "last_commit": "2025-02-14T21:28:44Z",
-                "open_issues": 45,
-                "owner": "simple64",
-                "repo": "simple64",
-                "stars": 1178,
-                "topics": [
-                  "emulation",
-                  "n64"
-                ]
-              },
-              "first_seen": "2026-08-28T23:13:21.320Z"
-            },
             {
               "node_type": "item",
               "title": "cen64",
@@ -966,7 +942,7 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-01T23:58:25Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "n64brew",
                 "repo": "N64FlashcartMenu",
                 "stars": 493,
@@ -999,7 +975,7 @@
                     "open_issues": 89,
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 547,
+                    "stars": 546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1469,7 +1445,7 @@
                 "open_issues": 40,
                 "owner": "jombo23",
                 "repo": "N64-Tools",
-                "stars": 337,
+                "stars": 336,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1490,7 +1466,7 @@
                 "open_issues": 7,
                 "owner": "sauraen",
                 "repo": "seq64",
-                "stars": 166,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2101,7 +2077,7 @@
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 579,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2405,7 +2381,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8953,
+                    "stars": 8952,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2426,7 +2402,7 @@
                     "open_issues": 69,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5640,
+                    "stars": 5639,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2447,7 +2423,7 @@
                     "open_issues": 12,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1770,
+                    "stars": 1772,
                     "topics": [
                       "decompilation"
                     ]
@@ -2470,7 +2446,7 @@
                     "open_issues": 35,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1637,
+                    "stars": 1636,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2497,7 +2473,7 @@
                     "open_issues": 37,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1318,
+                    "stars": 1317,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2560,7 +2536,7 @@
                     "open_issues": 6,
                     "owner": "zeldaret",
                     "repo": "af",
-                    "stars": 302,
+                    "stars": 303,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2602,7 +2578,7 @@
                     "open_issues": 0,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 272,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2879,7 +2855,7 @@
                     "open_issues": 2,
                     "owner": "mariopartyrd",
                     "repo": "marioparty",
-                    "stars": 85,
+                    "stars": 84,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3105,7 +3081,7 @@
                     "open_issues": 0,
                     "owner": "mariopartyrd",
                     "repo": "marioparty2",
-                    "stars": 57,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3122,7 +3098,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-02T18:27:03Z",
+                    "last_commit": "2026-11-03T18:28:59Z",
                     "open_issues": 1,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -3909,7 +3885,7 @@
                     "open_issues": 1,
                     "owner": "Mr-Wiseguy",
                     "repo": "f3dex2",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3974,7 +3950,7 @@
                     "open_issues": 0,
                     "owner": "dmkfasi",
                     "repo": "nus-cpu",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4082,7 +4058,7 @@
                 "open_issues": 40,
                 "owner": "jombo23",
                 "repo": "N64-Tools",
-                "stars": 337,
+                "stars": 336,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4393,7 +4369,7 @@
                 "open_issues": 22,
                 "owner": "hcs64",
                 "repo": "neon64v2",
-                "stars": 110,
+                "stars": 109,
                 "topics": [
                   "emulator",
                   "mips-assembly",
@@ -4495,7 +4471,7 @@
                     "open_issues": 17,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3284,
+                    "stars": 3286,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4512,7 +4488,7 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T20:41:01Z",
+                    "last_commit": "2026-11-03T00:18:35Z",
                     "open_issues": 583,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
@@ -4625,7 +4601,7 @@
                     "open_issues": 21,
                     "owner": "lambertjamesd",
                     "repo": "gb64",
-                    "stars": 111,
+                    "stars": 110,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5872,7 +5848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:28:38.791Z",
+    "last_updated": "2026-11-03T20:17:32.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
