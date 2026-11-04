@@ -321,7 +321,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-01T13:20:56Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "Kingcom",
             "repo": "armips",
             "stars": 416,
@@ -444,7 +444,7 @@
                 "open_issues": 283,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3067,
+                "stars": 3066,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -461,11 +461,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T20:08:31Z",
+                "last_commit": "2026-11-04T20:32:58Z",
                 "open_issues": 8,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1334,
+                "stars": 1337,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -488,7 +488,7 @@
                 "id": 294961602,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T23:38:16Z",
+                "last_commit": "2026-11-04T03:52:47Z",
                 "open_issues": 142,
                 "owner": "Rosalie241",
                 "repo": "RMG",
@@ -819,7 +819,7 @@
                 "open_issues": 17,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1175,
+                "stars": 1176,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -941,11 +941,11 @@
                 "id": 601806108,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-01T23:58:25Z",
-                "open_issues": 50,
+                "last_commit": "2026-11-04T06:57:11Z",
+                "open_issues": 51,
                 "owner": "n64brew",
                 "repo": "N64FlashcartMenu",
-                "stars": 493,
+                "stars": 494,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -975,7 +975,7 @@
                     "open_issues": 89,
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 546,
+                    "stars": 547,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2056,7 +2056,7 @@
                 "open_issues": 96,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1250,
+                "stars": 1251,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2381,7 +2381,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8952,
+                    "stars": 8956,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2399,7 +2399,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-18T12:31:57Z",
-                    "open_issues": 69,
+                    "open_issues": 70,
                     "owner": "zeldaret",
                     "repo": "oot",
                     "stars": 5639,
@@ -2670,7 +2670,7 @@
                     "open_issues": 2,
                     "owner": "harvestwhisperer",
                     "repo": "hm64-decomp",
-                    "stars": 225,
+                    "stars": 224,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2768,7 +2768,7 @@
                     "open_issues": 7,
                     "owner": "Mr-Wiseguy",
                     "repo": "banjo-tooie",
-                    "stars": 155,
+                    "stars": 156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2935,7 +2935,7 @@
                     "id": 375656792,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-02T00:53:40Z",
+                    "last_commit": "2026-11-03T22:37:53Z",
                     "open_issues": 2,
                     "owner": "Drahsid",
                     "repo": "mischief-makers",
@@ -3098,7 +3098,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-03T18:28:59Z",
+                    "last_commit": "2026-11-04T10:24:20Z",
                     "open_issues": 1,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -3151,6 +3151,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Pokémon Puzzle League",
+                  "description": "An in-progress decompilation of Pokémon Puzzle League",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Matching decomp of Pokémon Puzzle League",
+                    "homepage": "decomp.dev/AngheloAlf/puzzleleague64",
+                    "id": 610957587,
+                    "language": "C",
+                    "license": "MIT",
+                    "last_commit": "2026-11-01T15:07:47Z",
+                    "open_issues": 0,
+                    "owner": "AngheloAlf",
+                    "repo": "puzzleleague64",
+                    "stars": 44,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Aidyn Chronicles",
                   "description": "An in-progress decompilation of Aidyn Chronicles",
                   "children": [],
@@ -3172,27 +3193,6 @@
                       "nintendo-64",
                       "reverse-engineering"
                     ]
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Pokémon Puzzle League",
-                  "description": "An in-progress decompilation of Pokémon Puzzle League",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Matching decomp of Pokémon Puzzle League",
-                    "homepage": "decomp.dev/AngheloAlf/puzzleleague64",
-                    "id": 610957587,
-                    "language": "C",
-                    "license": "MIT",
-                    "last_commit": "2026-11-01T15:07:47Z",
-                    "open_issues": 0,
-                    "owner": "AngheloAlf",
-                    "repo": "puzzleleague64",
-                    "stars": 43,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -4032,7 +4032,7 @@
                 "open_issues": 67,
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 672,
+                "stars": 676,
                 "topics": [
                   "decompiler",
                   "mips",
@@ -4079,7 +4079,7 @@
                 "open_issues": 49,
                 "owner": "simonlindholm",
                 "repo": "decomp-permuter",
-                "stars": 239,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4471,7 +4471,7 @@
                     "open_issues": 17,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3286,
+                    "stars": 3287,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5848,7 +5848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:17:32.345Z",
+    "last_updated": "2026-11-04T20:33:39.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
