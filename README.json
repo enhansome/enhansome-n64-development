@@ -444,7 +444,7 @@
                 "open_issues": 283,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3067,
+                "stars": 3070,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -461,11 +461,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T20:43:22Z",
+                "last_commit": "2026-11-06T12:49:44Z",
                 "open_issues": 8,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1339,
+                "stars": 1342,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -537,7 +537,7 @@
                 "id": 270116602,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-03T00:48:11Z",
+                "last_commit": "2026-11-05T23:28:14Z",
                 "open_issues": 8,
                 "owner": "Dillonb",
                 "repo": "n64",
@@ -819,7 +819,7 @@
                 "open_issues": 17,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1176,
+                "stars": 1177,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -975,7 +975,7 @@
                     "open_issues": 89,
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 547,
+                    "stars": 548,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1800,7 +1800,7 @@
                 "open_issues": 42,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 379,
+                "stars": 380,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -1935,8 +1935,8 @@
                 "id": 1384860283,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T07:53:37Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-05T21:54:43Z",
+                "open_issues": 4,
                 "owner": "DerekTurtleRoe",
                 "repo": "Turtle64",
                 "stars": 13,
@@ -2077,7 +2077,7 @@
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 581,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2381,7 +2381,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8961,
+                    "stars": 8964,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2402,7 +2402,7 @@
                     "open_issues": 70,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5649,
+                    "stars": 5662,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2423,7 +2423,7 @@
                     "open_issues": 10,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1774,
+                    "stars": 1777,
                     "topics": [
                       "decompilation"
                     ]
@@ -2446,7 +2446,7 @@
                     "open_issues": 35,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1636,
+                    "stars": 1637,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2473,7 +2473,7 @@
                     "open_issues": 37,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1316,
+                    "stars": 1317,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2626,7 +2626,7 @@
                     "open_issues": 1,
                     "owner": "Erick194",
                     "repo": "DOOM64-RE",
-                    "stars": 238,
+                    "stars": 239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3012,7 +3012,7 @@
                     "open_issues": 0,
                     "owner": "Bomberhackers",
                     "repo": "bmhero",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3098,8 +3098,8 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-05T18:36:22Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-06T18:21:12Z",
+                    "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 46,
@@ -3151,6 +3151,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Aidyn Chronicles",
+                  "description": "An in-progress decompilation of Aidyn Chronicles",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation of Aidyn Chronicles: the First Mage on the Nintendo 64.",
+                    "homepage": null,
+                    "id": 358885922,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2026-10-26T07:49:03Z",
+                    "open_issues": 1,
+                    "owner": "blackgamma7",
+                    "repo": "Aidyn",
+                    "stars": 44,
+                    "topics": [
+                      "cpp",
+                      "n64",
+                      "nintendo-64",
+                      "reverse-engineering"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Pokémon Puzzle League",
                   "description": "An in-progress decompilation of Pokémon Puzzle League",
                   "children": [],
@@ -3167,32 +3193,6 @@
                     "repo": "puzzleleague64",
                     "stars": 44,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Aidyn Chronicles",
-                  "description": "An in-progress decompilation of Aidyn Chronicles",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation of Aidyn Chronicles: the First Mage on the Nintendo 64.",
-                    "homepage": null,
-                    "id": 358885922,
-                    "language": "C++",
-                    "license": null,
-                    "last_commit": "2026-10-26T07:49:03Z",
-                    "open_issues": 1,
-                    "owner": "blackgamma7",
-                    "repo": "Aidyn",
-                    "stars": 43,
-                    "topics": [
-                      "cpp",
-                      "n64",
-                      "nintendo-64",
-                      "reverse-engineering"
-                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3254,7 +3254,7 @@
                     "open_issues": 0,
                     "owner": "Drahsid",
                     "repo": "gauntlet-legends",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3275,7 +3275,7 @@
                     "open_issues": 0,
                     "owner": "LLONSIT",
                     "repo": "AeroGauge",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": [
                       "decompilation",
                       "lzma",
@@ -3321,7 +3321,7 @@
                     "open_issues": 11,
                     "owner": "MatBourgon",
                     "repo": "Gex64Decomp",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3342,7 +3342,7 @@
                     "open_issues": 0,
                     "owner": "AKI-Club",
                     "repo": "vpw2",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": [
                       "aki",
                       "n64",
@@ -3514,7 +3514,7 @@
                     "open_issues": 1,
                     "owner": "chameleonTwistRet",
                     "repo": "chameleonTwistv1.0-JP",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3647,6 +3647,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Chameleon Twist 2",
+                  "description": "An in-progress decompilation of Chameleon Twist 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 525145264,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-09-13T03:36:25Z",
+                    "open_issues": 0,
+                    "owner": "chameleonTwistRet",
+                    "repo": "chameleonTwist2v1.0-JP",
+                    "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Knife Edge: Nose Gunner",
                   "description": "Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for Knife Edge: Nose Gunner",
                   "children": [],
@@ -3689,27 +3710,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Chameleon Twist 2",
-                  "description": "An in-progress decompilation of Chameleon Twist 2",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 525145264,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-09-13T03:36:25Z",
-                    "open_issues": 0,
-                    "owner": "chameleonTwistRet",
-                    "repo": "chameleonTwist2v1.0-JP",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "The New Tetris",
                   "description": "An in-progress decompilation of The New Tetris",
                   "children": [],
@@ -3731,27 +3731,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Dark Rift",
-                  "description": "An in-progress decompilation of Dark Rift",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Dark Rift Decomp Project",
-                    "homepage": null,
-                    "id": 882671306,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-06-23T05:40:34Z",
-                    "open_issues": 1,
-                    "owner": "Unnunu",
-                    "repo": "darkrift",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Onegai Monsters",
                   "description": "An in-progress decompilation of Onegai Monsters",
                   "children": [],
@@ -3767,6 +3746,27 @@
                     "owner": "Ryan-Myers",
                     "repo": "onegaimonsters",
                     "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dark Rift",
+                  "description": "An in-progress decompilation of Dark Rift",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Dark Rift Decomp Project",
+                    "homepage": null,
+                    "id": 882671306,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-11-06T12:48:40Z",
+                    "open_issues": 1,
+                    "owner": "Unnunu",
+                    "repo": "darkrift",
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4004,7 +4004,7 @@
                 "open_issues": 4,
                 "owner": "nforest",
                 "repo": "awesome-decompilation",
-                "stars": 678,
+                "stars": 679,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4100,7 +4100,7 @@
                 "open_issues": 2,
                 "owner": "Decompollaborate",
                 "repo": "rabbitizer",
-                "stars": 185,
+                "stars": 184,
                 "topics": [
                   "disassembler",
                   "mips-assembly",
@@ -4471,7 +4471,7 @@
                     "open_issues": 17,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3287,
+                    "stars": 3290,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4488,7 +4488,7 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-05T20:16:10Z",
+                    "last_commit": "2026-11-06T19:33:20Z",
                     "open_issues": 583,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
@@ -4622,7 +4622,7 @@
                     "open_issues": 12,
                     "owner": "jnmartin84",
                     "repo": "64doom",
-                    "stars": 99,
+                    "stars": 98,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5848,7 +5848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:49:55.375Z",
+    "last_updated": "2026-11-06T20:06:03.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
