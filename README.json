@@ -159,7 +159,7 @@
             "open_issues": 4,
             "owner": "glankk",
             "repo": "n64",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
@@ -324,7 +324,7 @@
             "open_issues": 33,
             "owner": "Kingcom",
             "repo": "armips",
-            "stars": 417,
+            "stars": 418,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
@@ -440,11 +440,11 @@
                 "id": 26941088,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-08T09:27:39Z",
+                "last_commit": "2026-11-19T11:10:39Z",
                 "open_issues": 284,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3077,
+                "stars": 3079,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -461,11 +461,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T20:02:19Z",
+                "last_commit": "2026-11-19T14:01:46Z",
                 "open_issues": 9,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1366,
+                "stars": 1368,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -492,7 +492,7 @@
                 "open_issues": 144,
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -819,7 +819,7 @@
                 "open_issues": 18,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1177,
+                "stars": 1178,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -941,11 +941,11 @@
                 "id": 601806108,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-17T23:57:22Z",
+                "last_commit": "2026-11-19T19:40:22Z",
                 "open_issues": 52,
                 "owner": "n64brew",
                 "repo": "N64FlashcartMenu",
-                "stars": 496,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -1800,7 +1800,7 @@
                 "open_issues": 42,
                 "owner": "ethteck",
                 "repo": "splat",
-                "stars": 385,
+                "stars": 386,
                 "topics": [
                   "decompilation",
                   "n64",
@@ -2056,7 +2056,7 @@
                 "open_issues": 96,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1252,
+                "stars": 1251,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2184,7 +2184,7 @@
                 "id": 325400721,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-24T00:18:38Z",
+                "last_commit": "2026-11-19T02:11:44Z",
                 "open_issues": 1,
                 "owner": "matthewcpp",
                 "repo": "framework64",
@@ -2402,7 +2402,7 @@
                     "open_issues": 71,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5761,
+                    "stars": 5764,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2446,7 +2446,7 @@
                     "open_issues": 35,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1640,
+                    "stars": 1636,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2515,7 +2515,7 @@
                     "open_issues": 0,
                     "owner": "sonicdcer",
                     "repo": "sf64",
-                    "stars": 357,
+                    "stars": 358,
                     "topics": []
                   },
                   "first_seen": "2026-10-01T19:03:45.822Z"
@@ -2806,7 +2806,7 @@
                     "id": 749426781,
                     "language": "Assembly",
                     "license": null,
-                    "last_commit": "2026-09-26T02:48:02Z",
+                    "last_commit": "2026-11-19T13:47:18Z",
                     "open_issues": 0,
                     "owner": "LLONSIT",
                     "repo": "Wave-Race-64",
@@ -2831,7 +2831,7 @@
                     "language": "C",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-17T14:56:50Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "inspectredc",
                     "repo": "fzerox",
                     "stars": 111,
@@ -2935,8 +2935,8 @@
                     "id": 375656792,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-18T20:31:07Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-18T21:44:05Z",
+                    "open_issues": 2,
                     "owner": "Drahsid",
                     "repo": "mischief-makers",
                     "stars": 73,
@@ -2982,11 +2982,11 @@
                     "id": 338258341,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-16T20:27:21Z",
+                    "last_commit": "2026-11-19T07:21:28Z",
                     "open_issues": 0,
                     "owner": "mkst",
                     "repo": "sssv",
-                    "stars": 66,
+                    "stars": 67,
                     "topics": [
                       "decomp",
                       "decompilation",
@@ -3098,8 +3098,8 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-18T20:49:14Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-19T20:59:43Z",
+                    "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 46,
@@ -3338,7 +3338,7 @@
                     "id": 476578739,
                     "language": "Assembly",
                     "license": null,
-                    "last_commit": "2026-11-12T23:06:22Z",
+                    "last_commit": "2026-11-18T23:40:55Z",
                     "open_issues": 0,
                     "owner": "AKI-Club",
                     "repo": "vpw2",
@@ -4004,7 +4004,7 @@
                 "open_issues": 4,
                 "owner": "nforest",
                 "repo": "awesome-decompilation",
-                "stars": 681,
+                "stars": 680,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4032,7 +4032,7 @@
                 "open_issues": 66,
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 683,
+                "stars": 681,
                 "topics": [
                   "decompiler",
                   "mips",
@@ -4086,6 +4086,27 @@
             },
             {
               "node_type": "item",
+              "title": "asm-differ",
+              "description": "A script for MIPS assembly",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Assembly diff script",
+                "homepage": null,
+                "id": 183968585,
+                "language": "Python",
+                "license": "Unlicense",
+                "last_commit": "2026-09-06T17:39:36Z",
+                "open_issues": 35,
+                "owner": "simonlindholm",
+                "repo": "asm-differ",
+                "stars": 184,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:13:21.320Z"
+            },
+            {
+              "node_type": "item",
               "title": "rabbitizer",
               "description": "An API for decoding MIPS instructions",
               "children": [],
@@ -4106,27 +4127,6 @@
                   "mips-assembly",
                   "python"
                 ]
-              },
-              "first_seen": "2026-08-28T23:13:21.320Z"
-            },
-            {
-              "node_type": "item",
-              "title": "asm-differ",
-              "description": "A script for MIPS assembly",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Assembly diff script",
-                "homepage": null,
-                "id": 183968585,
-                "language": "Python",
-                "license": "Unlicense",
-                "last_commit": "2026-09-06T17:39:36Z",
-                "open_issues": 35,
-                "owner": "simonlindholm",
-                "repo": "asm-differ",
-                "stars": 183,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
             },
@@ -4492,7 +4492,7 @@
                     "open_issues": 585,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2095,
+                    "stars": 2096,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4622,7 +4622,7 @@
                     "open_issues": 12,
                     "owner": "jnmartin84",
                     "repo": "64doom",
-                    "stars": 98,
+                    "stars": 97,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5848,7 +5848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:36:56.709Z",
+    "last_updated": "2026-11-19T21:50:18.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
@@ -5860,7 +5860,7 @@
       "open_issues": 6,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
-      "stars": 591,
+      "stars": 590,
       "topics": [
         "asm",
         "assembler",
