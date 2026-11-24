@@ -61,7 +61,7 @@
             "open_issues": 20,
             "owner": "joeldipops",
             "repo": "TransferBoy",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "libdragon",
               "n64",
@@ -444,7 +444,7 @@
                 "open_issues": 284,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3080,
+                "stars": 3082,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -461,11 +461,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-22T20:01:56Z",
+                "last_commit": "2026-11-23T14:59:30Z",
                 "open_issues": 10,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1374,
+                "stars": 1375,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -489,10 +489,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-04T03:52:47Z",
-                "open_issues": 144,
+                "open_issues": 147,
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1161,
+                "stars": 1163,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -537,7 +537,7 @@
                 "id": 270116602,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-17T03:25:05Z",
+                "last_commit": "2026-11-23T22:44:55Z",
                 "open_issues": 8,
                 "owner": "Dillonb",
                 "repo": "n64",
@@ -819,7 +819,7 @@
                 "open_issues": 19,
                 "owner": "Polprzewodnikowy",
                 "repo": "SummerCart64",
-                "stars": 1178,
+                "stars": 1179,
                 "topics": [
                   "flashcart",
                   "n64"
@@ -945,7 +945,7 @@
                 "open_issues": 51,
                 "owner": "n64brew",
                 "repo": "N64FlashcartMenu",
-                "stars": 499,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -972,7 +972,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-22T10:49:40Z",
-                    "open_issues": 87,
+                    "open_issues": 89,
                     "owner": "Fast-64",
                     "repo": "fast64",
                     "stars": 553,
@@ -2073,7 +2073,7 @@
                 "id": 768839627,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-22T16:34:10Z",
+                "last_commit": "2026-11-22T23:29:09Z",
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
@@ -2381,7 +2381,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8990,
+                    "stars": 8991,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2398,11 +2398,11 @@
                     "id": 247875738,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-18T12:31:57Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-11-23T08:37:58Z",
+                    "open_issues": 71,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5785,
+                    "stars": 5789,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2578,7 +2578,7 @@
                     "open_issues": 0,
                     "owner": "VetriTheRetri",
                     "repo": "ssb-decomp-re",
-                    "stars": 275,
+                    "stars": 276,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2712,7 +2712,7 @@
                     "open_issues": 6,
                     "owner": "pret",
                     "repo": "pokestadium",
-                    "stars": 216,
+                    "stars": 217,
                     "topics": [
                       "c",
                       "disassembly",
@@ -2951,6 +2951,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Space Station Silicon Valley",
+                  "description": "An in-progress decompilation of Space Station Silicon Valley",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "WIP Space Station Silicon Valley N64 Decomp",
+                    "homepage": "https://sssv.deco.mp/",
+                    "id": 338258341,
+                    "language": "C",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-11-23T08:08:09Z",
+                    "open_issues": 0,
+                    "owner": "mkst",
+                    "repo": "sssv",
+                    "stars": 69,
+                    "topics": [
+                      "decomp",
+                      "decompilation",
+                      "n64",
+                      "rnc"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Castlevania 64",
                   "description": "An in-progress decompilation of Castlevania 64",
                   "children": [],
@@ -2967,32 +2993,6 @@
                     "repo": "cv64",
                     "stars": 68,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Space Station Silicon Valley",
-                  "description": "An in-progress decompilation of Space Station Silicon Valley",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "WIP Space Station Silicon Valley N64 Decomp",
-                    "homepage": "https://sssv.deco.mp/",
-                    "id": 338258341,
-                    "language": "C",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-11-19T07:21:28Z",
-                    "open_issues": 0,
-                    "owner": "mkst",
-                    "repo": "sssv",
-                    "stars": 68,
-                    "topics": [
-                      "decomp",
-                      "decompilation",
-                      "n64",
-                      "rnc"
-                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -3098,8 +3098,8 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-22T10:22:43Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-23T10:32:29Z",
+                    "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
                     "stars": 46,
@@ -3254,7 +3254,7 @@
                     "open_issues": 0,
                     "owner": "Drahsid",
                     "repo": "gauntlet-legends",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -3573,7 +3573,7 @@
                     "id": 931771804,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-14T21:25:55Z",
+                    "last_commit": "2026-11-23T11:57:46Z",
                     "open_issues": 0,
                     "owner": "klorfmorf",
                     "repo": "mnsg",
@@ -3836,7 +3836,7 @@
                     "open_issues": 5,
                     "owner": "jago85",
                     "repo": "UltraPIF_Hardware",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": [
                       "hardware",
                       "n64"
@@ -4032,7 +4032,7 @@
                 "open_issues": 66,
                 "owner": "matt-kempster",
                 "repo": "m2c",
-                "stars": 682,
+                "stars": 683,
                 "topics": [
                   "decompiler",
                   "mips",
@@ -4467,11 +4467,11 @@
                     "id": 1062843332,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-21T15:20:22Z",
+                    "last_commit": "2026-11-22T23:32:41Z",
                     "open_issues": 17,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3299,
+                    "stars": 3300,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4488,11 +4488,11 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-20T07:05:41Z",
-                    "open_issues": 584,
+                    "last_commit": "2026-11-23T08:18:42Z",
+                    "open_issues": 585,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2097,
+                    "stars": 2098,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -5848,7 +5848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:29:09.083Z",
+    "last_updated": "2026-11-24T01:14:10.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
