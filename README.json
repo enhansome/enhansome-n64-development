@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "n64dev",
             "repo": "cen64",
-            "stars": 837,
+            "stars": 838,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:21.320Z"
@@ -61,7 +61,7 @@
             "open_issues": 20,
             "owner": "joeldipops",
             "repo": "TransferBoy",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "libdragon",
               "n64",
@@ -441,10 +441,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-19T11:10:39Z",
-                "open_issues": 284,
+                "open_issues": 283,
                 "owner": "project64",
                 "repo": "project64",
-                "stars": 3083,
+                "stars": 3085,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -461,11 +461,11 @@
                 "id": 697523442,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T16:13:49Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-25T19:15:05Z",
+                "open_issues": 10,
                 "owner": "gopher64",
                 "repo": "gopher64",
-                "stars": 1377,
+                "stars": 1378,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -492,7 +492,7 @@
                 "open_issues": 147,
                 "owner": "Rosalie241",
                 "repo": "RMG",
-                "stars": 1164,
+                "stars": 1166,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -517,6 +517,43 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Our64",
+              "description": "A Nintendo 64 emulator for the Wii U, running natively under Aroma. It uses Not64's CPU recompiler and GLideN64's graphics with a new backend for the Wii U's GPU.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Nintendo 64 emulator for the Wii U, running natively under Aroma",
+                "homepage": null,
+                "id": 1442052452,
+                "language": "C",
+                "license": "GPL-2.0",
+                "last_commit": "2026-11-20T17:30:33Z",
+                "open_issues": 24,
+                "owner": "Ch0nbo",
+                "repo": "Our64",
+                "stars": 32,
+                "topics": [
+                  "aroma",
+                  "emulation",
+                  "emulator",
+                  "gliden64",
+                  "homebrew",
+                  "mupen64plus",
+                  "n64",
+                  "n64-emulator",
+                  "nintendo-64",
+                  "nintendo-wii-u",
+                  "not64",
+                  "retro-gaming",
+                  "wii-u",
+                  "wiiu",
+                  "wiiu-homebrew"
+                ]
+              },
+              "first_seen": "2026-11-25T22:48:49.736Z"
             }
           ],
           "description": null,
@@ -537,7 +574,7 @@
                 "id": 270116602,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-23T22:44:55Z",
+                "last_commit": "2026-11-25T17:47:48Z",
                 "open_issues": 8,
                 "owner": "Dillonb",
                 "repo": "n64",
@@ -634,7 +671,7 @@
                 "open_issues": 64,
                 "owner": "n64dev",
                 "repo": "cen64",
-                "stars": 837,
+                "stars": 838,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -971,11 +1008,11 @@
                     "id": 390460421,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-24T08:49:58Z",
-                    "open_issues": 88,
+                    "last_commit": "2026-11-25T16:34:07Z",
+                    "open_issues": 87,
                     "owner": "Fast-64",
                     "repo": "fast64",
-                    "stars": 553,
+                    "stars": 554,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2056,7 +2093,7 @@
                 "open_issues": 96,
                 "owner": "DragonMinded",
                 "repo": "libdragon",
-                "stars": 1251,
+                "stars": 1252,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2073,11 +2110,11 @@
                 "id": 768839627,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-24T18:04:40Z",
+                "last_commit": "2026-11-25T17:16:20Z",
                 "open_issues": 3,
                 "owner": "HailToDodongo",
                 "repo": "tiny3d",
-                "stars": 587,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2381,7 +2418,7 @@
                     "open_issues": 29,
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8992,
+                    "stars": 8991,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2402,7 +2439,7 @@
                     "open_issues": 70,
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5794,
+                    "stars": 5800,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2423,7 +2460,7 @@
                     "open_issues": 12,
                     "owner": "zeldaret",
                     "repo": "mm",
-                    "stars": 1795,
+                    "stars": 1797,
                     "topics": [
                       "decompilation"
                     ]
@@ -2446,7 +2483,7 @@
                     "open_issues": 35,
                     "owner": "pmret",
                     "repo": "papermario",
-                    "stars": 1635,
+                    "stars": 1634,
                     "topics": [
                       "decompilation",
                       "n64",
@@ -2473,7 +2510,7 @@
                     "open_issues": 37,
                     "owner": "n64decomp",
                     "repo": "mk64",
-                    "stars": 1319,
+                    "stars": 1320,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2494,7 +2531,7 @@
                     "open_issues": 4,
                     "owner": "DavidSM64",
                     "repo": "Diddy-Kong-Racing",
-                    "stars": 426,
+                    "stars": 427,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -2806,7 +2843,7 @@
                     "id": 749426781,
                     "language": "Assembly",
                     "license": null,
-                    "last_commit": "2026-11-19T13:47:18Z",
+                    "last_commit": "2026-11-25T06:05:23Z",
                     "open_issues": 0,
                     "owner": "LLONSIT",
                     "repo": "Wave-Race-64",
@@ -2961,7 +2998,7 @@
                     "id": 338258341,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-23T08:08:09Z",
+                    "last_commit": "2026-11-25T07:16:13Z",
                     "open_issues": 0,
                     "owner": "mkst",
                     "repo": "sssv",
@@ -3098,7 +3135,7 @@
                     "id": 276809202,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-24T12:15:42Z",
+                    "last_commit": "2026-11-25T21:59:15Z",
                     "open_issues": 2,
                     "owner": "jaytheham",
                     "repo": "body-harvest-decompilation",
@@ -3594,7 +3631,7 @@
                     "id": 816042765,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-24T20:33:17Z",
+                    "last_commit": "2026-11-25T17:26:21Z",
                     "open_issues": 0,
                     "owner": "adipocira",
                     "repo": "doraemon1",
@@ -4004,7 +4041,7 @@
                 "open_issues": 4,
                 "owner": "nforest",
                 "repo": "awesome-decompilation",
-                "stars": 680,
+                "stars": 681,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4467,11 +4504,11 @@
                     "id": 1062843332,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-22T23:32:41Z",
+                    "last_commit": "2026-11-25T17:22:23Z",
                     "open_issues": 17,
                     "owner": "HailToDodongo",
                     "repo": "pyrite64",
-                    "stars": 3301,
+                    "stars": 3303,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4488,11 +4525,11 @@
                     "id": 28119786,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-24T22:52:36Z",
-                    "open_issues": 585,
+                    "last_commit": "2026-11-25T19:55:35Z",
+                    "open_issues": 586,
                     "owner": "ClassiCube",
                     "repo": "ClassiCube",
-                    "stars": 2098,
+                    "stars": 2100,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
@@ -4719,7 +4756,7 @@
                     "open_issues": 0,
                     "owner": "meeq",
                     "repo": "flappybird-n64",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": [
                       "flappy-bird",
                       "flappy-bird-game",
@@ -4751,8 +4788,33 @@
                     "open_issues": 0,
                     "owner": "SiliconSloth",
                     "repo": "Mine64",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "mvs64",
+                  "description": "A NeoGeo emulator",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A NeoGeo emulator for Nintendo64",
+                    "homepage": null,
+                    "id": 361520249,
+                    "language": "C",
+                    "license": "MIT",
+                    "last_commit": "2024-08-17T17:21:02Z",
+                    "open_issues": 3,
+                    "owner": "rasky",
+                    "repo": "mvs64",
+                    "stars": 39,
+                    "topics": [
+                      "emulators",
+                      "homebrew",
+                      "n64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -4774,31 +4836,6 @@
                     "repo": "ultra64-demos",
                     "stars": 38,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "mvs64",
-                  "description": "A NeoGeo emulator",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A NeoGeo emulator for Nintendo64",
-                    "homepage": null,
-                    "id": 361520249,
-                    "language": "C",
-                    "license": "MIT",
-                    "last_commit": "2024-08-17T17:21:02Z",
-                    "open_issues": 3,
-                    "owner": "rasky",
-                    "repo": "mvs64",
-                    "stars": 38,
-                    "topics": [
-                      "emulators",
-                      "homebrew",
-                      "n64"
-                    ]
                   },
                   "first_seen": "2026-08-28T23:13:21.320Z"
                 },
@@ -5257,27 +5294,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "BrewChristmas",
-                  "description": "A single 3D holiday scene built using and",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A scene dedicated to celebrating the occasion of Christmas 2024 for the whole N64Brew community!",
-                    "homepage": null,
-                    "id": 909317369,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2025-01-25T04:56:03Z",
-                    "open_issues": 0,
-                    "owner": "SpookyIluha",
-                    "repo": "BrewChristmas",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:13:21.320Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "chip8-n64",
                   "description": "A CHIP-8 emulator, using",
                   "children": [],
@@ -5292,6 +5308,27 @@
                     "open_issues": 1,
                     "owner": "joshiggins",
                     "repo": "chip8-n64",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:13:21.320Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BrewChristmas",
+                  "description": "A single 3D holiday scene built using and",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A scene dedicated to celebrating the occasion of Christmas 2024 for the whole N64Brew community!",
+                    "homepage": null,
+                    "id": 909317369,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2025-01-25T04:56:03Z",
+                    "open_issues": 0,
+                    "owner": "SpookyIluha",
+                    "repo": "BrewChristmas",
                     "stars": 3,
                     "topics": []
                   },
@@ -5848,7 +5885,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:16:35.503Z",
+    "last_updated": "2026-11-25T22:48:49.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more",
@@ -5856,8 +5893,8 @@
       "id": 195496224,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-02T17:46:56Z",
-      "open_issues": 7,
+      "last_commit": "2026-11-25T01:51:41Z",
+      "open_issues": 6,
       "owner": "command-tab",
       "repo": "awesome-n64-development",
       "stars": 590,
@@ -5884,7 +5921,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "bdedcfc748f96f95e7218b338e9be415fc6b301d",
+    "original_repository_sha": "bbbe60bbc8fd40d4e612ce995de996cff9547649",
     "enhanced_repository": "enhansome/enhansome-n64-development",
     "enhanced_repository_description": null,
     "title": "Awesome N64 Development with stars"
